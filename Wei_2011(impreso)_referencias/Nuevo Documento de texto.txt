@@ -1,0 +1,83 @@
+APARTADO 1: INTRODUCTION
+
+12. Sohn SY. Multivariate meta-analysis with potentially correlated marketing study results. 
+    Naval Research Logistics 2000; 47(6):500–510. 
+    DOI: 10.1002/1520-6750(200009)47:6<500::AID-NAV3>3.0.CO;2-Z.
+16. Mavridis D, Salanti G. A practical introduction to multivariate meta-analysis. 
+    Statistical Methods in Medical Research 2012. DOI: 10.1177/0962280211432219. 
+    (Epub ahead of print). PEDIR A BILBIOTECA
+22. Lunn DJ, Thomas A, Best N, Spiegelhalter D. WinBUGS- a Bayesian modeling framework: concepts, 
+    structure, and extensibility. Statistics in Computing 2000; 10(4):325–337. 
+    DOI: 10.1002/sim.1410.
+23. White IR, Barrett JK, Jackson D, Higgins JPT. Estimation of consistency and inconsistency 
+    models in multiple treatments meta-analysis using data augmentation and multivariate 
+    meta-regression. Research Synthesis Methods 2012; 3(2):111–125. DOI: 10.1002/jrsm.1045.
+24. Lu G, Ades AE. Assessing evidence inconsistency in mixed treatment comparisons. Journal of 
+    the American Statistical Association 2006; 101:447–459. DOI: 10.1198/016214505000001302.
+25. Pinheiro JC, Bates DM. Unconstrained parameterisations for variance–covariance matrices. 
+    Statistics in Computing 1996; 6(3):289–296. DOI: 10.1007/BF00140873.
+26. Pullenayegum EM. An informed reference prior for between-study heterogeneity in meta-analyses 
+    of binary outcomes. Statistics in Medicine 2011; 30(26):3082–3094. DOI: 10.1002/sim.4326.
+27. Turner RM, Davey J, Clarke MJ, Thompson SG, Higgins JP. Predicting the extent of heterogeneity 
+    in meta-analysis, using empirical data from the Cochrane Database of Systematic Reviews. 
+    International Journal of Epidemiology 2012; 41(3):818–827. DOI: 10.1093/ije/dys041.
+
+APARTADO 3: BAYESIAN MODELLING FOR MULTIPLE OUTCOMES
+
+30. Cooper HM, Hedges LV. The Handbook of Research Synthesis. Russell Sage Foundation: 
+    New York, 1994.
+31. Lu G, Welton NJ, Higgins JPT, White IR, Ades AE. Linear inference for mixed treatment 
+    comparison meta-analysis: a two-stage approach. Research Synthesis Methods 2011; 2(1):43–60. 
+    DOI: 10.1002/jrsm.1059. PEDIR A BILBIOTECA
+35. Barnard J, McCulloch R, Meng XL. Modeling covariance matrices in terms of standard deviations 
+    and correlations, with application to shrinkage. Statistica Sinica 2000; 10(4):1281–1331.
+36. Daniels MJ, Pourahmadi M. Bayesian analysis of covariance matrices and dynamic models for 
+    longitudinal data. Biometrika 2002; 89(3):553–556. DOI: 10.1093/biomet/89.3.553.
+37. DanielsMJ, Kass RE. Nonconjugate bayesian estimation of covariance matrices and its use in 
+    hierarchical models. Journal of the American Statistical Association 1999; 94(448):1254–1263. DOI: 10.1080/01621459.1999.10473878.
+38. Leonard T, Hsu JS. Bayesian inference for a covariance matrix. 
+    Annals of Statistics 1992; 20(4):1669–1696. DOI: 10.1214/aos/1176348885. PEDIR BIBILIOTECA
+39. Pourahmadi M. Maximum likelihood estimation of generalised linear models for multivariate 
+    normal covariance matrix. Biometrika 2000; 87(2):425–435. DOI: 10.1093/biomet/87.2.425.
+40. Pourahmadi M. Joint mean-covariance models with applications to longitudinal data: 
+    Unconstrained parameterization. Biometrika 1999; 86(3):677–690. DOI: 10.1093/biomet/86.3.677.
+41. Yang R, Berger JO. Estimation of a covariance matrix using the reference prior. 
+    Annals of Statistics 1994; 22(3):1195–211. DOI: 10.1214/aos/1176325625. PEDIR BIBLIOTECA
+
+APARTADO 4: UNSTRUCTURED VARIANCE-COVARIANCE MATRIX
+
+32. Schervish M. Theory of Statistics. Springer-Verlag: New York, 1995.
+33. Spiegelhalter D, Thomas A, Best N, Lunn D. Winbugs User Manual 2003. 
+    Available from: http://www.mrc-bsu.cam.ac.uk/bugs/winbugs/manual14.pdf (accessed 11 October 2012).
+34. Lambert PC, Sutton AJ, Burton PR, Abrams KR, Jones DR. How vague is vague? A simulation study 
+    of the impact of the use of vague prior distributions in MCMC using WinBUGS. 
+    Statistics in Medicine 2005; 24(15):2401–2428. DOI: 10.1002/sim.2112.
+
+APARTADO 5: APPLICATION (1) UNSTRUCTURED VARIANCE-COVARIANCE MATRIX
+
+42. Lu G, Ades A. Modeling between-trial variance structure in mixed treatment comparisons. 
+    Biostatistics 2009; 10(4): 792–805. DOI: 10.1093/biostatistics/kxp032.
+43. Wei Y, Higgins JP. Estimating within-study covariances in multivariate meta-analysis with 
+    multiple outcomes. Statistics in Medicine 2012. DOI: 10.1002/sim.5679. (Epub ahead of print).
+44. Sturtz S, Ligges U, Gelman A. R2WinBUGS: A Package for Running WinBUGS from R. 
+    Journal of Statistical Software 2005; 12(3):1–16.
+
+APARTADO 6: STRUCTURED VARIANCE-COVARIANCE MATRIX
+
+47. Higgins J, Whitehead A. Borrowing strength from external trials in a meta-analysis. 
+    Statistics in Medicine 1996; 15(24):2733–2749. 
+    DOI: 10.1002/(SICI)1097-0258(19961230)15:24<2733::AID-SIM562>3.0.CO;2-0.
+48. Lumley T. Network meta-analysis for indirect treatment comparisons. 
+    Statistics in Medicine 2002; 21(16):2313–2324. DOI: 10.1002/sim.1201.
+
+APARTADO 8: DISCUSSION
+
+5. Hedges LV, Tipton E, Johnson MC. Robust variance estimation in meta-regression with depedent 
+   effect size estimates. Research Synthesis Methods 2010; 1(1):39–65. DOI: 10.1002/jrsm.5.
+   PEDIR BIBLIOTECA
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+Apartado 2: Bayesian analysis
+
+2. Lunn D, Spiegelhalter D, Thomas A, Best N. Rejoinder to commentaries on ‘The BUGS project: evolution, 
+   critique and future directions’. Statistics in Medicine 2009; 28(25):3081–3082.
+3. Rue H, Martino S. INLA: functions which allow to perform a full Bayesian analysis of structured 
+   additive models using Integrated Nested Laplace Approximation. 
+   R package version 0.1 2009. Available from http://www.r-inla.org [accessed 17 December 2010].
+5. Riley RD, Abrams KR, Sutton AJ, Lambert PC, Thompson JR. Bivariate random-effects meta-analysis and 
+   the estimation of between-study correlation. BMC Medical Research Methodology 2007; 7:3.

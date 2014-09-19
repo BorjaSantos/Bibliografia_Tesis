@@ -1,0 +1,1176 @@
+<1>
+Accession Number
+  2012706766
+Authors
+  Kayman D.J. Goldstein M.F.
+Institution
+  (Kayman, Goldstein) VISN 3 Mental Illness Research Education and Clinical Center, James J. Peters Veterans Affairs Medical Center, 130 West Kingsbridge Road, Bronx, NY, 10468, United States
+Correspondence Address
+  D. J. Kayman, VISN 3 Mental Illness Research Education and Clinical Center, James J. Peters Veterans Affairs Medical Center, 130 West Kingsbridge Road, Bronx, NY, 10468, United States. E-mail: Deborah.Kayman@va.gov
+Country of Publication
+  United States
+Title
+  Cognitive Deficits in Schizophrenia.
+Source
+  Current Translational Geriatrics and Gerontology Reports. 1 (1) (pp 45-52), 2012. Date of Publication: March 2012.
+Publisher
+  Current Medicine Group LLC (400 Market St, Ste 700 Philadelphia PA 19106, United States)
+KW Aging, Cognitive deficits, Cognitive function, Neurocognition, Remediation, Review, Schizophrenia, Social cognition, Social function, Treatment
+Subject Headings
+    cognition
+    *cognitive defect
+    cognitive therapy
+    electronic medical record
+    emotion
+    human
+    meta analysis (topic)
+    perception
+    priority journal
+    randomized controlled trial (topic)
+    review
+    *schizophrenia/dt [Drug Therapy]
+    *schizophrenia/th [Therapy]
+    social interaction
+    theory of mind
+    treatment outcome
+    cholinesterase inhibitor/dt [Drug Therapy]
+    donepezil/ct [Clinical Trial]
+    donepezil/dt [Drug Therapy]
+    galantamine/ct [Clinical Trial]
+    galantamine/dt [Drug Therapy]
+    placebo
+    rivastigmine/ct [Clinical Trial]
+    rivastigmine/dt [Drug Therapy]
+Abstract
+  Dysfunction in interpersonal relations, work, education, and/or self care is a hallmark of schizophrenia. Numerous studies have attempted to clarify how cognitive deficits may be related to patients' positive and negative symptoms and real-world functioning, and have evaluated interventions to improve patient outcomes. Though effective interventions have proven elusive, the literature continues to grow rapidly. This review of the most recent studies places them in the broader context of the evolution of knowledge of cognition, while focusing on the definition of cognitive domains, the ways in which cognitive deficits may be related to social functioning (among other aspects of real-world functioning), and the patterns and implications of cognitive deficits in old age with respect to patients' health and perceived quality of life. To date, lengthy, multifaceted interventions have shown the most promise. To improve self care, interventions targeting patients' dysfunctional beliefs about aging may be particularly helpful.  2012 Springer Science+Business Media, LLC (outside the USA).
+Number of References
+  28
+Embase Section Headings
+  Neurology and Neurosurgery [8]
+  Drug Literature Index [37]
+Drug Trade Names and Manufacturers
+  Eisai [Japan], Janssen [United States], Novartis [United States], Pfizer [United States], aricept: Eisai [Japan], aricept: Pfizer [United States], exelon: Novartis [United States], razadyne: Janssen [United States]
+CAS Registry Numbers
+  120011-70-3 (donepezil); 120014-06-4 (donepezil); 142057-77-0 (donepezil); 1953-04-4 (galantamine); 357-70-0 (galantamine); 129101-54-8 (rivastigmine)
+Electronic ISSN
+  2162-4941
+DOI
+  http://dx.doi.org/10.1007/s13670-012-0006-5
+Language
+  English
+Summary Language
+  English
+Publication Type
+  Journal: Review
+Entry Week
+  201405
+Date Delivered
+  20121213
+Revised Date
+  20140126
+Year of Publication
+  2012
+Copyright
+  Copyright 2014 Elsevier B.V., All rights reserved.
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed11&AN=2012706766
+
+<2>
+Accession Number
+  2014015241
+Authors
+  Vingerhoets W.A.M. Bloemen O.J.N. Bakker G. van Amelsvoort T.A.M.J.
+Institution
+  (Vingerhoets, Bloemen, Bakker, van Amelsvoort) Department of Psychiatry and Psychology, Maastricht University, Maastricht, Netherlands
+  (Vingerhoets, Bakker) Department of Nuclear Medicine, Academic Medical Centre, University of Amsterdam, Amsterdam, Netherlands
+Correspondence Address
+  W.A.M. Vingerhoets, Department of Psychiatry and Psychology, Maastricht University, Vijverdalseweg 1, Maastricht 6226 NB, Netherlands. E-mail: claudia.vingerhoets@maastrichtuniversity.nl
+Country of Publication
+  Switzerland
+Title
+  Pharmacological interventions for the MATRICS cognitive domains in schizophrenia: What's the evidence?.
+Source
+  Frontiers in Psychiatry. 4 (DEC) , 2013. Article Number: Article 157. Date of Publication: 2013.
+Publisher
+  Frontiers Media SA (EPFL Innovation Square, Building I, Lausanne CH-1015, Switzerland)
+KW Cognition, MATRICS, Neurotransmitters, Pharmacology, Schizophrenia
+URL
+  http://www.frontiersin.org/Journal/FullText.aspx?ART_DOI=10.3389/fpsyt.2013.00157&x=y#h17
+Subject Headings
+    alertness
+    attention
+    cognition
+    cognitive defect
+    drug mechanism
+    human
+    information processing
+    learning
+    memory consolidation
+    neuropharmacology
+    problem solving
+    randomized controlled trial (topic)
+    review
+    *schizophrenia/dt [Drug Therapy]
+    social cognition
+    systematic review
+    treatment outcome
+    working memory
+    amisulpride/ct [Clinical Trial]
+    amisulpride/cm [Drug Comparison]
+    amisulpride/dt [Drug Therapy]
+    amisulpride/pd [Pharmacology]
+    aripiprazole/ct [Clinical Trial]
+    aripiprazole/cb [Drug Combination]
+    aripiprazole/cm [Drug Comparison]
+    aripiprazole/dt [Drug Therapy]
+    aripiprazole/pd [Pharmacology]
+    bl 1020/ct [Clinical Trial]
+    bl 1020/cm [Drug Comparison]
+    bl 1020/dt [Drug Therapy]
+    bl 1020/pd [Pharmacology]
+    chlorprothixene/ct [Clinical Trial]
+    chlorprothixene/cm [Drug Comparison]
+    chlorprothixene/dt [Drug Therapy]
+    chlorprothixene/pd [Pharmacology]
+    citalopram/ct [Clinical Trial]
+    citalopram/dt [Drug Therapy]
+    citalopram/pd [Pharmacology]
+    clozapine/ct [Clinical Trial]
+    clozapine/cb [Drug Combination]
+    clozapine/cm [Drug Comparison]
+    clozapine/dt [Drug Therapy]
+    clozapine/pd [Pharmacology]
+    dexamphetamine/ct [Clinical Trial]
+    dexamphetamine/dt [Drug Therapy]
+    dexamphetamine/pd [Pharmacology]
+    dihydrexidine/ct [Clinical Trial]
+    dihydrexidine/dt [Drug Therapy]
+    dihydrexidine/pd [Pharmacology]
+    donepezil/ct [Clinical Trial]
+    donepezil/dt [Drug Therapy]
+    donepezil/pd [Pharmacology]
+    flupentixol/ct [Clinical Trial]
+    flupentixol/cm [Drug Comparison]
+    flupentixol/dt [Drug Therapy]
+    flupentixol/pd [Pharmacology]
+    fluphenazine/ct [Clinical Trial]
+    fluphenazine/cm [Drug Comparison]
+    fluphenazine/dt [Drug Therapy]
+    fluphenazine/pd [Pharmacology]
+    fluvoxamine/ct [Clinical Trial]
+    fluvoxamine/dt [Drug Therapy]
+    fluvoxamine/pd [Pharmacology]
+    haloperidol/ct [Clinical Trial]
+    haloperidol/cm [Drug Comparison]
+    haloperidol/dt [Drug Therapy]
+    haloperidol/pd [Pharmacology]
+    ispronicline/ct [Clinical Trial]
+    ispronicline/dt [Drug Therapy]
+    ispronicline/pd [Pharmacology]
+    loxapine/ct [Clinical Trial]
+    loxapine/cm [Drug Comparison]
+    loxapine/dt [Drug Therapy]
+    loxapine/pd [Pharmacology]
+    olanzapine/ct [Clinical Trial]
+    olanzapine/cb [Drug Combination]
+    olanzapine/cm [Drug Comparison]
+    olanzapine/dt [Drug Therapy]
+    olanzapine/pd [Pharmacology]
+    ondansetron/ct [Clinical Trial]
+    ondansetron/dt [Drug Therapy]
+    ondansetron/pd [Pharmacology]
+    paliperidone/ct [Clinical Trial]
+    paliperidone/cm [Drug Comparison]
+    paliperidone/dt [Drug Therapy]
+    paliperidone/pd [Pharmacology]
+    perazine/ct [Clinical Trial]
+    perazine/cm [Drug Comparison]
+    perazine/dt [Drug Therapy]
+    perazine/pd [Pharmacology]
+    perospirone/ct [Clinical Trial]
+    perospirone/cm [Drug Comparison]
+    perospirone/dt [Drug Therapy]
+    perospirone/pd [Pharmacology]
+    placebo
+    quetiapine/ct [Clinical Trial]
+    quetiapine/cm [Drug Comparison]
+    quetiapine/dt [Drug Therapy]
+    quetiapine/pd [Pharmacology]
+    risperidone/ct [Clinical Trial]
+    risperidone/cb [Drug Combination]
+    risperidone/cm [Drug Comparison]
+    risperidone/dt [Drug Therapy]
+    risperidone/pd [Pharmacology]
+    serotonin 2A antagonist/ct [Clinical Trial]
+    serotonin 2A antagonist/cm [Drug Comparison]
+    serotonin 2A antagonist/dt [Drug Therapy]
+    serotonin 2A antagonist/pd [Pharmacology]
+    sertindole/ct [Clinical Trial]
+    sertindole/cb [Drug Combination]
+    sertindole/dt [Drug Therapy]
+    sertindole/pd [Pharmacology]
+    tandospirone/ct [Clinical Trial]
+    tandospirone/dt [Drug Therapy]
+    tandospirone/pd [Pharmacology]
+    tropisetron/ct [Clinical Trial]
+    tropisetron/dt [Drug Therapy]
+    tropisetron/pd [Pharmacology]
+    unclassified drug
+    unindexed drug
+    ziprasidone/ct [Clinical Trial]
+    ziprasidone/dt [Drug Therapy]
+    ziprasidone/pd [Pharmacology]
+    zuclopenthixol/ct [Clinical Trial]
+    zuclopenthixol/cm [Drug Comparison]
+    zuclopenthixol/dt [Drug Therapy]
+    zuclopenthixol/pd [Pharmacology]
+Abstract
+  Schizophrenia is a disabling, chronic psychiatric disorder with a prevalence rate of 0.5-1% in the general population. Symptoms include positive (e.g., delusions, hallucinations), negative (e.g., blunted affect, social withdrawal), as well as cognitive symptoms (e.g., memory and attention problems). Although 75-85% of patients with schizophrenia report cognitive impairments, the underlying neuropharmacological mechanisms are not well understood and currently no effective treatment is available for these impairments. This has led to the Measurement and Treatment Research to Improve Cognition in Schizophrenia (MATRICS) initiative, which established seven cognitive domains that are fundamentally impaired in schizophrenia. These domains include verbal learning and memory, visual learning and memory, working memory, attention and vigilance, processing speed, reasoning and problem solving, and social cognition. Recently, a growing number of studies have been conducted trying to identify the underlying neuropharmacological mechanisms of cognitive impairments in schizophrenia patients. Specific cognitive impairments seem to arise from different underlying neuropharmacological mechanisms. However, most review articles describe cognition in general and an overview of the mechanisms involved in these seven separate cognitive domains is currently lacking. Therefore, we reviewed the underlying neuropharmacological mechanisms focusing on the domains as established by the MATRICS initiative which are considered most crucial in schizophrenia.  2013 Vingerhoets, Bloemen, Bakker and van Amelsvoort.
+Number of References
+  130
+Embase Section Headings
+  Neurology and Neurosurgery [8]
+  Psychiatry [32]
+  Drug Literature Index [37]
+Drug Trade Names and Manufacturers
+  azd 3480, bl 1020
+CAS Registry Numbers
+  71675-85-9 (amisulpride); 129722-12-9 (aripiprazole); 113-59-7 (chlorprothixene); 6469-93-8 (chlorprothixene); 59729-33-8 (citalopram); 5786-21-0 (clozapine); 1462-73-3 (dexamphetamine); 51-63-8 (dexamphetamine); 51-64-9 (dexamphetamine); 123039-93-0 (dihydrexidine); 120011-70-3 (donepezil); 120014-06-4 (donepezil); 142057-77-0 (donepezil); 2413-38-9 (flupentixol); 2709-56-0 (flupentixol); 146-56-5 (fluphenazine); 69-23-8 (fluphenazine); 54739-18-3 (fluvoxamine); 52-86-8 (haloperidol); 252870-53-4 (ispronicline); 482299-54-7 (ispronicline); 1977-10-2 (loxapine); 132539-06-1 (olanzapine); 103639-04-9 (ondansetron); 116002-70-1 (ondansetron); 99614-01-4 (ondansetron); 144598-75-4 (paliperidone); 199739-10-1 (paliperidone); 84-97-9 (perazine); 105981-50-8 (perospirone); 105981-51-9 (perospirone); 129273-38-7 (perospirone); 150915-41-6 (perospirone); 111974-72-2 (quetiapine); 106266-06-2 (risperidone); 106516-24-9 (sertindole); 112457-95-1 (tandospirone); 89565-68-4 (tropisetron); 118289-78-4 (ziprasidone); 122883-93-6 (ziprasidone); 138982-67-9 (ziprasidone); 199191-69-0 (ziprasidone); 53772-83-1 (zuclopenthixol)
+Electronic ISSN
+  1664-0640
+DOI
+  http://dx.doi.org/10.3389/fpsyt.2013.00157
+Language
+  English
+Summary Language
+  English
+Publication Type
+  Journal: Review
+Entry Week
+  201405
+Date Delivered
+  20140127
+Year of Publication
+  2013
+Copyright
+  Copyright 2014 Elsevier B.V., All rights reserved.
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed11&AN=2014015241
+
+<3>
+Accession Number
+  71278341
+Authors
+  Ikeda K. Hagino Y. Kasai S.
+Institution
+  (Ikeda, Hagino, Kasai) Addictive Substance Project, Tokyo, Japan
+Correspondence Address
+  K. Ikeda, Addictive Substance Project, Tokyo, Japan
+Title
+  Dopamine-independent motor control and hyperactivity involving acetylcholine systems.
+Source
+  Neuropsychopharmacology. Conference: 52nd Annual Meeting of the American College of Neuropsychopharmacology, ACNP 2013 Hollywood, FL United States. Conference Start: 20131208 Conference End: 20131212. Conference Publication: (var.pagings). 38  (pp S277-S278), 2013. Date of Publication: December 2013.
+Publisher
+  Nature Publishing Group
+KW Dopamine, Atypical antipsychotic drug, Clozapine, Motor control, Acetylcholine
+Subject Headings
+    *motor control
+    *hyperactivity
+    *psychopharmacology
+    *college
+    dopamine deficient mouse
+    Japan
+    schizophrenia
+    mouse
+    human
+    patient
+    psychosis
+    basal ganglion
+    corpus striatum
+    motor dysfunction
+    animal experiment
+    locomotion
+    gene
+    high performance liquid chromatography
+    electrochemical detection
+    housing
+    animal care
+    positive syndrome
+    knockout mouse
+    lethality
+    procedures
+    prevention
+    synthesis
+    modulation
+    cholinergic nerve cell
+    cholinergic system
+    brain
+    sensor
+    precursor
+    immunohistochemistry
+    promoter region
+    immunoblotting
+    feeding
+    metabolism
+    environment
+    hindlimb
+    agonist
+    computer program
+    image analysis
+    protein expression
+    walking
+    medicine
+    pedunculopontine tegmental nucleus
+    gait
+    camera
+    synaptic transmission
+    pathogenesis
+    pathophysiology
+    model
+    velocity
+    habituation
+    Parkinson disease
+    professional standard
+    mental disease
+    dopaminergic system
+    *acetylcholine
+    *dopamine
+    *clozapine
+    *atypical antipsychotic agent
+    cholinergic receptor stimulating agent
+    levodopa
+    neuroleptic agent
+    serotonin
+    choline acetyltransferase
+    donepezil
+    muscarinic agent
+    adrenalin
+    oxotremorine M
+    cholinergic receptor
+    haloperidol
+    noradrenalin
+    oxygenase
+    marker
+    esterase inhibitor
+    tyrosine 3 monooxygenase
+    DOPA
+    muscarinic receptor blocking agent
+Abstract
+  Background: The disruption of dopamine (DA) systems has been implicated in major neurological and psychiatric disorders, including Parkinson's disease (PD) and schizophrenia. However, effective movement in patients with Parkinson's disease in certain situations, kinesia paradoxa, and typical antipsychotic-resistant and atypical antipsychotic- sensitive positive symptoms of schizophrenia and their underlying mechanisms remain to be elucidated. Methods: The experimental procedures and housing conditions were approved by the Institutional Animal Care and Use Committee (Animal Experimentation Ethics Committee of Tokyo Metropolitan Institute of Medical Science, Approval ID: 12-43), and all of the animals were cared for and treated humanely in accordance with our institutional animal experimentation guidelines. Dopamine-deficient (DD) mice were generated using a transgenic rescue approach, in which tyrosine hydroxylase (TH) expression in noradrenergic and adrenergic cells in mice that lack TH expression was complemented by a specific DA b-hydroxylase gene promoter. These mice exhibited a restoration of norepinephrine (NE) and epinephrine synthesis and prevention of the usual perinatal lethality and cardiac dysfunction observed in TH knockout mice. Dopamine, serotonin, NE, and acetylcholine (ACh) concentrations in brain microdialysates were determined by high-performance liquid chromatography with electrochemical detection (HTEC-500, Eicom, Kyoto, Japan). Locomotor activity was measured with Supermex (Muromachi Kikai, Tokyo, Japan) and a sensor monitor mounted above the chamber. After a 180 min habituation period, the drugs were administered subcutaneously, and locomotor activity was monitored continuously for 180 min. The mice walked freely on the runway, and their locomotor movements were recorded at 200 frames per second using a high-speed digital image camera system (HAS-220, DITECT, Tokyo, Japan). Movement analyses were limited to the sagittal plane parallel to the direction of walking. Custom-designed image analysis software (DIPP-Motion 2D, DITECT, Tokyo, Japan) was used to extract the two-dimensional coordinates of the various joint markers and reconstruct a stick diagram representation of the right hindlimb. The expression profiles of the genes related to ACh metabolism and signaling transduction pathways were analyzed using the Illumina iScan system with MouseRef-8 Expression Bead- Chips (Illumina, San Diego, CA, USA), which contain probes that detect over 24 000 transcripts. Immunoblot analysis and immunohistochemistry were also performed. Results: The present study showed that DD mice can move effectively and are rather hyperactive. DD mice require daily administration of L-dihydroxyphenylalanine (L-DOPA), the precursor of DA, to maintain feeding. After 3 days withdrawal from L-DOPA, their striatal extracellular DA levels fell to less than 0.2% of wildtype mice, and they were hyperactive with a slight movement disorder in a novel environment. The atypical antipsychotic drug clozapine markedly ameliorated this hyperactivity, with no effect of the typical antipsychotic drug haloperidol. Furthermore, the nonselective muscarinic ACh receptor agonist oxotremorine- M and ACh esterase inhibitor donepezil blocked hyperactivity in DD mice. These mice exhibited a reduction of choline acetyltransferase (ChAT) gene and protein expression in the basal ganglia and a reduction of extracellular ACh levels in the striatum, suggesting that reduced cholinergic function may underlie hyperactivity in DD mice. Conclusions: The DD mice in the present study revealed a novel motor-control and hyperactivity mechanism that is independent of DA and involves ACh systems. The activity of ChAT has been found to be normal or reduced in the striatum in PD patients. Furthermore, the basal ganglia are interconnected with the pedunculopontine nucleus (PPN). The PPN is thought to be involved in the initiation and modulation of gait and other stereotyped movements. In PD patients, the loss of cholinergic neurons in the PPN has been reported. The decrease in dopaminergic neuronal transmission in the basal ganglia might result in the inactivation of the PPN in PD patients and DD mice. The present results, together with previous findings, suggest that the ACh systems may be involved in the mechanisms that underlie DA-independent motor control, and motor impairment in PD patients may be ameliorated by DAindependent mechanisms. Although DA plays a prominent role in the pathogenesis and treatment of schizophrenia, several lines of evidence suggest an important role for the cholinergic system in the pathophysiology of schizophrenia. Hyperactivity induced by muscarinic receptor antagonists has been suggested to model antimuscarinic psychosis and cholinergic-related psychosis in schizophrenia. Hyperactivity in DD mice was ameliorated by a muscarinic receptor agonist in the present study, suggesting that such hyperactivity may be induced by similar mechanisms that underlie cholinergic-related psychosis in schizophrenia. DD mice might be useful for the identification of the neuronal mechanisms involved in cholinergic-related psychosis in schizophrenia.
+ISSN
+  0893-133X
+DOI
+  http://dx.doi.org/10.1038/npp.2013.280
+Language
+  English
+Summary Language
+  English
+Publication Type
+  Journal: Conference Abstract
+Entry Week
+  201402
+Date Delivered
+  20140106
+Year of Publication
+  2013
+Copyright
+  Copyright 2014 Elsevier B.V., All rights reserved.
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed11&AN=71278341
+
+<4>
+Accession Number
+  2013787816
+Authors
+  Sugarman P. Mitchell A. Frogley C. Dickens G.L. Picchioni M.
+Institution
+  (Picchioni) St Andrew's Healthcare, St Andrew's Academic Centre, Billing Road, Northampton, NN1 5BW, United Kingdom
+  (Sugarman) St Andrew's Healthcare, Northampton, United Kingdom
+  (Mitchell, Frogley, Dickens) St Andrew's Healthcare, St Andrew's Academic Centre, Northampton, United Kingdom
+Correspondence Address
+  M. Picchioni, St Andrew's Healthcare, St Andrew's Academic Centre, Billing Road, Northampton, NN1 5BW, United Kingdom. E-mail: mpicchioni@standrew.co.uk
+Country of Publication
+  United Kingdom
+Title
+  Off-licence prescribing and regulation in psychiatry: Current challenges require a new model of governance.
+Source
+  Therapeutic Advances in Psychopharmacology. 3 (4) (pp 233-243), 2013. Date of Publication: 2013.
+Publisher
+  SAGE Publications Ltd (55 City Road, London EC1Y 1SP, United Kingdom)
+KW Antidepressants, Antipsychotics, Mental health, Off-label prescription, Off-licence, Pharmacotherapy, Psychotropic medication, Repurposing
+Subject Headings
+    aggression
+    agitation
+    Alzheimer disease/dt [Drug Therapy]
+    anxiety
+    article
+    bipolar disorder/dt [Drug Therapy]
+    child psychiatry
+    clinical effectiveness
+    clinical practice
+    comorbidity
+    drug approval
+    drug efficacy
+    drug research
+    drug safety
+    general practitioner
+    *health care quality
+    hospital patient
+    human
+    intellectual impairment
+    *licence
+    long term care
+    mania/dt [Drug Therapy]
+    mental health care
+    monoaminergic system
+    mortality
+    *off label drug use
+    open study
+    patient monitoring
+    patient safety
+    posttraumatic stress disorder/dt [Drug Therapy]
+    *prescription
+    priority journal
+    *psychiatry
+    QT prolongation/si [Side Effect]
+    randomized controlled trial (topic)
+    risk management
+    schizoaffective psychosis/dt [Drug Therapy]
+    schizophrenia/dt [Drug Therapy]
+    seizure/dt [Drug Therapy]
+    suicidal behavior/si [Side Effect]
+    agomelatine/cb [Drug Combination]
+    amitriptyline/dt [Drug Therapy]
+    anticonvulsive agent/cb [Drug Combination]
+    carbamazepine/dt [Drug Therapy]
+    diazepam
+    donepezil/dt [Drug Therapy]
+    galantamine/dt [Drug Therapy]
+    lorazepam
+    mirtazapine/dt [Drug Therapy]
+    olanzapine/dt [Drug Therapy]
+    paroxetine/dt [Drug Therapy]
+    phenelzine/dt [Drug Therapy]
+    placebo
+    *psychotropic agent
+    risperidone/dt [Drug Therapy]
+    rivastigmine/dt [Drug Therapy]
+    serotonin uptake inhibitor/ae [Adverse Drug Reaction]
+    valproic acid/dt [Drug Therapy]
+    ziprasidone/ae [Adverse Drug Reaction]
+Abstract
+  The growing worldwide use of pharmaceuticals is managed in some countries by a regulatory system which sharply divides legal use into licensed and unlicensed categories. We examine how for the range of psychotropics this simultaneously restricts the possible benefits to patients, prescribers and producers in some domains, while failing to manage the risks in others. A more flexible system, which shares at an earlier stage experience and evidence on benefits and risks in patients, previously marginalized on the grounds of age, diagnosis or comorbidity, would aid the development of safer, more effective 'real-world prescribing'. Practical recommendations are made for a new model of research and prescribing governance, to enable more effective repurposing of these treatments.  The Author(s), 2013.
+Number of References
+  88
+Embase Section Headings
+  Psychiatry [32]
+  Drug Literature Index [37]
+  Adverse Reactions Titles [38]
+Drug Trade Names and Manufacturers
+  Astra Zeneca, Glaxo SmithKline, Pfizer
+CAS Registry Numbers
+  138112-76-2 (agomelatine); 50-48-6 (amitriptyline); 549-18-8 (amitriptyline); 298-46-4 (carbamazepine); 8047-84-5 (carbamazepine); 439-14-5 (diazepam); 120011-70-3 (donepezil); 120014-06-4 (donepezil); 142057-77-0 (donepezil); 1953-04-4 (galantamine); 357-70-0 (galantamine); 846-49-1 (lorazepam); 61337-67-5 (mirtazapine); 132539-06-1 (olanzapine); 61869-08-7 (paroxetine); 156-51-4 (phenelzine); 51-71-8 (phenelzine); 106266-06-2 (risperidone); 129101-54-8 (rivastigmine); 1069-66-5 (valproic acid); 99-66-1 (valproic acid); 118289-78-4 (ziprasidone); 122883-93-6 (ziprasidone); 138982-67-9 (ziprasidone); 199191-69-0 (ziprasidone)
+ISSN
+  2045-1253
+Electronic ISSN
+  2045-1261
+DOI
+  http://dx.doi.org/10.1177/2045125312472530
+Language
+  English
+Summary Language
+  English
+Publication Type
+  Journal: Article
+Entry Week
+  201401
+Date Delivered
+  20131227
+Year of Publication
+  2013
+Copyright
+  Copyright 2013 Elsevier B.V., All rights reserved.
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed11&AN=2013787816
+
+<5>
+Accession Number
+  71233444
+Authors
+  Ballesteros J. Guillen V. Zabala A. Santos B. Rueda J.R. Sola I.
+Institution
+  (Ballesteros, Guillen, Zabala, Santos, Rueda) University of the Basque Country, UPV/EHU, Leioa, Spain
+  (Sola) IberoAmerican Cochrane Center, Barcelona, Spain
+Correspondence Address
+  J. Ballesteros, University of the Basque Country, UPV/EHU, Leioa, Spain
+Title
+  Clinical outcomes in schizophrenia treated with donepezil in combination with antipsychotics.
+Source
+  Value in Health. Conference: ISPOR 16th Annual European Congress Dublin Ireland. Conference Start: 20131102 Conference End: 20131106. Conference Publication: (var.pagings). 16 (7) (pp A542), 2013. Date of Publication: November 2013.
+Publisher
+  Elsevier Ltd
+Subject Headings
+    *schizophrenia
+    Positive and Negative Syndrome Scale
+    mental disease
+    meta analysis
+    positive syndrome
+    crossover procedure
+    sample size
+    effect size
+    clinical trial (topic)
+    depression
+    human
+    patient
+    systematic review
+    adjuvant therapy
+    negative syndrome
+    enhancer region
+    *donepezil
+    placebo
+Abstract
+  Objectives: To assess the efficacy of a cognitive enhancer, donepezil, as an adjuvant treatment to antipsychotics on clinical outcomes of schizophrenia. Methods: Systematic review with meta-analysis to obtain appropriate evidence from randomized clinical trials (RCTs) on the efficacy of donepezil plus antipsychotics versus placebo plus antipsychotics in patients diagnosed with schizophrenia for the following outcomes: General psychopathology, positive/negative symptoms, and depressive symptoms. Effect size estimates corrected for small sample size trials (Hedges' g) were calculated for parallel trials and cross-over trials. Negative values for Hedges' g denote an effect favouring the combined treatment. When needed, values for the cross-over correlation were imputed from available individual data to obtain the Hedges' g estimates. The individual estimates were pooled with a random-effects meta-analysis. Results: Seven trials (4 cross-over, 3 parallel) were included. Four trials provided data on the Positive and Negative Syndrome Scale (PANSS) for total and general psychopathology scores. Three trials provided data for PANSS positive scores and 5 trials provided data for PANSS negative scores. Three trials provided data on depression scores. The combined treatment did not show differences in any of the assessed outcomes: PANSS total scores (g = -0.57, 95% CI = -2.11 to 0.96 I2 = 67%); PANSS General Psychopathology scores (g = -0.20, 95% CI = -0.74 to 0.34 I2 = 0%); PANSS positive symptoms (g = -0.06, 95% CI = -0.73 to 0.60, I2 = 0%); PANSS negative symptoms (g = -0.43, 95% CI = -1.98 to 1.12, I2 = 86%); depression scores (g = -0.35, 95% CI = -1.20 to 0.49, I2 = 0%). Conclusions: The combination of donepezil with antipsychotic treatment does not improve clinical outcomes in schizophrenia.
+ISSN
+  1098-3015
+DOI
+  http://dx.doi.org/10.1016/j.jval.2013.08.1374
+Language
+  English
+Summary Language
+  English
+Publication Type
+  Journal: Conference Abstract
+Entry Week
+  201348
+Date Delivered
+  20131126
+Year of Publication
+  2013
+Copyright
+  Copyright 2013 Elsevier B.V., All rights reserved.
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed11&AN=71233444
+
+<6>
+Accession Number
+  2013704089
+Authors
+  Cano-Cuenca N. Del Pozo J.E.S.-G. Jordan J.
+Institution
+  (Cano-Cuenca, Jordan) Grupo Neurofarmacologia, Departamento de Ciencias Medicas, Universidad de Castilla-La Mancha, Calle Almansa, 14, Albacete-02008, Spain
+  (Cano-Cuenca) Servicio de Farmacia, Complejo Hospitalario de Albacete, Albacete, Spain
+  (Del Pozo) Servicio de Medicina Interna, Hospital General de Villarrobledo, Albacete, Spain
+  (Jordan) Grupo de Neurofarmacologia, Instituto de Investigacion en Discapacidades Neurologicas- UCLM, Albacete, Spain
+Correspondence Address
+  J. Jordan, Grupo Neurofarmacologia, Departamento de Ciencias Medicas, Universidad de Castilla-La Mancha, Calle Almansa, 14, Albacete-02008, Spain. E-mail: joaquin.jordan@uclm.es
+Country of Publication
+  Netherlands
+Title
+  Evidence for the efficacy of latrepirdine (dimebon) treatment for improvement of cognitive function: A meta-analysis.
+Source
+  Journal of Alzheimer's Disease. 38 (1) (pp 155-164), 2014. Date of Publication: 2014.
+Publisher
+  IOS Press (Nieuwe Hemweg 6B, Amsterdam 1013 BG, Netherlands)
+KW Alzheimer's disease, clinical trials, cognition function, dimebon, Huntington's disease, schizophrenia
+Subject Headings
+    Abnormal Involuntary Movement Scale
+    Alzheimer disease
+    Alzheimer Disease Assessment Scale
+    alzheimer disease assessment scale cognitive subscale
+    alzheimer disease cooperative study activities of daily living
+    article
+    Barnes Akathisia Scale
+    Butakina scale
+    Calgary Depression Scale
+    clinical assessment tool
+    Clinician Interview Based Impression of Change plus Caregiver Imput
+    *cognition
+    *degenerative disease
+    dose response
+    drug dose titration
+    drug effect
+    drug efficacy
+    drug safety
+    drug tolerability
+    drug withdrawal
+    fatigue/si [Side Effect]
+    Hasegawa scale
+    human
+    Huntington chorea
+    loading drug dose
+    meta analysis
+    Mini Mental State Examination
+    phase 1 clinical trial (topic)
+    phase 2 clinical trial (topic)
+    phase 3 clinical trial (topic)
+    Positive and Negative Syndrome Scale
+    priority journal
+    randomized controlled trial (topic)
+    rating scale
+    schizophrenia
+    Simpson-Angus Scale
+    Unified Huntington Disease Rating Scale
+    xerostomia/si [Side Effect]
+    *dimebon/ae [Adverse Drug Reaction]
+    *dimebon/ct [Clinical Trial]
+    *dimebon/cb [Drug Combination]
+    *dimebon/do [Drug Dose]
+    donepezil/cb [Drug Combination]
+    placebo
+    warfarin/cb [Drug Combination]
+Abstract
+  Over the last few years, latrepirdine, a demode antihistamine drug, has been proposed to be useful for treating neurodegenerative disorders such as Alzheimer's and Huntington's diseases, and more recently schizophrenia. The mechanisms and pharmacological targets that are responsible for the beneficial effects on neurodegenerative diseases remain unknown. But it has been proposed that latrepirdine may modulate several targets including voltage-gate Ca<sup>+2</sup> channels, mitochondrial permeability pore transition, or several neurotransmitter receptors. Herein, we present a meta-analysis of randomized controlled trials to ascertain the efficacy and safety of latrepirdine on cognitive function. By doing a search in electronic databases, we found five clinical trials in which the effect of latrepirdine on cognition function has been studied, and this was evaluated using MMSE, ADAS-cog, ADCS-ADL, and NPI scores. Latrepirdine generally presented a good safety profile; it was well tolerated when given alone or in combination with a variety of other drugs. We observed heterogeneous results between trials; latrepirdine failed to exert a significant beneficial effect although it tended to improve cognitive scores. The only significant benefit that we found was for the NPI score in Alzheimer's disease patients.  2014 A IOS Press and the authors. All rights reserved.
+Number of References
+  41
+Embase Section Headings
+  Neurology and Neurosurgery [8]
+  Drug Literature Index [37]
+  Adverse Reactions Titles [38]
+Drug Trade Names and Manufacturers
+  dimebon
+CAS Registry Numbers
+  12687-54-6 (dimebon); 20684-30-4 (dimebon); 3613-73-8 (dimebon); 97657-92-6 (dimebon); 120011-70-3 (donepezil); 120014-06-4 (donepezil); 142057-77-0 (donepezil); 129-06-6 (warfarin); 2610-86-8 (warfarin); 3324-63-8 (warfarin); 5543-58-8 (warfarin); 81-81-2 (warfarin)
+ISSN
+  1387-2877
+Electronic ISSN
+  1875-8908
+DOI
+  http://dx.doi.org/10.3233/JAD-130872
+CODEN
+  JADIF
+Language
+  English
+Summary Language
+  English
+Publication Type
+  Journal: Article
+Entry Week
+  201347
+Date Delivered
+  20131119
+Year of Publication
+  2014
+Copyright
+  Copyright 2013 Elsevier B.V., All rights reserved.
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed11&AN=2013704089
+
+<7>
+Accession Number
+  2013704209
+Authors
+  Skripka-Serry J.
+Institution
+  (Skripka-Serry) Bioassociat, Israel
+Correspondence Address
+  J. Skripka-Serry, Bioassociat, Israel
+Country of Publication
+  United Kingdom
+Title
+  The great neuro-pipeline 'brain drain' (and why Big Pharma hasn't given up on CNS disorders).
+Source
+  Drug Discovery World. 14 (4) (pp 9-16), 2013. Date of Publication: Fall 2013.
+Publisher
+  RJ Communications and Media Ltd. (39 Vineyard Path, Mortlake London SW14 8ET, United Kingdom)
+Subject Headings
+    Alzheimer disease/dm [Disease Management]
+    Alzheimer disease/dt [Drug Therapy]
+    amyotrophic lateral sclerosis/dm [Disease Management]
+    autism/dm [Disease Management]
+    autism/dt [Drug Therapy]
+    bipolar disorder/dm [Disease Management]
+    bipolar disorder/dt [Drug Therapy]
+    blindness/dm [Disease Management]
+    blindness/su [Surgery]
+    *central nervous system disease
+    cerebrovascular accident/dm [Disease Management]
+    chronic pain/dm [Disease Management]
+    chronic pain/dt [Drug Therapy]
+    chronic pain/ep [Epidemiology]
+    cluster headache/dm [Disease Management]
+    depression/dm [Disease Management]
+    depression/dt [Drug Therapy]
+    depression/th [Therapy]
+    drug industry
+    drug treatment failure
+    epilepsy/dm [Disease Management]
+    epilepsy/dt [Drug Therapy]
+    epilepsy/su [Surgery]
+    head injury/dm [Disease Management]
+    health care cost
+    hearing aid
+    hearing impairment/dm [Disease Management]
+    human
+    migraine/dm [Disease Management]
+    migraine/dt [Drug Therapy]
+    multiple sclerosis/dm [Disease Management]
+    neurosurgery
+    Parkinson disease/dm [Disease Management]
+    Parkinson disease/dt [Drug Therapy]
+    placebo effect
+    prevalence
+    retinal implant
+    review
+    schizophrenia/dm [Disease Management]
+    schizophrenia/dt [Drug Therapy]
+    spinal cord injury/dm [Disease Management]
+    transcranial magnetic stimulation
+    vagus nerve stimulation
+    anticonvulsive agent/dt [Drug Therapy]
+    antidepressant agent/dt [Drug Therapy]
+    atypical antipsychotic agent/dt [Drug Therapy]
+    beta secretase 1
+    beta secretase inhibitor/dt [Drug Therapy]
+    beta1a interferon/dt [Drug Therapy]
+    botulinum toxin A/dt [Drug Therapy]
+    carbamazepine/dt [Drug Therapy]
+    donepezil/dt [Drug Therapy]
+    ergotamine derivative/dt [Drug Therapy]
+    galantamine/dt [Drug Therapy]
+    gantenerumab/dt [Drug Therapy]
+    lamotrigine/dt [Drug Therapy]
+    lithium/dt [Drug Therapy]
+    memantine/dt [Drug Therapy]
+    mk 8931/dt [Drug Therapy]
+    mood stabilizer/dt [Drug Therapy]
+    neuroleptic agent/dt [Drug Therapy]
+    noradrenalin uptake inhibitor/dt [Drug Therapy]
+    pramipexole/dt [Drug Therapy]
+    rivastigmine/dt [Drug Therapy]
+    serotonin noradrenalin reuptake inhibitor/dt [Drug Therapy]
+    serotonin uptake inhibitor/dt [Drug Therapy]
+    solanezumab
+    spi 1865/dt [Drug Therapy]
+    steroid/dt [Drug Therapy]
+    topiramate/dt [Drug Therapy]
+    unclassified drug
+    unindexed drug
+    valproic acid/dt [Drug Therapy]
+    vigabatrin/dt [Drug Therapy]
+Abstract
+  Central Nervous System (CNS) disorders bear an economic burden of more than $2 trillion in the US and EU and rake in upwards of $80 billion a year for the pharmaceutical industry. Yet they have become as much a vice as a potential virtue. A novel Alzheimer's disease (AD) medication bears every promise of outshining the likes of Lipitor in blockbuster status, but its chances of reaching the market are also nearly 50% lower, and development costs 30% higher, than those of its cardiovascular counterpart.
+Number of References
+  6
+Embase Section Headings
+  Neurology and Neurosurgery [8]
+  Public Health, Social Medicine and Epidemiology [17]
+  Health Policy, Economics and Management [36]
+  Drug Literature Index [37]
+Drug Trade Names and Manufacturers
+  Hoffmann La Roche, Merck, mk 8931: Merck, spi 1865
+CAS Registry Numbers
+  1309378-01-5 (botulinum toxin A); 93384-43-1 (botulinum toxin A); 298-46-4 (carbamazepine); 8047-84-5 (carbamazepine); 120011-70-3 (donepezil); 120014-06-4 (donepezil); 142057-77-0 (donepezil); 1953-04-4 (galantamine); 357-70-0 (galantamine); 1043556-46-2 (gantenerumab); 84057-84-1 (lamotrigine); 7439-93-2 (lithium); 19982-08-2 (memantine); 41100-52-1 (memantine); 51052-62-1 (memantine); 104632-25-9 (pramipexole); 104632-26-0 (pramipexole); 129101-54-8 (rivastigmine); 955085-14-0 (solanezumab); 97240-79-4 (topiramate); 1069-66-5 (valproic acid); 99-66-1 (valproic acid); 60643-86-9 (vigabatrin)
+ISSN
+  1469-4344
+Language
+  English
+Summary Language
+  English
+Publication Type
+  Journal: Review
+Entry Week
+  201347
+Date Delivered
+  20131119
+Year of Publication
+  2013
+Copyright
+  Copyright 2013 Elsevier B.V., All rights reserved.
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed11&AN=2013704209
+
+<8>
+Accession Number
+  2013662858
+Authors
+  Keefe R.S.E. Kraemer H.C. Epstein R.S. Frank E. Haynes G. Laughren T.P. McNulty J. Reed S.D. Sanchez J. Leon A.C.
+Institution
+  (Keefe) Duke University Medical Center, Durham, NC, United States
+  (Kraemer) Stanford University (Emerita), Stanford, CA, United States
+  (Kraemer) University of Pittsburgh, Pittsburgh, PA, United States
+  (Frank) Department of Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh, PA, United States
+  (Haynes) Haynes is with Eli Lilly and Company, Indianapolis, IN, United States
+  (Laughren) LLC, Rockville, MD, United States
+  (McNulty) MHCA/OASIS-RI, Providence, RI, United States
+  (Reed) Duke Clinical Research Institute, Durham, United States
+  (Sanchez) Ladenburg Thalmann and Co, New York, NY, United States
+  (Leon) Weill Cornell Medical College, New York, NY, United States
+Correspondence Address
+  Duke University Medical Center, Durham, NC, United States
+Country of Publication
+  United States
+Title
+  Defining a clinically meaningful effect for the design and interpretation of randomized controlled trials.
+Source
+  Innovations in Clinical Neuroscience. 10 (5-6) (pp 4S-19S), 2013. Date of Publication: May - June 2013.
+Publisher
+  Matrix Medical Communications (1595 Paoli Pike, Suite 103, West Chester PA 19380, United States)
+KW Clinically meaningful effect, Psychopharmacology drug trials
+URL
+  http://innovationscns.com/defining-a-clinically-meaningful-effect-for-the-design-and-interpretation-of-randomized-controlled-trials/
+Subject Headings
+    Alzheimer disease/dt [Drug Therapy]
+    article
+    central nervous system disease
+    clinical decision making
+    *clinically meaningful effect
+    cognitive defect/dt [Drug Therapy]
+    comparative effectiveness
+    cost control
+    cost effectiveness analysis
+    cost utility analysis
+    depression/dt [Drug Therapy]
+    depression/th [Therapy]
+    *effect size
+    health care cost
+    human
+    mental disease
+    metabolic disorder/si [Side Effect]
+    numbers needed to treat
+    orthostatic hypotension/dt [Drug Therapy]
+    outcome assessment
+    personalized medicine
+    placebo effect
+    Positive and Negative Syndrome Scale
+    *psychopharmacology
+    psychotherapy
+    quality adjusted life year
+    quality of life
+    *randomized controlled trial (topic)
+    reimbursement
+    sample size
+    schizophrenia/dt [Drug Therapy]
+    statistical significance
+    study design
+    4 aminopyridine/ct [Clinical Trial]
+    central nervous system agents
+    donepezil/dt [Drug Therapy]
+    imipramine/ct [Clinical Trial]
+    imipramine/dt [Drug Therapy]
+    neuroleptic agent/ae [Adverse Drug Reaction]
+    neuroleptic agent/ct [Clinical Trial]
+    neuroleptic agent/dt [Drug Therapy]
+    placebo
+    *psychotropic agent
+    serotonin uptake inhibitor
+    threo 3,4 dihydroxyphenylserine/dt [Drug Therapy]
+Abstract
+  Objective: This article captures the proceedings of a meeting aimed at defining clinically meaningful effects for use in randomized controlled trials for psychopharmacological agents. Design: Experts from a variety of disciplines defined clinically meaningful effects from their perspectives along with viewpoints about how to design and interpret randomized controlled trials. Setting: The article offers relevant, practical, and sometimes anecdotal information about clinically meaningful effects and how to interpret them. Participants: The concept for this session was the work of co-chairs Richard Keefe and the late Andy Leon. Faculty included Richard Keefe, PhD; James McNulty, AbScB; Robert S. Epstein, MD, MS; Shelby D. Reed, PhD; Juan Sanchez, MD; Ginger Haynes, PhD; Andrew C. Leon, PhD; Helena Chmura Kraemer, PhD; Ellen Frank, PhD, and Kenneth L. Davis, MD. Results: The term clinically meaningful effect is an important aspect of designing and interpreting randomized controlled trials but can be particularly difficult in the setting of psychopharmacology where effect size may be modest, particularly over the short term, because of a strong response to placebo. Payers, regulators, patients, and clinicians have different concerns about clinically meaningful effects and may describe these terms differently. The use of moderators in success rate differences may help better delineate clinically meaningful effects. Conclusion: There is no clear consensus on a single definition for clinically meaningful differences in randomized controlled trials, and investigators must be sensitive to specific concerns of stakeholders in psychopharmacology in order to design and execute appropriate clinical trials.
+Number of References
+  28
+Embase Section Headings
+  Neurology and Neurosurgery [8]
+  Psychiatry [32]
+  Drug Literature Index [37]
+  Adverse Reactions Titles [38]
+Drug Trade Names and Manufacturers
+  ampyra, droxidopa
+CAS Registry Numbers
+  1003-40-3 (4 aminopyridine); 504-24-5 (4 aminopyridine); 120011-70-3 (donepezil); 120014-06-4 (donepezil); 142057-77-0 (donepezil); 113-52-0 (imipramine); 50-49-7 (imipramine); 23651-95-8 (threo 3,4 dihydroxyphenylserine)
+ISSN
+  2158-8333
+Electronic ISSN
+  2158-8341
+Language
+  English
+Summary Language
+  English
+Publication Type
+  Journal: Article
+Entry Week
+  201347
+Date Delivered
+  20131115
+Year of Publication
+  2013
+Copyright
+  Copyright 2013 Elsevier B.V., All rights reserved.
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed11&AN=2013662858
+
+<9>
+Accession Number
+  2013656502
+Authors
+  Alimi M. Gaillard P. Camus V. El-Hage W.
+Institution
+  (Alimi, Gaillard, Camus, El-Hage) Clinique Psychiatrique Universitaire, CHRU de Tours, France
+  (Alimi) Centre Hospitalier Esquirol, CHU de Caen
+  (Gaillard, Camus, El-Hage) Inserm U930 ERL, Universite Francois Rabelais de Tours, France
+Correspondence Address
+  M. Alimi, Clinique Psychiatrique Universitaire, CHRU de Tours, Tours, France. E-mail: michael.alimi@ymail.com
+Country of Publication
+  Spain
+Title
+  Treatment of tardive dyskinesia: A systematic review (1997-2011).
+Source
+  European Journal of Psychiatry. 27 (3) (pp 160-173), 2013. Date of Publication: July-September 2013.
+Publisher
+  University of Zaragoza (Avda. San Juan Bosco 15, P.O. Box 6029, Zaragoza 50009, Spain)
+KW Antipsychotics, Neuroleptic-induced movement disorders, Tardive dyskinesia
+URL
+  http://scielo.isciii.es/pdf/ejpen/v27n3/original2.pdf
+Subject Headings
+    article
+    brain depth stimulation
+    clinical effectiveness
+    extrapyramidal symptom/si [Side Effect]
+    human
+    mental disease
+    parkinsonism/dt [Drug Therapy]
+    peripheral neuropathy/si [Side Effect]
+    randomized controlled trial (topic)
+    schizophrenia/dt [Drug Therapy]
+    systematic review
+    *tardive dyskinesia/dt [Drug Therapy]
+    *tardive dyskinesia/si [Side Effect]
+    *tardive dyskinesia/th [Therapy]
+    acetazolamide/ct [Clinical Trial]
+    acetazolamide/dt [Drug Therapy]
+    alpha tocopherol/ct [Clinical Trial]
+    alpha tocopherol/dt [Drug Therapy]
+    amantadine/ct [Clinical Trial]
+    amantadine/dt [Drug Therapy]
+    branched chain amino acid/ct [Clinical Trial]
+    branched chain amino acid/dt [Drug Therapy]
+    clozapine/ct [Clinical Trial]
+    clozapine/dt [Drug Therapy]
+    donepezil/ct [Clinical Trial]
+    donepezil/dt [Drug Therapy]
+    etiracetam/ct [Clinical Trial]
+    etiracetam/dt [Drug Therapy]
+    galantamine/ae [Adverse Drug Reaction]
+    galantamine/ct [Clinical Trial]
+    galantamine/dt [Drug Therapy]
+    Ginkgo biloba extract/ct [Clinical Trial]
+    Ginkgo biloba extract/dt [Drug Therapy]
+    haloperidol/ae [Adverse Drug Reaction]
+    haloperidol/ct [Clinical Trial]
+    haloperidol/cm [Drug Comparison]
+    icosapentaenoic acid/ct [Clinical Trial]
+    icosapentaenoic acid/dt [Drug Therapy]
+    melatonin/ct [Clinical Trial]
+    melatonin/do [Drug Dose]
+    melatonin/dt [Drug Therapy]
+    mianserin/ct [Clinical Trial]
+    mianserin/dt [Drug Therapy]
+    naltrexone/ct [Clinical Trial]
+    naltrexone/dt [Drug Therapy]
+    *neuroleptic agent/ae [Adverse Drug Reaction]
+    *neuroleptic agent/dt [Drug Therapy]
+    olanzapine/ae [Adverse Drug Reaction]
+    olanzapine/ct [Clinical Trial]
+    olanzapine/cm [Drug Comparison]
+    phenylalanine/ct [Clinical Trial]
+    phenylalanine/dt [Drug Therapy]
+    piracetam/ct [Clinical Trial]
+    piracetam/dt [Drug Therapy]
+    placebo
+    pyridoxine/ae [Adverse Drug Reaction]
+    pyridoxine/ct [Clinical Trial]
+    pyridoxine/do [Drug Dose]
+    pyridoxine/dt [Drug Therapy]
+    quetiapine/ae [Adverse Drug Reaction]
+    quetiapine/ct [Clinical Trial]
+    quetiapine/cm [Drug Comparison]
+    risperidone/ae [Adverse Drug Reaction]
+    risperidone/ct [Clinical Trial]
+    risperidone/cm [Drug Comparison]
+    thiamine/ct [Clinical Trial]
+    thiamine/dt [Drug Therapy]
+    trazodone/ct [Clinical Trial]
+    trazodone/dt [Drug Therapy]
+Abstract
+  Background and Objectives: Tardive dyskinesia (TD) is a frequent and incapacitating side effect of first-generation antipsychotics. Although second-generation antipsychotics (SGAs) seem to be associated with a decreased risk of TD, it remains a severe, unresolved iatrogenic condition. Moreover, there is no commonly accepted effective treatment for TD. We conducted a systematic review of the literature to assess evidence regarding the effectiveness of different therapeutic interventions for TD. Methods: We performed a systematic review focussing exclusively on randomised controlled trials (RCTs). We searched the MEDLINE database (1997 to 2011) using the keyword "tardive dyskinesia" within the "title" search field. Twenty-six RCTs were included. Based on the evidence from RCTs, we built a decision tree that healthcare professionals can use to choose an effective therapeutic intervention for TD. Results: Four therapeutic interventions were found to be effective in TD (vitamin B6, ginkgo biloba, branched-chain amino acids, and piracetam). Conclusions: Patients with TD could benefit from the therapeutic interventions supported by the data accumulated from RCTs.
+Number of References
+  75
+Embase Section Headings
+  Neurology and Neurosurgery [8]
+  Psychiatry [32]
+  Drug Literature Index [37]
+  Adverse Reactions Titles [38]
+CAS Registry Numbers
+  1424-27-7 (acetazolamide); 59-66-5 (acetazolamide); 1406-18-4 (alpha tocopherol); 1406-70-8 (alpha tocopherol); 52225-20-4 (alpha tocopherol); 58-95-7 (alpha tocopherol); 59-02-9 (alpha tocopherol); 665-66-7 (amantadine); 768-94-5 (amantadine); 5786-21-0 (clozapine); 120011-70-3 (donepezil); 120014-06-4 (donepezil); 142057-77-0 (donepezil); 102767-28-2 (etiracetam); 33996-58-6 (etiracetam); 1953-04-4 (galantamine); 357-70-0 (galantamine); 52-86-8 (haloperidol); 25378-27-2 (icosapentaenoic acid); 32839-30-8 (icosapentaenoic acid); 73-31-4 (melatonin); 21535-47-7 (mianserin); 24219-97-4 (mianserin); 16590-41-3 (naltrexone); 16676-29-2 (naltrexone); 132539-06-1 (olanzapine); 3617-44-5 (phenylalanine); 63-91-2 (phenylalanine); 7491-74-9 (piracetam); 12001-77-3 (pyridoxine); 58-56-0 (pyridoxine); 65-23-6 (pyridoxine); 8059-24-3 (pyridoxine); 111974-72-2 (quetiapine); 106266-06-2 (risperidone); 59-43-8 (thiamine); 67-03-8 (thiamine); 19794-93-5 (trazodone); 25332-39-2 (trazodone)
+ISSN
+  0213-6163
+DOI
+  http://dx.doi.org/10.4321/S0213-61632013000300002
+CODEN
+  EJOPE
+Language
+  English
+Summary Language
+  English
+Publication Type
+  Journal: Article
+Entry Week
+  201346
+Date Delivered
+  20131111
+Year of Publication
+  2013
+Copyright
+  Copyright 2013 Elsevier B.V., All rights reserved.
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed11&AN=2013656502
+
+<10>
+Accession Number
+  2013675951
+Authors
+  Arango C. Garibaldi G. Marder S.R.
+Institution
+  (Arango) Child and Adolescent Psychiatry Department, Hospital General Universitario Gregorio Maranon, IiSGM, School of Medicine, Universidad Complutense, CIBERSAM, Madrid, Spain
+  (Garibaldi) F. Hoffmann-La Roche, Basel, Switzerland
+  (Marder) Semel Institute for Neuroscience, UCLA, United States
+  (Marder) VA Desert Pacific Mental Illness Research, Education, and Clinical Center, United States
+Correspondence Address
+  S.R. Marder, West Los Angeles VA Healthcare Center, Building 210, 11301 Wilshire Blvd, Los Angeles, CA 90073, United States. E-mail: marder@ucla.edu
+Country of Publication
+  Netherlands
+Title
+  Pharmacological approaches to treating negative symptoms: A review of clinical trials.
+Source
+  Schizophrenia Research. 150 (2-3) (pp 346-352), 2013. Date of Publication: November 2013.
+Publisher
+  Elsevier (P.O. Box 211, Amsterdam 1000 AE, Netherlands)
+KW Negative symptoms, Pharmacology, Schizophrenia
+Subject Headings
+    add on therapy
+    adjuvant therapy
+    clinical effectiveness
+    clinical evaluation
+    clinical trial (topic)
+    disease exacerbation
+    disease severity
+    dose response
+    drug dose comparison
+    drug effect
+    drug efficacy
+    drug megadose
+    human
+    low drug dose
+    *negative syndrome/dt [Drug Therapy]
+    nonhuman
+    positive syndrome/dt [Drug Therapy]
+    priority journal
+    review
+    treatment duration
+    treatment outcome
+    3 (2,4 dimethoxybenzylidene)anabaseine/ct [Clinical Trial]
+    3 (2,4 dimethoxybenzylidene)anabaseine/dt [Drug Therapy]
+    amisulpride/ct [Clinical Trial]
+    amisulpride/cm [Drug Comparison]
+    amisulpride/dt [Drug Therapy]
+    antidepressant agent/ct [Clinical Trial]
+    antidepressant agent/dt [Drug Therapy]
+    armodafinil/ct [Clinical Trial]
+    armodafinil/do [Drug Dose]
+    armodafinil/dt [Drug Therapy]
+    asenapine/ct [Clinical Trial]
+    asenapine/cm [Drug Comparison]
+    asenapine/dt [Drug Therapy]
+    atypical antipsychotic agent/ct [Clinical Trial]
+    atypical antipsychotic agent/cb [Drug Combination]
+    atypical antipsychotic agent/dt [Drug Therapy]
+    cholinergic receptor stimulating agent/ct [Clinical Trial]
+    cholinergic receptor stimulating agent/dt [Drug Therapy]
+    cholinesterase inhibitor/ct [Clinical Trial]
+    cholinesterase inhibitor/cb [Drug Combination]
+    cholinesterase inhibitor/cm [Drug Comparison]
+    cholinesterase inhibitor/dt [Drug Therapy]
+    clozapine/ct [Clinical Trial]
+    clozapine/cb [Drug Combination]
+    clozapine/cm [Drug Comparison]
+    clozapine/dt [Drug Therapy]
+    donepezil/ct [Clinical Trial]
+    donepezil/dt [Drug Therapy]
+    dopamine receptor stimulating agent/ct [Clinical Trial]
+    dopamine receptor stimulating agent/dt [Drug Therapy]
+    fluoxetine/ct [Clinical Trial]
+    fluoxetine/dt [Drug Therapy]
+    fluphenazine/ct [Clinical Trial]
+    fluphenazine/cm [Drug Comparison]
+    fluphenazine/do [Drug Dose]
+    fluphenazine/dt [Drug Therapy]
+    glutamate receptor agonist/ct [Clinical Trial]
+    glutamate receptor agonist/dt [Drug Therapy]
+    glycine receptor agonist/ct [Clinical Trial]
+    glycine receptor agonist/cb [Drug Combination]
+    glycine receptor agonist/do [Drug Dose]
+    glycine receptor agonist/dt [Drug Therapy]
+    haloperidol/ct [Clinical Trial]
+    haloperidol/cm [Drug Comparison]
+    haloperidol/do [Drug Dose]
+    haloperidol/dt [Drug Therapy]
+    lisdexamfetamine/ct [Clinical Trial]
+    lisdexamfetamine/dt [Drug Therapy]
+    minocycline/ct [Clinical Trial]
+    minocycline/dt [Drug Therapy]
+    modafinil/ct [Clinical Trial]
+    modafinil/cb [Drug Combination]
+    modafinil/dt [Drug Therapy]
+    neuroleptic agent/ct [Clinical Trial]
+    neuroleptic agent/cb [Drug Combination]
+    neuroleptic agent/cm [Drug Comparison]
+    neuroleptic agent/dt [Drug Therapy]
+    nicotinic agent/ct [Clinical Trial]
+    nicotinic agent/dt [Drug Therapy]
+    olanzapine/ct [Clinical Trial]
+    olanzapine/cm [Drug Comparison]
+    olanzapine/dt [Drug Therapy]
+    placebo
+    quetiapine/ct [Clinical Trial]
+    quetiapine/dt [Drug Therapy]
+    risperidone/ct [Clinical Trial]
+    risperidone/cb [Drug Combination]
+    risperidone/cm [Drug Comparison]
+    risperidone/dt [Drug Therapy]
+    ritanserin/ct [Clinical Trial]
+    ritanserin/dt [Drug Therapy]
+    selegiline/ct [Clinical Trial]
+    selegiline/dt [Drug Therapy]
+    tc 5619/ct [Clinical Trial]
+    tc 5619/dt [Drug Therapy]
+    trazodone/ct [Clinical Trial]
+    trazodone/dt [Drug Therapy]
+    unclassified drug
+    unindexed drug
+Abstract
+  Clinical trials of pharmacological agents targeting negative symptoms in schizophrenia are reviewed. The focus is on trials that occurred in patients who were stable on an antipsychotic medication at entry to the trial. A small number of trials compared antipsychotics as monotherapy for negative symptoms. Although the data supporting amisulpride for negative symptoms is promising the trials have limitations and it is plausible that the advantages of amisulpride over placebo may result from effects on secondary negative symptoms. Among available agents, antidepressant medications may have effects in negative symptoms. Other promising agents include minocycline, glutamatergic agents, and alpha-7 nicotinic agents. More than 15 active trials are currently underway to evaluate new treatments for negative symptoms.  2013.
+Number of References
+  87
+Embase Section Headings
+  Psychiatry [32]
+  Drug Literature Index [37]
+Drug Trade Names and Manufacturers
+  tc 5619
+CAS Registry Numbers
+  156223-05-1 (3 (2,4 dimethoxybenzylidene)anabaseine); 71675-85-9 (amisulpride); 112111-43-0 (armodafinil); 85650-56-2 (asenapine); 5786-21-0 (clozapine); 120011-70-3 (donepezil); 120014-06-4 (donepezil); 142057-77-0 (donepezil); 54910-89-3 (fluoxetine); 56296-78-7 (fluoxetine); 59333-67-4 (fluoxetine); 146-56-5 (fluphenazine); 69-23-8 (fluphenazine); 52-86-8 (haloperidol); 608137-32-2 (lisdexamfetamine); 608137-33-3 (lisdexamfetamine); 819871-04-0 (lisdexamfetamine); 10118-90-8 (minocycline); 11006-27-2 (minocycline); 13614-98-7 (minocycline); 68693-11-8 (modafinil); 132539-06-1 (olanzapine); 111974-72-2 (quetiapine); 106266-06-2 (risperidone); 87051-43-2 (ritanserin); 98185-19-4 (ritanserin); 14611-51-9 (selegiline); 14611-52-0 (selegiline); 2079-54-1 (selegiline); 2323-36-6 (selegiline); 19794-93-5 (trazodone); 25332-39-2 (trazodone)
+ISSN
+  0920-9964
+Electronic ISSN
+  1573-2509
+DOI
+  http://dx.doi.org/10.1016/j.schres.2013.07.026
+CODEN
+  SCRSE
+Language
+  English
+Summary Language
+  English
+Publication Type
+  Journal: Review
+Entry Week
+  201346
+Date Delivered
+  20131107
+Year of Publication
+  2013
+Copyright
+  Copyright 2013 Elsevier B.V., All rights reserved.
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed11&AN=2013675951
+
+
+

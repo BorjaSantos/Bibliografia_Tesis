@@ -1,0 +1,838 @@
+<1>
+Unique Identifier
+  23999481
+Record Owner
+  From MEDLINE, a database of the U.S. National Library of Medicine.
+Status
+  MEDLINE
+Authors
+  Choi KH.  Wykes T.  Kurtz MM.
+Authors Full Name
+  Choi, Kee-Hong.  Wykes, Til.  Kurtz, Matthew M.
+Institution
+  Department of Psychology, Korea University, Seoul, South Korea.
+Title
+  Adjunctive pharmacotherapy for cognitive deficits in schizophrenia: meta-analytical investigation of efficacy. [Review][Erratum appears in Br J Psychiatry. 2013 Nov;203(5):392]
+Source
+  British Journal of Psychiatry.  203(3):172-8, 2013 Sep.
+Abbreviated Source
+  Br J Psychiatry.  203(3):172-8, 2013 Sep.
+NLM Journal Name
+  The British journal of psychiatry : the journal of mental science
+Publishing Model
+  Journal available in: Print
+  Citation processed from: Internet
+NLM Journal Code
+  0342367, b1k
+Other ID
+  Source: NLM. PMC3759029 [Available on 09/01/14]
+Journal Subset
+  IM
+Country of Publication
+  England
+MeSH Subject Headings
+    Adult
+    *Cholinergic Agents/tu [Therapeutic Use]
+    *Cognition Disorders/dt [Drug Therapy]
+    Double-Blind Method
+    *Excitatory Amino Acid Agents/tu [Therapeutic Use]
+    Female
+    Humans
+    Male
+    Psychotic Disorders/px [Psychology]
+    Randomized Controlled Trials as Topic
+    *Schizophrenic Psychology
+    *Serotonin Agents/tu [Therapeutic Use]
+    Treatment Outcome
+Abstract
+  BACKGROUND: A growing number of studies have investigated the efficacy of novel, adjunctive pharmacotherapies for treatment of cognitive deficits in schizophrenia with conflicting results.
+
+  AIMS: To investigate the comparative efficacy of these agents on cognition and symptoms in schizophrenia, and to identify promising cognitive domains and candidate medications that can be incorporated in treatment trials combined with cognitive remediation to maximise treatment effects.
+
+  METHOD: A total of 26 double-blind, placebo-controlled studies investigating medications targeted at cholinergic, glutamatergic or serotonergic receptor classes and with participants with schizophrenia or schizoaffective disorder were identified.
+
+  RESULTS: Medications targeted at the cholinergic receptor class produced marginal improvements in verbal learning and memory (d = 0.23, P = 0.06), and donepezil, a specific type of cholinergic agonist, produced a moderate effect (d = 0.58) on spatial learning and memory. Cholinergic and glutamatergic agents produced moderate effect-size improvements on negative symptoms (d = 0.54 and d = 0.62 respectively), and small effect-size improvements on general symptoms (d = 0.46 and d = 0.41 respectively). Serotonergic agents produced small effect-size improvements in positive symptoms (d = 0.33).
+
+  CONCLUSIONS: Cholinergic medications produced marginal improvement in verbal learning and memory and moderate improvements on spatial learning and memory, although there was no evidence to support the use of glutamatergic or serotonergic medications as a stand-alone treatment for improving cognitive function. Cholinergic and glutamatergic agents improved negative and general symptoms, whereas serotenergic medications improved positive symptoms.
+Registry Number/Name of Substance
+  0 (Cholinergic Agents).  0 (Excitatory Amino Acid Agents).  0 (Serotonin Agents).
+ISSN Electronic
+  1472-1465
+ISSN Linking
+  0007-1250
+Digital Object Identifier
+  http://dx.doi.org/10.1192/bjp.bp.111.107359
+Publication Type
+  Journal Article.  Meta-Analysis.  Research Support, N.I.H., Extramural.  Research Support, Non-U.S. Gov't.  Review.
+Grant Number
+  K08 MH-69888 (United States NIMH NIH HHS)
+Language
+  English
+Date of Publication
+  2013 Sep
+Date Created
+  20130903
+Year of Publication
+  2013
+Entry Date
+  20140318
+Update Date
+  20140319
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=23999481
+
+<2>
+Unique Identifier
+  22974558
+Record Owner
+  From MEDLINE, a database of the U.S. National Library of Medicine.
+Status
+  MEDLINE
+Authors
+  Klinkenberg I.  Sambeth A.  Blokland A.
+Authors Full Name
+  Klinkenberg, Inge.  Sambeth, Anke.  Blokland, Arjan.
+Institution
+  Faculty of Psychology and Neuroscience, Department of Neuropsychology and Psychopharmacology, Maastricht University, PO Box 616, 6200 MD Maastricht, The Netherlands. inge.klinkenberg@maastrichtuniversity.nl
+Title
+  Cholinergic gating of hippocampal auditory evoked potentials in freely moving rats.
+Source
+  European Neuropsychopharmacology.  23(8):988-97, 2013 Aug.
+Abbreviated Source
+  Eur Neuropsychopharmacol.  23(8):988-97, 2013 Aug.
+NLM Journal Name
+  European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology
+Publishing Model
+  Journal available in: Print-Electronic
+  Citation processed from: Internet
+NLM Journal Code
+  bjh, 9111390
+Journal Subset
+  IM
+Country of Publication
+  Netherlands
+MeSH Subject Headings
+    Alzheimer Disease/ci [Chemically Induced]
+    Alzheimer Disease/me [Metabolism]
+    Animals
+    Behavior, Animal/de [Drug Effects]
+    Biperiden/aa [Analogs & Derivatives]
+    Biperiden/pd [Pharmacology]
+    Cholinergic Neurons/de [Drug Effects]
+    *Cholinergic Neurons/me [Metabolism]
+    Cholinesterase Inhibitors/pd [Pharmacology]
+    Disease Models, Animal
+    Electroencephalography/de [Drug Effects]
+    Evoked Potentials, Auditory/de [Drug Effects]
+    *Evoked Potentials, Auditory
+    Hippocampus/de [Drug Effects]
+    *Hippocampus/me [Metabolism]
+    Indans/pd [Pharmacology]
+    Male
+    Muscarinic Antagonists/pd [Pharmacology]
+    Nerve Tissue Proteins/ai [Antagonists & Inhibitors]
+    Nerve Tissue Proteins/me [Metabolism]
+    Piperidines/pd [Pharmacology]
+    Rats
+    Rats, Wistar
+    Receptor, Muscarinic M1/ai [Antagonists & Inhibitors]
+    Receptor, Muscarinic M1/me [Metabolism]
+    Schizophrenia/ci [Chemically Induced]
+    Schizophrenia/me [Metabolism]
+    Scopolamine Hydrobromide/pd [Pharmacology]
+    Sensory Gating/de [Drug Effects]
+    *Sensory Gating
+Keyword Heading
+  Amp;  Animal model;  Auditory evoked potential;  Biperiden;  Donepezil;  Lat;  Muscarinic;  SG;  Scopolamine;  Stim;  Stimulus;  Treat;  Treatment;  amplitude;  decreased;  increased;  latency;  n.s.;  not significant;  sensory gating;  &;  x2191;;  &;  x2193;.
+Abstract
+  As perturbations in auditory filtering appear to be a candidate trait marker of schizophrenia, there has been considerable interest in the development of translational rat models to elucidate the underlying neural and neurochemical mechanisms involved in sensory gating. This is the first study to investigate the effects of the non-selective muscarinic antagonist scopolamine, the muscarinic M1 antagonist biperiden and the cholinesterase inhibitor donepezil (also in combination with scopolamine and biperiden) on auditory evoked potentials (AEPs) and sensory gating. In the saline condition, only the N50 peak displayed sensory gating. Scopolamine and biperiden both disrupted sensory gating by increasing N50 amplitude for the S2 click. Donepezil was able to fully reverse the effects of biperiden on N50 sensory gating, but had residual effects when combined with scopolamine; i.e., it enhanced sensory gating by increasing N50 amplitude of the S1 stimulus. Donepezil by itself improved sensory gating by enhancing N50 amplitude of S1, and reducing N50 amplitude of the S2 click. In conclusion, due to its relatively more selective effects biperiden is to be preferred over scopolamine as a means for pharmacologically inducing cholinergic impairments in auditory processing in healthy rats. Changes in auditory processing and sensory gating induced by cholinergic drugs may serve as a translational model for aging instead of schizophrenia. Copyright  2012 Elsevier B.V. and ECNP. All rights reserved.
+Registry Number/Name of Substance
+  0 (Cholinesterase Inhibitors).  0 (Indans).  0 (Muscarinic Antagonists).  0 (Nerve Tissue Proteins).  0 (Piperidines).  0 (Receptor, Muscarinic M1).  09TD6C5147 (biperiden lactate).  0FRP6G56LD (Biperiden).  451IFR0GXB (Scopolamine Hydrobromide).  8SSC91326P (donepezil).
+ISSN Electronic
+  1873-7862
+ISSN Linking
+  0924-977X
+Publisher Item Identifier
+  S0924-977X(12)00245-3
+Digital Object Identifier
+  http://dx.doi.org/10.1016/j.euroneuro.2012.08.014
+Publication Type
+  Comparative Study.  Journal Article.  Research Support, Non-U.S. Gov't.
+Language
+  English
+Electronic Date of Publication
+  20120910
+Date of Publication
+  2013 Aug
+Date Created
+  20130819
+Year of Publication
+  2013
+Entry Date
+  20140313
+Update Date
+  20140314
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22974558
+
+<3>
+Unique Identifier
+  23215841
+Record Owner
+  From MEDLINE, a database of the U.S. National Library of Medicine.
+Status
+  MEDLINE
+Authors
+  Thakurathi N.  Vincenzi B.  Henderson DC.
+Authors Full Name
+  Thakurathi, Neelam.  Vincenzi, Brenda.  Henderson, David C.
+Institution
+  Massachusetts General Hospital, Schizophrenia Clinical and Research Program, Boston, MA, USA.
+Title
+  Assessing the prospect of donepezil in improving cognitive impairment in patients with schizophrenia. [Review]
+Source
+  Expert Opinion on Investigational Drugs.  22(2):259-65, 2013 Feb.
+Abbreviated Source
+  Expert Opin Investig Drugs.  22(2):259-65, 2013 Feb.
+NLM Journal Name
+  Expert opinion on investigational drugs
+Publishing Model
+  Journal available in: Print-Electronic
+  Citation processed from: Internet
+NLM Journal Code
+  9434197
+Journal Subset
+  IM
+Country of Publication
+  England
+MeSH Subject Headings
+    Binding Sites
+    Cholinesterase Inhibitors/ad [Administration & Dosage]
+    Cholinesterase Inhibitors/ch [Chemistry]
+    Cholinesterase Inhibitors/pd [Pharmacology]
+    *Cholinesterase Inhibitors/tu [Therapeutic Use]
+    Clinical Trials as Topic
+    *Cognition Disorders/dt [Drug Therapy]
+    Cognition Disorders/px [Psychology]
+    Humans
+    Indans/ad [Administration & Dosage]
+    Indans/ch [Chemistry]
+    Indans/pd [Pharmacology]
+    *Indans/tu [Therapeutic Use]
+    Models, Molecular
+    Molecular Structure
+    Piperidines/ad [Administration & Dosage]
+    Piperidines/ch [Chemistry]
+    Piperidines/pd [Pharmacology]
+    *Piperidines/tu [Therapeutic Use]
+    Schizophrenia/co [Complications]
+    *Schizophrenia/dt [Drug Therapy]
+    Schizophrenic Psychology
+    Treatment Outcome
+Abstract
+  INTRODUCTION: Even though cognitive impairment is manifested in almost all patients with schizophrenia, the Clinical Antipsychotic Trials for Intervention Effectiveness (CATIE) study showed no significant difference between first- and second-generation psychotropic drugs in improving cognitive abilities. Discovering new drugs that can improve impaired cognition, thus, is an attractive treatment target for patients with schizophrenia.
+
+  AREAS COVERED: This article briefly reviews about donepezil, a highly selective (IC(50) = 6.7 nM) centrally acting reversible acetylcholinesterase inhibitor that has been approved by FDA for treating cognitive deficit states such as in Alzheimer's disease and its uses in clinical trials for the treatment of schizophrenia. The literature search included PubMed and Cochrane library with the following words: donepezil, schizophrenia and cognitive impairments.
+
+  EXPERT OPINION: The results of several clinical trials utilizing donepezil as an adjunct to second-generation antipsychotic drugs targeting cognitive deficits in schizophrenia subjects have been disappointing and would not lead clinicians to consider this as a potential treatment option. While longer randomized controlled trials, increase dosage and selected groups of patients at different stage of cognitive impairment may provide a better understanding of the potential for this drug in addressing cognitive deficits, results to date have not been encouraging.
+Registry Number/Name of Substance
+  0 (Cholinesterase Inhibitors).  0 (Indans).  0 (Piperidines).  8SSC91326P (donepezil).
+ISSN Electronic
+  1744-7658
+ISSN Linking
+  1354-3784
+Digital Object Identifier
+  http://dx.doi.org/10.1517/13543784.2013.750650
+Publication Type
+  Journal Article.  Review.
+Language
+  English
+Electronic Date of Publication
+  20121209
+Date of Publication
+  2013 Feb
+Date Created
+  20130110
+Year of Publication
+  2013
+Entry Date
+  20130607
+Revision Date
+  20131106
+Update Date
+  20131217
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=23215841
+
+<4>
+Unique Identifier
+  22659472
+Record Owner
+  From MEDLINE, a database of the U.S. National Library of Medicine.
+Status
+  MEDLINE
+Authors
+  Cannon CE.  Puri V.  Vivian JA.  Egbertson MS.  Eddins D.  Uslaner JM.
+Authors Full Name
+  Cannon, Christopher E.  Puri, Vanita.  Vivian, Jeffrey A.  Egbertson, Melissa S.  Eddins, Donnie.  Uslaner, Jason M.
+Institution
+  Merck Research Laboratories 44E-200, 770 Sumneytown Pike, West Point, PA 19486, USA. christopher_cannon@merck.com
+Title
+  The nicotinic alpha7 receptor agonist GTS-21 improves cognitive performance in ketamine impaired rhesus monkeys.
+Source
+  Neuropharmacology.  64:191-6, 2013 Jan.
+Abbreviated Source
+  Neuropharmacology.  64:191-6, 2013 Jan.
+NLM Journal Name
+  Neuropharmacology
+Publishing Model
+  Journal available in: Print-Electronic
+  Citation processed from: Internet
+NLM Journal Code
+  nzb, 0236217
+Journal Subset
+  IM
+Country of Publication
+  England
+MeSH Subject Headings
+    Animals
+    Behavior, Animal/de [Drug Effects]
+    *Benzylidene Compounds/tu [Therapeutic Use]
+    Cholinesterase Inhibitors/ae [Adverse Effects]
+    Cholinesterase Inhibitors/tu [Therapeutic Use]
+    Cognition/de [Drug Effects]
+    Cognition Disorders/et [Etiology]
+    *Cognition Disorders/pc [Prevention & Control]
+    *Disease Models, Animal
+    Drug Evaluation, Preclinical/mt [Methods]
+    Excitatory Amino Acid Antagonists
+    Indans/ae [Adverse Effects]
+    Indans/tu [Therapeutic Use]
+    Ketamine
+    Macaca mulatta
+    Male
+    Molecular Targeted Therapy
+    Nicotinic Agonists/ae [Adverse Effects]
+    *Nicotinic Agonists/tu [Therapeutic Use]
+    Nootropic Agents/ae [Adverse Effects]
+    *Nootropic Agents/tu [Therapeutic Use]
+    Piperidines/ae [Adverse Effects]
+    Piperidines/tu [Therapeutic Use]
+    Psychomotor Performance/de [Drug Effects]
+    *Pyridines/tu [Therapeutic Use]
+    Receptors, N-Methyl-D-Aspartate/ai [Antagonists & Inhibitors]
+    Receptors, Nicotinic/ch [Chemistry]
+    *Receptors, Nicotinic/me [Metabolism]
+    *Schizophrenia/dt [Drug Therapy]
+    Schizophrenia/pp [Physiopathology]
+    alpha7 Nicotinic Acetylcholine Receptor
+Abstract
+  The cognitive deficits associated with schizophrenia are recognized as a core component of the disorder, yet there remain no available therapeutics to treat these symptoms of the disease. As a result, there is a need for establishing predictive preclinical models to identify the therapeutic potential of novel compounds. In the present study, rhesus monkeys were trained in the object retrieval-detour task, which is dependent on the prefrontal cortex, a brain region implicated in the cognitive deficits associated with schizophrenia. The NMDA receptor antagonist ketamine significantly impaired performance without affecting measures of motor or visuospatial abilities. Pre-treatment with the nicotinic alpha7 agonist GTS-21 (0.03 mg/kg) significantly attenuated the ketamine-induced impairment, consistent with reports from clinical trials suggesting that nicotinic alpha7 receptor agonism has pro-cognitive potential in clinical populations. In contrast, pretreatment with the acetylcholinesterase inhibitor donepezil failed to reverse the ketamine-induced impairment, consistent with studies showing a lack of pro-cognitive effects in patients with schizophrenia. These data suggest that the ketamine-impaired object retrieval-detour task could provide a model with improved predictive validity for drug development, and confirm the need for additional efforts in back-translation. This article is part of a Special Issue entitled 'Cognitive Enhancers'. Copyright  2012 Elsevier Ltd. All rights reserved.
+Registry Number/Name of Substance
+  0 (Benzylidene Compounds).  0 (Cholinesterase Inhibitors).  0 (Excitatory Amino Acid Antagonists).  0 (Indans).  0 (Nicotinic Agonists).  0 (Nootropic Agents).  0 (Piperidines).  0 (Pyridines).  0 (Receptors, N-Methyl-D-Aspartate).  0 (Receptors, Nicotinic).  0 (alpha7 Nicotinic Acetylcholine Receptor).  156223-05-1 (3-(2,4-dimethoxybenzylidene)anabaseine).  690G0D6V8H (Ketamine).  8SSC91326P (donepezil).
+ISSN Electronic
+  1873-7064
+ISSN Linking
+  0028-3908
+Publisher Item Identifier
+  S0028-3908(12)00188-8
+Digital Object Identifier
+  http://dx.doi.org/10.1016/j.neuropharm.2012.05.003
+Publication Type
+  Comparative Study.  Journal Article.
+Language
+  English
+Electronic Date of Publication
+  20120529
+Date of Publication
+  2013 Jan
+Date Created
+  20120918
+Year of Publication
+  2013
+Entry Date
+  20130211
+Revision Date
+  20131121
+Update Date
+  20131217
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22659472
+
+<5>
+Unique Identifier
+  22568120
+Record Owner
+  From MEDLINE, a database of the U.S. National Library of Medicine.
+Status
+  MEDLINE
+Authors
+  Matsuda T.  Ago Y.  Takuma K.
+Authors Full Name
+  Matsuda, Toshio.  Ago, Yukio.  Takuma, Kazuhiro.
+Institution
+  Graduate School of Pharmaceutical Sciences, Osaka University. matsuda@phs.osaka-u.ac.jp
+Title
+  [Pharmacological profiles of galantamine: the involvement of muscarinic receptor]. [Review] [Japanese]
+Source
+  Nihon Shinkei Seishin Yakurigaku Zasshi.  32(1):1-8, 2012 Feb.
+Abbreviated Source
+  Nihon Shinkei Seishin Yakurigaku Zasshi.  32(1):1-8, 2012 Feb.
+NLM Journal Name
+  Nihon shinkei seishin yakurigaku zasshi = Japanese journal of psychopharmacology
+Publishing Model
+  Journal available in: Print
+  Citation processed from: Print
+NLM Journal Code
+  9509023, cei
+Journal Subset
+  IM
+Country of Publication
+  Japan
+MeSH Subject Headings
+    Acetylcholine/me [Metabolism]
+    Animals
+    Brain/me [Metabolism]
+    *Cholinesterase Inhibitors/pd [Pharmacology]
+    Cholinesterase Inhibitors/tu [Therapeutic Use]
+    *Cognition Disorders/dt [Drug Therapy]
+    Disease Models, Animal
+    *Galantamine/pd [Pharmacology]
+    Galantamine/tu [Therapeutic Use]
+    Humans
+    Mice
+    *Receptors, Muscarinic/ph [Physiology]
+Abstract
+  Galantamine, currently used in Japan for the treatment of Alzheimer's disease, may improve cognitive dysfunction and psychiatric illness in schizophrenia, major depression, bipolar disorder and alcohol abuse. It is a rather weak acetylcholinesterase inhibitor in vitro, but has additional allosteric potentiating effects at nicotinic receptors. We have found that galantamine increased acetylcholine levels in the brain. This suggests that the pharmacological effects of galantamine are mediated by not only nicotinic receptors but also muscarinic receptors. We found that galantamine, but not donepezil, improved prepulse inhibition (PPI) deficits in isolation-reared mice, although both drugs improved PPI deficits in an apomorphine model. The difference in the effects on PPI deficits between galantamine and donepezil may be explained by the effects on muscarinic receptors. This review summarizes the pharmacological profiles of galantamine, focusing on the importance of muscarinic receptors.
+Registry Number/Name of Substance
+  0 (Cholinesterase Inhibitors).  0 (Receptors, Muscarinic).  0D3Q044KCA (Galantamine).  N9YNS0M02X (Acetylcholine).
+ISSN Print
+  1340-2544
+ISSN Linking
+  1340-2544
+Publication Type
+  English Abstract.  Journal Article.  Review.
+Language
+  Japanese
+Date of Publication
+  2012 Feb
+Date Created
+  20120508
+Year of Publication
+  2012
+Entry Date
+  20120913
+Revision Date
+  20131121
+Update Date
+  20131217
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22568120
+
+<6>
+Unique Identifier
+  22414791
+Record Owner
+  From MEDLINE, a database of the U.S. National Library of Medicine.
+Status
+  MEDLINE
+Authors
+  McDermott CL.  Gray SL.
+Authors Full Name
+  McDermott, Cara L.  Gray, Shelly L.
+Institution
+  School of Pharmacy, University of Washington, Seattle, WA, USA.
+Title
+  Cholinesterase inhibitor adjunctive therapy for cognitive impairment and depressive symptoms in older adults with depression. [Review]
+Source
+  Annals of Pharmacotherapy.  46(4):599-605, 2012 Apr.
+Abbreviated Source
+  Ann Pharmacother.  46(4):599-605, 2012 Apr.
+NLM Journal Name
+  The Annals of pharmacotherapy
+Publishing Model
+  Journal available in: Print-Electronic
+  Citation processed from: Internet
+NLM Journal Code
+  bbx, 9203131
+Journal Subset
+  IM
+Country of Publication
+  United States
+MeSH Subject Headings
+    Antidepressive Agents/ad [Administration & Dosage]
+    *Antidepressive Agents/tu [Therapeutic Use]
+    Cholinesterase Inhibitors/ad [Administration & Dosage]
+    *Cholinesterase Inhibitors/tu [Therapeutic Use]
+    Cognition Disorders/co [Complications]
+    *Cognition Disorders/dt [Drug Therapy]
+    Depression/co [Complications]
+    *Depression/dt [Drug Therapy]
+    Drug Therapy, Combination
+    Galantamine/ad [Administration & Dosage]
+    Galantamine/tu [Therapeutic Use]
+    Humans
+    Indans/ad [Administration & Dosage]
+    Indans/tu [Therapeutic Use]
+    Phenylcarbamates/ad [Administration & Dosage]
+    Phenylcarbamates/tu [Therapeutic Use]
+    Piperidines/ad [Administration & Dosage]
+    Piperidines/tu [Therapeutic Use]
+Abstract
+  OBJECTIVE: To review the primary literature regarding the use of cholinesterase inhibitors (ChEIs) as adjunctive therapy for cognitive enhancement and improvement of depressive symptoms for older adults with depression.
+
+  DATA SOURCES: A literature search of MEDLINE (1950-September 2011) was conducted, using the search term depression in combination with cholinesterase inhibitor, donepezil, galantamine, or rivastigmine. A search of reference citations was conducted to identify additional references.
+
+  STUDY SELECTION AND DATA EXTRACTION: English-language clinical trials were evaluated. Studies that included subjects with Alzheimer's disease, dementia, Parkinson disease, bipolar disorder, or schizophrenia were excluded. Four clinical studies met our criteria.
+
+  DATA SYNTHESIS: We identified 4 randomized, double-blind, placebo-controlled trials that ranged in sample size from 20 to 130. Galantamine 16 mg daily was evaluated in 2 trials lasting 8 and 24 weeks. Neither study found a statistically significant difference in measures of cognition or Hamilton Rating Scale for Depression scores. Donepezil augmentation was evaluated in a 1-year and a 2-year trial. Donepezil was found to improve global cognition at 1 year, but the benefit did not persist at year 2. Subjects with mild cognitive impairment at baseline who received donepezil experienced higher depression recurrence than did those who took placebo (p = 0.03); this effect was not observed in cognitively intact subjects (p = 0.39).
+
+  CONCLUSIONS: There is no clear benefit for ChEI therapy as an adjunct to antidepressant therapy for depressed older adults.
+Registry Number/Name of Substance
+  0 (Antidepressive Agents).  0 (Cholinesterase Inhibitors).  0 (Indans).  0 (Phenylcarbamates).  0 (Piperidines).  0D3Q044KCA (Galantamine).  123441-03-2 (rivastigmine).  8SSC91326P (donepezil).
+ISSN Electronic
+  1542-6270
+ISSN Linking
+  1060-0280
+Digital Object Identifier
+  http://dx.doi.org/10.1345/aph.1Q445
+Publication Type
+  Journal Article.  Review.
+Language
+  English
+Electronic Date of Publication
+  20120313
+Date of Publication
+  2012 Apr
+Date Created
+  20120413
+Year of Publication
+  2012
+Entry Date
+  20120801
+Revision Date
+  20131121
+Update Date
+  20131217
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22414791
+
+<7>
+Unique Identifier
+  22288409
+Record Owner
+  From MEDLINE, a database of the U.S. National Library of Medicine.
+Status
+  MEDLINE
+Authors
+  Niitsu T.  Iyo M.  Hashimoto K.
+Authors Full Name
+  Niitsu, Tomihisa.  Iyo, Masaomi.  Hashimoto, Kenji.
+Institution
+  1Research Center for Child Mental Development, Chiba University Graduate School of Medicine, 1-8-1 Inohana, Chiba, Japan.
+Title
+  Sigma-1 receptor agonists as therapeutic drugs for cognitive impairment in neuropsychiatric diseases. [Review]
+Source
+  Current Pharmaceutical Design.  18(7):875-83, 2012.
+Abbreviated Source
+  Curr Pharm Des.  18(7):875-83, 2012.
+NLM Journal Name
+  Current pharmaceutical design
+Publishing Model
+  Journal available in: Print
+  Citation processed from: Internet
+NLM Journal Code
+  da0, 9602487
+Journal Subset
+  IM
+Country of Publication
+  Netherlands
+MeSH Subject Headings
+    Animals
+    Cognition Disorders/co [Complications]
+    *Cognition Disorders/dt [Drug Therapy]
+    Humans
+    Mental Disorders/co [Complications]
+    *Mental Disorders/dt [Drug Therapy]
+    Nootropic Agents/pd [Pharmacology]
+    *Nootropic Agents/tu [Therapeutic Use]
+    *Receptors, sigma/ag [Agonists]
+Abstract
+  Cognitive impairment is a core feature of patients with neuropsychiatric diseases such as schizophrenia and psychotic depression. The drugs currently used to treat cognitive impairment have significant limitations, ensuring that the search for more effective therapies remains active. Endoplasmic reticulum protein sigma-1 receptors are unique binding sites in the brain that exert a potent effect on multiple neurotransmitter systems. Accumulating evidence suggests that sigma-1 receptors play a role in both the pathophysiology of neuropsychiatric diseases, and the mechanistic action of some therapeutic drugs, such as the selective serotonin reuptake inhibitors (SSRIs), donepezil and neurosteroids. Among SSRIs, fluvoxamine, a potent sigma-1 receptor agonist, has the highest affinity at sigma-1 receptors. Sigma-1 receptor agonists greatly potentiate nerve-growth factor (NGF)-induced neurite outgrowth in PC12 cells, an effect that is antagonized by treatment with the selective sigma-1 receptor antagonist NE-100. Furthermore, phencyclidine (PCP)-induced cognitive impairment, associated with animal models of schizophrenia is significantly improved by sub-chronic administration of sigma-1 receptor agonists such as fluvoxamine, SA4503 (cutamesine) and donepezil. This effect is antagonized by co-administration of NE-100. A positron emission tomography (PET) study using the specific sigma-1 receptor ligand [11C]SA4503 demonstrates that fluvoxamine and donepezil bind to sigma-1 receptors in the healthy human brain. In clinical studies, some sigma-1 receptor agonists, including fluvoxamine, donepezil and neurosteroids, improve cognitive impairment and clinical symptoms in neuropsychiatric diseases. In this article, we review the recent findings on sigma-1 receptor agonists as potential therapeutic drugs for the treatment of cognitive impairment in schizophrenia and psychotic depression.
+Registry Number/Name of Substance
+  0 (Nootropic Agents).  0 (Receptors, sigma).  0 (sigma-1 receptor).
+ISSN Electronic
+  1873-4286
+ISSN Linking
+  1381-6128
+Publication Type
+  Journal Article.  Research Support, Non-U.S. Gov't.  Review.
+Language
+  English
+Date of Publication
+  2012
+Date Created
+  20120222
+Year of Publication
+  2012
+Entry Date
+  20120927
+Update Date
+  20131217
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22288409
+
+<8>
+Unique Identifier
+  22258978
+Record Owner
+  From MEDLINE, a database of the U.S. National Library of Medicine.
+Status
+  MEDLINE
+Authors
+  Singh J.  Kour K.  Jayaram MB.
+Authors Full Name
+  Singh, Jasvinder.  Kour, Kamalpreet.  Jayaram, Mahesh B.
+Institution
+  Lynfield Mount Hospital, Bradford, UK.jcingh@googlemail.com.
+Title
+  Acetylcholinesterase inhibitors for schizophrenia. [Review]
+Source
+  Cochrane Database of Systematic Reviews.  1:CD007967, 2012.
+Abbreviated Source
+  Cochrane Database Syst Rev.  1:CD007967, 2012.
+NLM Journal Name
+  The Cochrane database of systematic reviews
+Publishing Model
+  Journal available in: Electronic
+  Citation processed from: Internet
+NLM Journal Code
+  100909747
+Journal Subset
+  IM
+Country of Publication
+  England
+MeSH Subject Headings
+    *Antipsychotic Agents/tu [Therapeutic Use]
+    *Cholinesterase Inhibitors/tu [Therapeutic Use]
+    Galantamine/tu [Therapeutic Use]
+    Humans
+    Indans/tu [Therapeutic Use]
+    Phenylcarbamates/tu [Therapeutic Use]
+    Piperidines/tu [Therapeutic Use]
+    *Psychotic Disorders/dt [Drug Therapy]
+    Randomized Controlled Trials as Topic
+    *Schizophrenia/dt [Drug Therapy]
+    Schizophrenic Psychology
+Abstract
+  BACKGROUND: Antipsychotic medication remains the mainstay of treatment for schizophrenia and has been in use for a long time. As evidenced by ongoing research and partial effectiveness of the antipsychotics on cognitive and negative symptoms, the search is on for drugs that may improve these domains of functioning for someone suffering from schizophrenia. Acetylcholinesterase inhibitors have long been in use for treating cognitive symptoms of dementia.
+
+  OBJECTIVES: The aim of the review was to evaluate the clinical effects, safety and cost effectiveness of acetylcholinesterase inhibitors for treating people with schizophrenia
+
+  SEARCH METHODS: We searched the Cochrane Schizophrenia Group's Register (February 2009), and inspected the references of all identified studies for further trials.
+
+  SELECTION CRITERIA: We included all clinical randomised trials comparing acetylcholinesterase inhibitors with antipsychotics or placebo either alone, or in combination, for schizophrenia and schizophrenia-like psychoses.
+
+  DATA COLLECTION AND ANALYSIS: We extracted data independently. For dichotomous data, we calculated risk ratios (RR) and their 95% confidence intervals (CI) on an intention-to-treat (ITT) basis based on a random-effects model. For continuous data, we calculated mean differences (MD), again based on a random-effects model.
+
+  MAIN RESULTS: The acetylcholinesterase inhibitor plus antipsychotic showed benefit over antipsychotic and placebo in the following outcomes.1. Mental state - PANSS negative symptoms average end point score (2 RCTs, n = 31, MD -1.69 95% CI -2.80 to -0.57), PANSS General Psychopathology average end point score (2 RCTs, n = 31, MD -3.86 95% CI -5.40 to -2.32), and improvement in depressive symptoms showed at least by one short-term study as measured by CDSS scale (data skewed).2. Cognitive domains - attention, (1 RCT, n = 73, MD 1.20 95% CI 0.14 to 2.26), visual memory (2 RCTs, n = 48 , MD 1.90 95% CI 0.52 to 3.28), verbal memory and language (3 RCTs, n = 42, MD 3.46 95% CI 0.67 to 6.26) and executive functioning (1 RCT, n = 24, MD 17.10 95% CI 0.70 to 33.50).3. Tolerability - EPSE: AIMS, (1 RCT, n = 35, MD 1.50 95% CI 1.04 to 1.96).No difference was noted between the two arms in other outcomes. The overall rate of participants leaving studies early was low (13.6 %) and showed no clear difference between the two groups.
+
+  AUTHORS' CONCLUSIONS: The results seem to favour the use of acetylcholinesterase inhibitors in combination with antipsychotics on a few domains of mental state and cognition, but because of the various limitations in the studies as mentioned in the main text, the evidence is weak. This review highlights the need for large, independent, well designed, conducted and reported pragmatic randomised studies.
+Registry Number/Name of Substance
+  0 (Antipsychotic Agents).  0 (Cholinesterase Inhibitors).  0 (Indans).  0 (Phenylcarbamates).  0 (Piperidines).  0D3Q044KCA (Galantamine).  123441-03-2 (rivastigmine).  8SSC91326P (donepezil).
+ISSN Electronic
+  1469-493X
+ISSN Linking
+  1361-6137
+Digital Object Identifier
+  http://dx.doi.org/10.1002/14651858.CD007967.pub2
+Publication Type
+  Journal Article.  Meta-Analysis.  Research Support, Non-U.S. Gov't.  Review.
+Language
+  English
+Electronic Date of Publication
+  20120118
+Date of Publication
+  2012
+Date Created
+  20120119
+Year of Publication
+  2012
+Entry Date
+  20120626
+Revision Date
+  20131121
+Update Date
+  20131217
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22258978
+
+<9>
+Unique Identifier
+  21086119
+Record Owner
+  From MEDLINE, a database of the U.S. National Library of Medicine.
+Status
+  MEDLINE
+Authors
+  Bartko SJ.  Vendrell I.  Saksida LM.  Bussey TJ.
+Authors Full Name
+  Bartko, Susan J.  Vendrell, Ignasi.  Saksida, Lisa M.  Bussey, Timothy J.
+Institution
+  Department of Experimental Psychology, University of Cambridge, Downing St., Cambridge, CB2 3EB, UK. susan.bartko.winters@gmail.com
+Title
+  A computer-automated touchscreen paired-associates learning (PAL) task for mice: impairments following administration of scopolamine or dicyclomine and improvements following donepezil.
+Source
+  Psychopharmacology.  214(2):537-48, 2011 Mar.
+Abbreviated Source
+  Psychopharmacology (Berl).  214(2):537-48, 2011 Mar.
+NLM Journal Name
+  Psychopharmacology
+Publishing Model
+  Journal available in: Print-Electronic
+  Citation processed from: Internet
+NLM Journal Code
+  qgi, 7608025
+Journal Subset
+  IM
+Country of Publication
+  Germany
+MeSH Subject Headings
+    Animals
+    Automation
+    *Behavior, Animal/de [Drug Effects]
+    *Cholinergic Antagonists/pd [Pharmacology]
+    *Cholinesterase Inhibitors/pd [Pharmacology]
+    Cues
+    *Dicyclomine/pd [Pharmacology]
+    Dose-Response Relationship, Drug
+    *Drug Evaluation, Preclinical/mt [Methods]
+    *Indans/pd [Pharmacology]
+    Male
+    Mice
+    Mice, Inbred C57BL
+    *Neuropsychological Tests
+    *Nootropic Agents/pd [Pharmacology]
+    *Paired-Associate Learning/de [Drug Effects]
+    *Piperidines/pd [Pharmacology]
+    Reaction Time/de [Drug Effects]
+    Reward
+    *Scopolamine Hydrobromide/pd [Pharmacology]
+    Time Factors
+    Touch
+    User-Computer Interface
+Abstract
+  RATIONALE: Performance on the Cambridge Neuropsychological Test Automated Battery touchscreen paired-associates learning (PAL) test is predictive of Alzheimer's disease and impaired in schizophrenia and chronic drug users. An automated computer touchscreen PAL task for rats has been previously established. A pharmacologically validated PAL task for mice would be a highly valuable tool, which could be useful for a number of experimental aims including drug discovery.
+
+  OBJECTIVES: This study sought to investigate the effects of systemic administration of cholinergic agents on task performance in C57Bl/6 mice.
+
+  METHODS: Scopolamine hydrobromide (0.02, 0.2, and 2.0 mg/kg), dicyclomine hydrochloride (M(1) receptor antagonist; 2.0, 4.0, and 8.0 mg/kg), and donepezil hydrochloride (cholinesterase inhibitor; 0.03, 0.1, and 0.3 mg/kg) were administered post-acquisition in C57Bl/6 mice performing the PAL task.
+
+  RESULTS: Scopolamine (0.2 and 2.0 mg/kg) and dicyclomine (at all administered doses) significantly impaired PAL performance. A significant facilitation in PAL was revealed in mice following donepezil administration (0.3 mg/kg).
+
+  CONCLUSIONS: The present study shows that mice can acquire the rodent PAL task and that the cholinergic system is important for PAL task performance. M(1) receptors in particular are likely implicated in normal performance of PAL. The finding that mouse PAL can detect both impairments and improvements indicates that this task could prove to be a highly valuable tool for a number of experimental aims including drug discovery.
+Registry Number/Name of Substance
+  0 (Cholinergic Antagonists).  0 (Cholinesterase Inhibitors).  0 (Indans).  0 (Nootropic Agents).  0 (Piperidines).  451IFR0GXB (Scopolamine Hydrobromide).  4KV4X8IF6V (Dicyclomine).  8SSC91326P (donepezil).  E78ZFF4KQ0 (Reward).
+ISSN Electronic
+  1432-2072
+ISSN Linking
+  0033-3158
+Digital Object Identifier
+  http://dx.doi.org/10.1007/s00213-010-2050-1
+Publication Type
+  Journal Article.  Research Support, N.I.H., Extramural.  Research Support, Non-U.S. Gov't.
+Language
+  English
+Electronic Date of Publication
+  20101118
+Date of Publication
+  2011 Mar
+Date Created
+  20110301
+Year of Publication
+  2011
+Entry Date
+  20110628
+Revision Date
+  20131121
+Update Date
+  20131217
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21086119
+
+<10>
+Unique Identifier
+  20930482
+Record Owner
+  From MEDLINE, a database of the U.S. National Library of Medicine.
+Status
+  MEDLINE
+Authors
+  Ago Y.
+Authors Full Name
+  Ago, Yukio.
+Institution
+  Laboratory of Medicinal Pharmacology, Graduate School of Pharmaceutical Sciences, Osaka University, Yamada-oka, Suita, Japan. ago@phs.osaka-u.ac.jp
+Title
+  [Beneficial effect of galantamine on sensory information-processing deficits]. [Review] [Japanese]
+Source
+  Yakugaku Zasshi - Journal of the Pharmaceutical Society of Japan.  130(10):1305-10, 2010 Oct.
+Abbreviated Source
+  Yakugaku Zasshi.  130(10):1305-10, 2010 Oct.
+NLM Journal Name
+  Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan
+Publishing Model
+  Journal available in: Print
+  Citation processed from: Print
+NLM Journal Code
+  jon, 0413613
+Journal Subset
+  IM
+Country of Publication
+  Japan
+MeSH Subject Headings
+    Acetylcholine/me [Metabolism]
+    Animals
+    Cholinesterase Inhibitors/pd [Pharmacology]
+    *Cholinesterase Inhibitors/tu [Therapeutic Use]
+    *Cognition Disorders/dt [Drug Therapy]
+    Cognition Disorders/me [Metabolism]
+    Disease Models, Animal
+    Galantamine/pd [Pharmacology]
+    *Galantamine/tu [Therapeutic Use]
+    Humans
+    Mice
+    Prefrontal Cortex/me [Metabolism]
+    Receptors, Muscarinic/me [Metabolism]
+    *Sensation Disorders/dt [Drug Therapy]
+    Sensation Disorders/me [Metabolism]
+    Startle Reaction/de [Drug Effects]
+Abstract
+  Clinical studies show that galantamine, a weak acetylcholine (ACh) esterase inhibitor and allosteric potentiator of nicotinic ACh receptors (nAChRs), improves negative and cognitive symptoms in schizophrenia, while donepezil, a potent ACh esterase inhibitor, does not. We have recently found that galantamine, but not donepezil, reversed isolation rearing-induced deficits of prepulse inhibition (PPI), sensory information-processing deficits, in mice. In addition, we unexpectedly found that the galantamine-induced improvements in PPI deficits were prevented by the muscarinic ACh receptor (mAChR) antagonists scopolamine and telenzepine (preferential for M(1) subtype), but not by the nAChR antagonists. Galantamine, like donepezil, increased extracellular ACh levels in the prefrontal cortex. However, donepezil, unlike galantamine, inhibited M(1)-mAChR-mediated Ca(2+) signal in human neuroblastoma SH-SY5Y. These results suggest that galantamine improves isolation rearing-induced PPI deficits via an activation of mAChRs and the difference in the effect on the PPI deficits between galantamine and donepezil is due to that in their action on M(1)-mAChRs. The possible mechanisms for the beneficial effect of galantamine are discussed in a model of isolation rearing-induced PPI deficits.
+Registry Number/Name of Substance
+  0 (Cholinesterase Inhibitors).  0 (Receptors, Muscarinic).  0D3Q044KCA (Galantamine).  N9YNS0M02X (Acetylcholine).
+ISSN Print
+  0031-6903
+ISSN Linking
+  0031-6903
+Publication Type
+  English Abstract.  Journal Article.  Review.
+Language
+  Japanese
+Date of Publication
+  2010 Oct
+Date Created
+  20101008
+Year of Publication
+  2010
+Entry Date
+  20101230
+Revision Date
+  20131121
+Update Date
+  20131217
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20930482
+
+
+

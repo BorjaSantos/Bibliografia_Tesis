@@ -1,0 +1,47 @@
+APARTADO 1: INTRODUCTION
+
+3. Stukel TA, Demidenko E, Dykes J, Karagas MR. Two-stage methods for the analysis of pooled data. 
+   Statistics in Medicine 2001; 20(14):2115–2130.
+4. Simmonds MC, Higgins J, Stewart LA, Tierney JF, Clarke MJ, Thompson SG. Meta-analysis of individual 
+   patient data from randomized trials: a review of methods used in practice. NO SE PUEDE ACCEDER
+   Clinical Trials 2005; 2(3):209–217.
+8. Berkey CS, Hoaglin DC, Antczak-Bouckoms A, Mosteller F, Colditz GA. Meta-analysis of multiple outcomes 
+   by regression with random effects. Statistics in Medicine 1998; 17(22):2537–2550.
+10. Gasparrini A, Armstrong B, Kenward MG. Multivariate meta-analysis: a method to summarize non-linear 
+    associations. Statistics in Medicine 2011; 30(20):2504–2506.
+
+APARTADO 3: FIRST STAGE MODEL
+
+27. Verbeke G, Molenberghs G. Linear Mixed Models for Longitudinal Data. Springer Verlag: New York, 2000.
+31. Nam IS, Mengersen K, Garthwaite P. Multivariate meta-analysis. 
+    Statistics in Medicine 2003; 22(14):2309–2333.
+33. Harville DA. Maximum likelihood approaches to variance component estimation and to related problems. 
+    Journal of the American Statistical Association 1977; 72(358):320–338.NO SE PUEDE ACCEDER
+34. Pinheiro JC, Bates DM. Mixed-Effects Models in S and S-PLUS. Springer Verlag: New York, 2000.
+
+APARTADO 4: MULTIVARIATE META-ANALYSIS
+
+37. Stram DO, Lee JW. Variance components testing in the longitudinal mixed effects model. Biometrics 1994;
+    50(4):1171–1177.
+40. White IR. Multivariate random-effects meta-regression: updates to mvmeta. 
+    Stata Journal 2011; 11(2):255–270. NO SE PUEDE ACCEDER (LO TRENGO EN PAPEL)
+66. Ishak KJ, Platt RW, Joseph L, Hanley JA, Caro JJ. Meta-analysis of longitudinal studies. 
+    Clinical Trials 2007; 4(5):525–539. 
+
+APARTADO 6: FURTHER CONSIDERATIONS
+
+45. Hedges LV, Tipton E, Johnson MC. Robust variance estimation in meta-regression with dependent effect 
+    size estimates. Research Synthesis Methods 2010; 1(1):39–65. NO SE PUEDE ACCEDER
+47. Lambert PC, Sutton AJ, Abrams KR, Jones DR. A comparison of summary patient-level covariates in 
+    meta-regression with individual patient data meta-analysis. Journal of Clinical Epidemiology 2002; 55(1):86–94.
+48. Olkin I, Sampson A. Comparison of meta-analysis versus analysis of variance of individual patient 
+    data. Biometrics 1998; 54(1):317–322.
+50. Riley RD, Thompson JR, Abrams KR. An alternative model for bivariate random-effects meta-analysis 
+    when the within-study correlations are unknown. Biostatistics 2008; 9(1):172.
+51. Riley RD. Multivariate meta-analysis: the effect of ignoring within-study correlation. 
+    Journal of the Royal Statistical Society: Series A 2009; 172(4):789–811.
+
+APARTADO 7: DISCUSSION
+
+52. Sauerbrei W, Royston P. A new strategy for meta-analysis of continuous covariates in observational 
+    studies. Statistics in Medicine 2011; 30(28):3341–3360.

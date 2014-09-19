@@ -1,0 +1,39 @@
+﻿
+1. Clin Neuropharmacol. 2007 Jan-Feb;30(1):3-12.
+
+Effects of donepezil adjunctive treatment to ziprasidone on cognitive deficits in
+schizophrenia: a double-blind, placebo-controlled study.
+
+Fagerlund B(1), Søholm B, Fink-Jensen A, Lublin H, Glenthøj BY.
+
+Author information: 
+(1)Department of Psychiatry E, Center for Neuropsychiatric Schizophrenia Research,
+Bispebjerg University Hospital, Copenhagen, Denmark. bfagerlund@email.com
+
+The objective of this study was to examine the effects of adjunctive treatment
+with the acetylcholinesterase inhibitor, donepezil, on cognitive deficits and
+psychopathology in schizophrenic patients treated with the antipsychotic,
+ziprasidone. The design of the study was double blind, placebo controlled, and
+longitudinal. Patients were treated with ziprasidone for 8 weeks, thereafter
+randomized to 4 months of double-blind adjunctive treatment with either donepezil
+(dose, 5-10 mg) or placebo. The severity of psychopathology (PANSS) and the
+cognitive deficits were examined at baseline and after 4 months. A total of 21
+schizophrenic patients were enrolled, of whom 11 patients completed the trial
+(donepezil, n = 7; placebo, n = 4). There were no within- or between-group
+differences in changes on the Positive and Negative Syndrome Scale scores or a
+global cognitive score. Within-group improvements (all at trend level P = 0.07)
+were seen in the placebo group on Trail-Making Test B, immediate verbal recall,
+and set-shifting errors. The donepezil group showed a significant deterioration
+on planning efficiency (P = 0.04). Between-group differences were found between
+the lack of improvement in immediate verbal recall in the donepezil group and the
+improvement in the placebo group (P = 0.02), and between the deterioration of
+planning efficiency in the donepezil group and the stability in the placebo group
+(trend level, P = 0.07). Linear regression analyses showed that neither baseline 
+psychopathology scores, baseline levels of cognitive deficits, nor
+psychopathology changes over time accounted for these changes in cognitive
+scores. The study found no evidence of improved cognition after treatment with
+donepezil, although the conclusions that can be drawn are limited by the small
+sample size.
+
+PMID: 17272964  [PubMed - indexed for MEDLINE]
+

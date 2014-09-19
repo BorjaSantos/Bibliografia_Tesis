@@ -1,0 +1,34 @@
+﻿
+1. Int J Neuropsychopharmacol. 2004 Jun;7(2):117-23. Epub 2004 Jan 23.
+
+A double-blind, placebo controlled, cross-over trial of adjunctive donepezil for 
+cognitive impairment in schizophrenia.
+
+Tuğal O(1), Yazici KM, Anil Yağcioğlu AE, Göğüş A.
+
+Author information: 
+(1)Hacettepe University Faculty of Medicine, Department of Psychiatry, Ankara,
+Turkey.
+
+Although there have been several case reports suggesting the beneficial effect of
+acetylcholinesterase inhibitors in the cognitive deficits seen in schizophrenia, 
+controlled studies have revealed contradictory results. The aim of this study was
+to investigate if donepezil could improve cognitive functions in schizophrenia.
+Twelve schizophrenic patients, who were diagnosed according to DSM-IV criteria
+and who had been on a stable dose of a high-potency typical antipsychotic for a
+minimum period of 3 months, participated in this 12-wk double-blind, placebo
+controlled, cross-over study of donepezil adjunctive treatment. Patients were
+randomly assigned under double-blind conditions to receive 5 mg/d donepezil or
+placebo for 6 wk, and then were crossed over to the alternate condition for 6
+additional weeks. At baseline, 6 and 12 wk, patients were evaluated with the
+Positive and Negative Syndrome Scale (PANSS), Calgary Depression Scale, the
+Wechsler Memory Scale Revised (WMS-R), a test for Verbal Fluency, Trail Making
+Test, Parts A and B, and Wisconsin Card Sorting Test (WCST). Treatment effect was
+not significant in any of the cognitive measures. There were also no significant 
+changes in the PANSS and depression scores. Nicotinic receptor desensitization
+may cause non-responsiveness to acetylcholine as previously suggested, but the
+most likely explanation appears to be that defects in other neurotransmitter
+systems account for the cognitive deficits seen in schizophrenic patients.
+
+PMID: 14741060  [PubMed - indexed for MEDLINE]
+

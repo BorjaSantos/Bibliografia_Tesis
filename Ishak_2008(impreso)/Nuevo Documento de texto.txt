@@ -1,0 +1,30 @@
+APARTADO 1: INTRODUCTION.
+
+1. Raudenbush SW, Becker BJ, Kalaian H. Modeling multivariate effect sizes. Psychological Bulletin 1988;
+   103(1):111–120.No se puede acceder gratuitamante.
+2. Berkey CS, Anderson JJ, Hoaglin DC. Multiple outcome meta-analysis of clinical trials. 
+   Statistics in Medicine 1996; 15:537–557.
+3. Berkey CS, Hoaglin DC, Antczak-Bouckoms A, Mosteller F, Colditz GA. Meta-analysis of multiple outcomes
+   by regression with random effects. Statistics in Medicine 1998; 17:2537–2550.
+4. Nam I, Mengersen K, Garthwaite P. Multivariate meta-analysis. 
+   Statistics in Medicine 2003; 22:2309–2333. DOI: 10.1002/sim.1410
+5. Dear KBG. Iterative generalized least squares for meta-analysis of survival data at multiple times. 
+   Biometrics 1994; 50:989–1002.
+6. Arends LR, Voko Z, Stijnen T. Combining multiple outcome measures in a meta-analysis: an application. 
+   Statistics in Medicine 2003; 22:1335–1353. DOI: 10.1002/sim.1370
+7. Van Houwelingen HC, Zwinderman K, Stijnen T. A bivariate approach to meta-analysis. 
+   Statistics in Medicine 1993; 12:2272–2284. Hay que fotocopiarlo
+8. Van Houwelingen HC, Arends LR, Stijnen T. Advanced methods in meta-analysis: multivariate approach and
+   meta-regression. Statistics in Medicine 2002; 21:589–624. DOI: 10.1002/sim.1040
+9. McIntosh MW. The population risk as an explanatory variable in research synthesis of clinical trials. 
+   Statistics in Medicine 1996; 15:1713–1728.
+
+APARTADO 4: ANALYSIS AND COMPARISON METHODS.
+
+9. McIntosh MW. The population risk as an explanatory variable in research synthesis of clinical trials. 
+   Statistics in Medicine 1996; 15:1713–1728.
+
+APRTADO 6: DISCUSSION
+
+17. Ishak K. Meta-analysis of multiple outcomes: fundamentals and applications. Ph.D. Thesis, McGill 
+    University, 2006

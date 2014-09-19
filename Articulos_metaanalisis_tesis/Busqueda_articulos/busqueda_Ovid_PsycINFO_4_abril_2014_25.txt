@@ -1,0 +1,1874 @@
+<1>
+Accession Number
+  Peer Reviewed Journal: 2013-32050-006.
+Title
+  Adjunctive pharmacotherapy for cognitive deficits in schizophrenia: Meta-analytical investigation of efficacy.  [References].
+Publication Date
+  Sep 2013
+Year of Publication
+  2013
+Publication History
+  Accepted: Apr 2013
+  Revised: Feb 2013
+  First Submitted: Dec 2011
+Language
+  English
+Author
+  Choi, Kee-Hong; Wykes, Til; Kurtz, Matthew M.
+E-Mail Address
+  Kurtz, Matthew M.: mkurtz@wesleyan.edu
+Correspondence Address
+  Kurtz, Matthew M.: Department of Psychology, Wesleyan University, Judd Hall, 207 High Street, Middletown, CT, US, 06459, mkurtz@wesleyan.edu
+Institution
+  Choi, Kee-Hong: Department of Psychology, Korea University, Seoul, South Korea
+  Wykes, Til: Institute of Psychiatry, Kings College, London, United Kingdom
+  Kurtz, Matthew M.: Department of Psychology, Wesleyan University, Middletown, CT, US
+Source
+  The British Journal of Psychiatry. Vol.203(3), Sep 2013, pp. 172-178. 
+ISSN Print
+  0007-1250
+ISSN Electronic
+  1472-1465
+Other Serial Titles
+  Journal of Mental Science
+Publisher Information
+  Royal College of Psychiatrists; United Kingdom
+Format Covered
+  Print
+Publication Type
+  Journal; Peer Reviewed Journal
+Document Type
+  Journal Article
+Abstract
+  Background: A growing number of studies have investigated the efficacy of novel, adjunctive pharmacotherapies for treatment of cognitive deficits in schizophrenia with conflicting results. Aims: To investigate the comparative efficacy of these agents on cognition and symptoms in schizophrenia, and to identify promising cognitive domains and candidate medications that can be incorporated in treatment trials combined with cognitive remediation to maximise treatment effects. Method: A total of 26 double-blind, placebo-controlled studies investigating medications targeted at cholinergic, glutamatergic or serotonergic receptor classes and with participants with schizophrenia or schizoaffective disorder were identified. Results: Medications targeted at the cholinergic receptor class produced marginal improvements in verbal learning and memory (d = 0.23, P = 0.06), and donepezil, a specific type of cholinergic agonist, produced a moderate effect (d = 0.58) on spatial learning and memory. Cholinergic and glutamatergic agents produced moderate effect-size improvements on negative symptoms (d = 0.54 and d = 0.62 respectively), and small effect-size improvements on general symptoms (d = 0.46 and d = 0.41 respectively). Serotonergic agents produced small effect-size improvements in positive symptoms (d = 0.33). Conclusions: Cholinergic medications produced marginal improvement in verbal learning and memory and moderate improvements on spatial learning and memory, although there was no evidence to support the use of glutamatergic or serotonergic medications as a stand-alone treatment for improving cognitive function. Cholinergic and glutamatergic agents improved negative and general symptoms, whereas serotenergic medications improved positive symptoms. (PsycINFO Database Record (c) 2013 APA, all rights reserved) (journal abstract)
+Key Concepts
+  adjunctive pharmacotherapy, cognitive deficits, schizophrenia, treatment efficacy
+Subject Headings
+    *Drug Therapy
+    *Schizophrenia
+    *Treatment Effectiveness Evaluation
+    *Adjunctive Treatment
+    Cognitive Impairment
+Classification Code
+  Schizophrenia & Psychotic States [3213]; Clinical Psychopharmacology [3340]
+Population Group
+  Human
+Methodology
+  Meta Analysis
+Tests & Measures
+  Stroop Test
+  California Verbal Learning Test
+  Wisconsin Card Sorting Test
+  Clinical Global Impression Scale
+  Continuous Performance Test
+  Hopkins Verbal Learning Test
+Test DOI
+  Stroop Test [doi: http://dx.doi.org/10.1037/t05449-000] (9999-05449-000) [PsycTESTS Record Link for subscribers]
+  Continuous Performance Test [doi: http://dx.doi.org/10.1037/t10534-000] (9999-10534-000) [PsycTESTS Record Link for subscribers]
+Grant/Sponsorship
+  <b>Sponsor: </b>National Institute of Mental Health. US
+<b>Grant: </b>K08 MH-69888
+<b>Recepient: </b>No recipient indicated
+
+  <b>Sponsor: </b>National Alliance for Research in Schizophrenia and Depression
+<b>Other Details: </b>Young Investigator Award
+<b>Recepient: </b>Kurtz, Matthew M.
+
+Cited References
+  Akhondzadeh, S., Gerami, M., Noroozian, M., Karamghadiri, N., Ghoreishi, A., Abbasi, S. H., et al. (2008). A 12-week, double-blind, placebo- controlled trial of donepezil adjunctive treatment to risperidone in chronic and stable schizophrenia. Prog Neuropsychopharmacol Biol Psychiatry, 32, 1810-5. http://dx.doi.org/10.1016/j.pnpbp.2008.08.001
+
+  Amminger, G. P., Schafer, M. R., Papageorgiou, K., Klier, C. M., Cotton, S. M., Harrigan, S. M., et al. (2010). Long-chain-3 fatty acids for indicated prevention of psychotic disorders. Arch Gen Psychiatry, 67, 146-54. http://dx.doi.org/10.1001/archgenpsychiatry.2009.192
+
+  Buchanan, R. W., Conley, R. R., Dickinson, D., Ball, M. P., Feldman, S., Gold, J. M., et al. (2008). Galantamine for the treatment of cognitive impairments in people with schizophrenia. Am J Psychiatry, 165, 82-9. http://dx.doi.org/10.1176/appi.ajp.2007.07050724
+
+  Buchanan, R. W., Javitt, D. C., Marder, S. R., Schooler, N. R., Gold, J. M., McMahon, R. P., et al. (2007). The Cognitive and Negative Symptoms in Schizophrenia Trial (CONSIST): the efficacy of glutamatergic agents for negative symptoms and cognitive impairments. Am J Psychiatry, 164, 1593-602. http://dx.doi.org/10.1176/appi.ajp.2007.06081358
+
+  De Gracia Dominguez, M., Viechtbauer, W., Simons, C. J. P., Van Os, J., & Krabbendam, L. (2009). Are psychotic psychopathology and neurocognition orthogonal? A systematic review of their associations. Psychol Bull, 135, 157-71. http://dx.doi.org/10.1037/a0014415
+
+  Dickinson, D., & Harvey, P. D. (2009). Systemic hypotheses for generalized cognitive deficits in schizophrenia: a new take on an old problem. Schizophr Bull, 35, 403-14. http://dx.doi.org/10.1093/schbul/sbn097
+
+  Dyer, M. A., Freudenreich, O., Culhane, M. A., Pachas, G. N., Deckersbach, T., Murphy, E., et al. (2008). High-dose galantamine augmentation inferior to placebo on attention, inhibitory control and working memory performance in nonsmokers with schizophrenia. Schizophr Res, 102, 88-95. http://dx.doi.org/10.1016/j.schres.2007.12.491
+
+  Fagerlund, B., Soholm, B., Fink-Jensen, A., Lublin, H., & Glenthoj, B. Y. (2007). Effects of donepezil adjunctive treatment to ziprasidone on cognitive deficits in schizophrenia: a double-blind, placebo-controlled study. Clin Neuropharmacol, 30, 3-12. http://dx.doi.org/10.1097/01.WNF.0000240940.67241.F6
+
+  Freudenreich, O., Herz, L., Deckersbach, T., Evins, A. E., Henderson, D. C., Cather, C., et al. (2005). Added donepezil for stable schizophrenia: a double-blind, placebocontrolled trial. Psychopharmacology (Berl) 2005;181:358-63.
+
+  Friedman, J. I., Adler, D. N., Howanitz, E., Harvey, P. D., Brenner, G., Temporini, H., et al. (2002). A double blind placebo controlled trial of donepezil adjunctive treatment to risperidone for the cognitive impairment of schizophrenia. Biol Psychiatry 2002;51:349-57.2002-02666-00111904128
+
+  Gladsjo, J. A., McAdams, L. A., Palmer, B. W., Moore, D. J., Jeste, D. V., & Heaton, R. K. (2004). A six-factor model of cognition in schizophrenia and related psychotic disorders: relationships with clinical symptoms and functional capacity. Schizophr Bull 2004;30:739-54.2005-03315-00815957196
+
+  Glass, G. V., McGaw, B., & Smith, M. L. (1981). Meta-analysis in Social Research. Sage, 1981.
+
+  Glass, G. V. (1977). Integrating findings: the meta-analysis of research. Rev Res Educ 1977;5:351-79.
+
+  Gleser, L. J., & Olkin, I. (1994). Stochastically dependent effect sizes. In The Handbook of Research Synthesis (eds HM Cooper, LV Hedges): 339-55. Sage Publications, 1994.1993-99100-021
+
+  Goff, D. C., Cather, C., Gottlieb, J. D., Evins, A. E., Walsh, J., Raeke, L., et al. (2008). Once-weekly D-cycloserine effects on negative symptoms and cognition in schizophrenia: an exploratory study. Schizophr Res, 106, 320-7. http://dx.doi.org/10.1016/j.schres.2008.08.012
+
+  Goff, D. C., Hill, M., & Barch, D. (2011). The treatment of cognitive impairment in schizophrenia. Pharmacol Biochem Behav, 99, 245-53. http://dx.doi.org/10.1016/j.pbb.2010.11.009
+
+  Goff, D. C., Lamberti, J. S., Leon, A. C., Green, M. F., Miller, A. L., Patel, J., et al. (2008). A placebo-controlled add-on trial of the Ampakine, CX516, for cognitive deficits in schizophrenia. Neuropsychopharmacol, 33, 465-72. http://dx.doi.org/10.1038/sj.npp.1301444
+
+  Goff, D. C., Leahy, L., Berman, I., Posever, T., Herz, L., Leon, A. C., et al. (2001). A placebo-controlled pilot study of the ampakine CX516 added to clozapine in schizophrenia. J Clin Psychopharmacol, 21, 484-7. http://dx.doi.org/10.1097/00004714-200110000-00005
+
+  Goff, D. C., Tsai, G., Levitt, J., Amico, E., Manoach, D., Schoenfeld, D. A., et al. (1999). A placebo-controlled trial of D-cycloserine added to conventional neuroleptics in patients with schizophrenia. Arch Gen Psychiatry, 56, 21-7. http://dx.doi.org/10.1001/archpsyc.56.1.21
+
+  Goff, D. C., Tsai, G., Manoach, D. S., Flood, J., Darby, D. G., & Coyle, J. T. (1996). D-cycloserine added to clozapine for patients with schizophrenia. Am J Psychiatry 1996;153:1628-30.1996-00499-0188942463
+
+  Green, M. F., Kern, R. S., Braff, D. L., & Mintz, J. (2000). Neurocognitive deficits and functional outcome in schizophrenia: are we measuring the "right stuff"? Schizophr Bull 2000;26:119-36.2000-08139-00710755673
+
+  Green, M. F., & Nuechterlein, K. H. (1999). Should schizophrenia be treated as a neurocognitive disorder? Schizophr Bull 1999;25:309-19.1999-05588-00910416733
+
+  Green, M. F. (2006). Cognitive impairment and functional outcome in schizophrenia and bipolar disorder. J Clin Psychiatry 2006;67:3-8.
+
+  Green, M. F. (1996). What are the functional consequences of neurocognitive deficits in schizophrenia? Am J Psychiatry 1996;153:321-30.1996-00417-0028610818
+
+  Harvey, P., Silverman, J., Mohs, R., Parrella, M., White, L., Powchik, P., et al. (1999). Cognitive decline in late-life schizophrenia: a longitudinal study of geriatric chronically hospitalized patients. Biol Psychiatry, 45, 32-40. http://dx.doi.org/10.1016/S0006-3223(98)00273-X
+
+  Harvey, P. D., & Keefe, R. S. E. (2001). Studies of cognitive change in patients with schizophrenia following novel antipsychotic treatment. Am J Psychiatry, 158, 176-84. http://dx.doi.org/10.1176/appi.ajp.158.2.176
+
+  Hawkins, K. A., & Wexler, B. E. (1999). California Verbal Learning Test practice effects in a schizophrenia sample. Schizophr Res, 39, 73-8. http://dx.doi.org/10.1016/S0920-9964(99)00015-8
+
+  Hedges, L. V., & Olkin, I. (1985). Statistical Methods for Meta-Analysis. Academic Press, 1985.
+
+  Hedges, L. V., & Vevea, J. L. (1998). Fixed-and random-effects models in meta-analysis. Psychol Methods, 3, 486-504. http://dx.doi.org/10.1037/1082-989X.3.4.486
+
+  Hedges, L. V. (1981). Distribution theory for Glass's estimator of effect size and related estimators. J Educ Stat, 6, 107-28. http://dx.doi.org/10.2307/1164588
+
+  Javitt, D. C. (2010). Effects of intranasal AL-108 (davunetide) on neurocognition and functional outcome in schizopherenia. Schizophr Res 2010;117:118-9.
+
+  Keefe, R. S., Malhotra, A. K., Meltzer, H. Y., Kane, J. M., Buchanan, R. W., Murthy, A., et al. (2008). Efficacy and safety of donepezil in patients with schizophrenia or schizoaffective disorder: significant placebo/practice effects in a 12-week, randomized, double-blind, placebo-controlled trial. Neuropsychopharmacol, 33, 1217-28. http://dx.doi.org/10.1038/sj.npp.1301499
+
+  Keefe, R. S. E., Buchanan, R. W., Marder, S. R., Schooler, N. R., Dugar, A., Zivkov, M., et al. (2013). Clinical trials of potential cognitive-enhancing drugs in schizophrenia: what have we learned so far?. Schizophr Bull, 39, 417-35. http://dx.doi.org/10.1093/schbul/sbr153
+
+  Keefe, R. S. E., Fox, K. H., Harvey, P. D., Cucchiaro, J., Siu, C., & Loebel, A. (2011). Characteristics of the MATRICS Consensus Cognitive Battery in a 29-site antipsychotic schizophrenia clinical trial. Schizophr Res, 125, 161-8. http://dx.doi.org/10.1016/j.schres.2010.09.015
+
+  Keefe, R. S. E., Goldberg, T. E., Harvey, P. D., Gold, J. M., Poe, M. P., & Coughenour, L. (2004). The Brief Assessment of Cognition in Schizophrenia: reliability, sensitivity, and comparison with a standard neurocognitive battery. Schizophr Res, 68, 283-97. http://dx.doi.org/10.1016/j.schres.2003.09.011
+
+  Keefe, S., Bilder, R., Davis, S., Harvey, P., Palmer, B., Gold, J., et al. (2007). Neurocognitive effects of antipsychotic medications in patients with chronic schizophrenia in the CATIE trial. Arch Gen Psychiatry, 64, 633-47. http://dx.doi.org/10.1001/archpsyc.64.6.633
+
+  Kohler, C. G., Martin, E. A., Kujawski, E., Bilker, W., Gur, R. E., & Gur, R. C. (2010). No effect of donepezil on neurocognition and social cognition in young persons with stable schizophrenia. Cogn Neuropsychiatry, 12, 412-21. http://dx.doi.org/10.1080/13546800701307263
+
+  Kohler, C. G., Walker, J. B., Martin, E. A., Healey, K. M., & Moberg, P. J. (2010). Facial emotion perception in schizophrenia: a meta-analytic review. Schizophr Bull, 36, 1009-19. http://dx.doi.org/10.1093/schbul/sbn192
+
+  Lane, H. Y., Liu, Y. C., Huang, C. L., Chang, Y. C., Liau, C. H., Perng, C. H., et al. (2008). Sarcosine (N-methylglycine) treatment for acute schizophrenia: a randomized, double-blind study. Biol Psychiatry, 63, 9-12. http://dx.doi.org/10.1016/j.biopsych.2007.04.038
+
+  Lee, B. J., Lee, J. G., & Kim, Y. H. (2007). A 12-week, double-blind, placebo-controlled trial of donepezil as an adjunct to haloperidol for treating cognitive impairments in patients with chronic schizophrenia. J Psychopharmacol, 21, 421-7. http://dx.doi.org/10.1177/0269881106070996
+
+  Lee, S. W., Lee, J. G., Lee, B. J., & Kim, Y. H. (2007). A 12-week, double-blind, placebo-controlled trial of galantamine adjunctive treatment to conventional antipsychotics for the cognitive impairments in chronic schizophrenia. Int Clin Psychopharmacol, 22, 63-8. http://dx.doi.org/10.1097/YIC.0b013e3280117feb
+
+  Lindenmayer, J. P., & Khan, A. (2011). Galantamine augmentation of long-acting injectable risperidone for cognitive impairments in chronic schizophrenia. Schizophr Res, 125, 267-77. http://dx.doi.org/10.1016/j.schres.2010.08.021
+
+  Lipsey, M. W., & Wilson, D. B. (2001). The way in which intervention studies have "personality" and why it is important to meta-analysis. Eval Health Prof, 24, 236-54. http://dx.doi.org/10.1177/01632780122034902
+
+  McGurk, S. R., Twamley, E. W., Sitzer, D. I., McHugo, G. J., & Mueser, K. T. (2007). A meta-analysis of cognitive remediation in schizophrenia. Am J Psychiatry, 164, 1791-802. http://dx.doi.org/10.1176/appi.ajp.2007.07060906
+
+  Moher, D., Cook, D. J., Eastwood, S., Olkin, I., Rennie, D., & Stroup, D. F. (1999). Improving the quality of reports of meta-analyses of randomised controlled trials: the QUOROM statement. Lancet 1999;354:1896-900.
+
+  Nuechterlein, K. H., Barch, D. M., Gold, J. M., Goldberg, T. E., Green, M. F., & Heaton, R. K. (2004). Identification of separable cognitive factors in schizophrenia. Schizophr Res, 72, 29-39. http://dx.doi.org/10.1016/j.schres.2004.09.007
+
+  Nuechterlein, K. H., Green, M. F., Kern, R. S., Baade, L. E., Barch, D. M., Cohen, J. D., et al. (2008). The MATRICS Consensus Cognitive Battery, part 1: test selection, reliability, and validity. Am J Psychiatry, 165, 203-13. http://dx.doi.org/10.1176/appi.ajp.2007.07010042
+
+  Orwin, R. G. (1983). A fail-safe N for effect size in meta-analysis. J Educ Stat, 8, 157-9. http://dx.doi.org/10.2307/1164923
+
+  Pikuli, D., Olver, J. S., Maruff, P., & Norman, T. R. (2009). Treatment of cognitive dysfunction in chronic schizophrenia by augmentation of atypical antipsychotics with buspirone, a partial 5 HT1A receptor agonist. Hum Psychopharm Clin 2009;24:437-46.
+
+  Poyurovsky, M., Koren, D., Gonopolsky, I., Schneidman, M., Fuchs, C., Weizman, A., et al. (2003). Effect of the 5-HT2 antagonist mianserin on cognitive dysfunction in chronic schizophrenia patients: an add-on, double-blind placebo-controlled study. Eur Neuropsychopharmacol, 13, 123-8. http://dx.doi.org/10.1016/S0924-977X(02)00155-4
+
+  Rosenthal, R. (1994). Parametric measures of effect size. In The Handbook of Research Synthesis (eds HM Cooper, LV Hedges): 231-44. Sage, 1994.1993-99100-015
+
+  Saykin, A. J., Shtasel, D. L., Gur, R. E., Kester, D. B., Mozley, L. H., Stafiniak, P., et al. (1994). Neuropsychological deficits in neuroleptic naive patients with first-episode schizophrenia. Arch Gen Psychiatry, 51, 124-31. http://dx.doi.org/10.1001/archpsyc.1994.03950020048005
+
+  Schubert, M. H., Young, K. A., & Hicks, P. B. (2006). Galantamine improves cognition in schizophrenic patients stabilized on risperidone. Biol Psychiatry, 60, 530-3. http://dx.doi.org/10.1016/j.biopsych.2006.04.006
+
+  Schubert, M. H., Young, K. A., & Hicks, P. B. (2006). Galantamine improves cognition in schizophrenic patients stabilized on risperidone. Biol Psychiatry, 60, 530-3. http://dx.doi.org/10.1016/j.biopsych.2006.04.006
+
+  Sharma, T., Reed, C., Aasen, I., & Kumari, V. (2006). Cognitive effects of adjunctive 24-weeks Rivastigmine treatment to antipsychotics in schizophrenia: a randomized, placebo-controlled, double-blind investigation. Schizophr Res, 85, 73-83. http://dx.doi.org/10.1016/j.schres.2006.03.037
+
+  Shiina, A., Shirayama, Y., Niitsu, T., Hashimoto, T., Yoshida, T., Hasegawa, T., et al. (2010). A randomised, double-blind, placebo-controlled trial of tropisetron in patients with schizophrenia. Ann Gen Psychiatry, 9, 1-10. http://dx.doi.org/10.1186/1744-859X-9-27
+
+  Sumiyoshi, T., Matsui, M., Nohara, S., Yamashita, I., Kurachi, M., Sumiyoshi, C., et al. (2001). Enhancement of cognitive performance in schizophrenia by addition of tandospirone to neuroleptic treatment. Am J Psychiatry, 158, 1722-5. http://dx.doi.org/10.1176/appi.ajp.158.10.1722
+
+  Sumiyoshi, T., Matsui, M., Yamashita, I., Nohara, S., Kurachi, M., Uehara, T., et al. (2001). The effect of tandospirone, a serotonin (1A) agonist, on memory function in schizophrenia. Biol Psychiatry, 49, 861-8. http://dx.doi.org/10.1016/S0006-3223(00)01025-8
+
+  Sumiyoshi, T., Park, S., Jayathilake, K., Roy, A., Ertugrul, A., & Meltzer, H. Y. (2007). Effect of buspirone, a serotonin1A partial agonist, on cognitive function in schizophrenia: a randomized, double-blind, placebo-controlled study. Schizophr Res, 95, 158-68. http://dx.doi.org/10.1016/j.schres.2007.06.008
+
+  Tsai, G., Lane, H. Y., Yang, P., Chong, M. Y., & Lange, N. (2004). Glycine transporter I inhibitor, N-methylglycine (sarcosine), added to antipsychotics for the treatment of schizophrenia. Biol Psychiatry, 55, 452-56. http://dx.doi.org/10.1016/j.biopsych.2003.09.012
+
+  Tsai, G., Yang, P., Chung, L. C., Lange, N., & Coyle, J. T. (1998). D-serine added to antipsychotics for the treatment of schizophrenia. Biol Psychiatry, 44, 1081-9. http://dx.doi.org/10.1016/S0006-3223(98)00279-0
+
+  Tsai, G. E., Yang, P., Chang, Y. C., & Chong, M. Y. (2006). D-alanine added to antipsychotics for the treatment of schizophrenia. Biol Psychiatry, 59, 230-4. http://dx.doi.org/10.1016/j.biopsych.2005.06.032
+
+  Tsai, G. E., Yang, P., Chung, L. C., & Tsai, I. (1999). D-serine added to clozapine for the treatment of schizophrenia. Am J Psychiatry 1999;156:1822-5.1999-01651-02410553752
+
+  Wykes, T., Huddy, V., Cellard, C., McGurk, S. R., & Czobor, P. (2011). A meta-analysis of cognitive remediation for schizophrenia: methodology and effect sizes. Am J Psychiatry, 168, 472-85. http://dx.doi.org/10.1176/appi.ajp.2010.10060855
+
+  Wykes, T., & Spaulding, W. D. (2011). Thinking about the future cognitive remediation therapy - what works and could we do better? Schizophr Bull 2011;37(Suppl 2):S80-90.
+Update Code
+  20131125 (PsycINFO)
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc8&AN=2013-32050-006
+
+<2>
+Accession Number
+  Peer Reviewed Journal: 2012-24927-001.
+Title
+  Cholinergic gating of hippocampal auditory evoked potentials in freely moving rats.  [References].
+Publication Date
+  Aug 2013
+Year of Publication
+  2013
+Publication History
+  Accepted: Aug 2012
+  Revised: Jul 2012
+  First Submitted: Mar 2012
+Language
+  English
+Author
+  Klinkenberg, Inge; Sambeth, Anke; Blokland, Arjan.
+E-Mail Address
+  Klinkenberg, Inge: inge.klinkenberg@maastrichtuniversity.nl
+Correspondence Address
+  Klinkenberg, Inge: Faculty of Psychology and Neuroscience, Department of Neuropsychology and Psychopharmacology, Maastricht University, P.O. Box 616, Maastricht, Netherlands, 6200 MD, inge.klinkenberg@maastrichtuniversity.nl
+Institution
+  Klinkenberg, Inge: Faculty of Psychology and Neuroscience, Department of Neuropsychology and Psychopharmacology, Maastricht University, Maastricht, Netherlands
+  Sambeth, Anke: Faculty of Psychology and Neuroscience, Department of Neuropsychology and Psychopharmacology, Maastricht University, Maastricht, Netherlands
+  Blokland, Arjan: Faculty of Psychology and Neuroscience, Department of Neuropsychology and Psychopharmacology, Maastricht University, Maastricht, Netherlands
+Source
+  European Neuropsychopharmacology. Vol.23(8), Aug 2013, pp. 988-997. 
+ISSN Print
+  0924-977X
+Publisher Information
+  Elsevier Science; Netherlands
+Format Covered
+  Electronic
+Publication Type
+  Journal; Peer Reviewed Journal
+Document Type
+  Journal Article
+Abstract
+  As perturbations in auditory filtering appear to be a candidate trait marker of schizophrenia, there has been considerable interest in the development of translational rat models to elucidate the underlying neural and neurochemical mechanisms involved in sensory gating. This is the first study to investigate the effects of the non-selective muscarinic antagonist scopolamine, the muscarinic M1 antagonist biperiden and the cholinesterase inhibitor donepezil (also in combination with scopolamine and biperiden) on auditory evoked potentials (AEPs) and sensory gating. In the saline condition, only the N50 peak displayed sensory gating. Scopolamine and biperiden both disrupted sensory gating by increasing N50 amplitude for the S2 click. Donepezil was able to fully reverse the effects of biperiden on N50 sensory gating, but had residual effects when combined with scopolamine; i.e., it enhanced sensory gating by increasing N50 amplitude of the S1 stimulus. Donepezil by itself improved sensory gating by enhancing N50 amplitude of S1, and reducing N50 amplitude of the S2 click. In conclusion, due to its relatively more selective effects biperiden is to be preferred over scopolamine as a means for pharmacologically inducing cholinergic impairments in auditory processing in healthy rats. Changes in auditory processing and sensory gating induced by cholinergic drugs may serve as a translational model for aging instead of schizophrenia. (PsycINFO Database Record (c) 2013 APA, all rights reserved) (journal abstract)
+Digital Object Identifier
+  http://dx.doi.org/10.1016/j.euroneuro.2012.08.014
+PMID
+  22974558
+Key Concepts
+  cholinergic gating, hippocampus, auditory evoked potentials, rats, antagonist scopolamine, neurochemical mechanisms
+Subject Headings
+    *Auditory Evoked Potentials
+    *Hippocampus
+    *Scopolamine
+    *Sensory Gating
+    Neurochemistry
+    Rats
+Classification Code
+  Electrophysiology [2530]
+Population Group
+  Animal; Male
+Methodology
+  Empirical Study; Quantitative Study
+Grant/Sponsorship
+  <b>Sponsor: </b>Dutch Alzheimer Society (ISAO). Netherlands
+<b>Grant: </b>08554
+<b>Recepient: </b>No recipient indicated
+
+Copyright
+  STATEMENT: All rights reserved.
+  HOLDER: Elsevier B.V. and ECNP
+  YEAR: 2012
+Cited References
+  Adler, L.E., Pachtman, E., Franks, R.D., Pecevich, M., Waldo, M.C., & Freedman, R. (1982). Neurophysiological evidence for a defect in neuronal mechanisms involved in sensory gating in schizophrenia. Biol. Psychiatry, 17, 639-654.71044171983-01116-001
+
+  Adler, L.E., Rose, G., & Freedman, R. (1986). Neurophysiological studies of sensory gating in rats: effects of amphetamine, phencyclidine, and haloperidol. Biol. Psychiatry, 21, 787-798. http://dx.doi.org/10.1016/0006-3223(86)90244-1
+
+  Bickford, P.C., Luntz-Leybman, V., & Freedman, R. (1993). Auditory sensory gating in the rat hippocampus: modulation by brainstem activity. Brain Res, 607, 33-38. http://dx.doi.org/10.1016/0006-8993(93)91486-C
+
+  Bickford-Wimer, P.C., Nagamoto, H., Johnson, R., Adler, L.E., Egan, M., Rose, G.M., & Freedman, R. (1990). Auditory sensory gating in hippocampal neurons: a model system in the rat. Biol. Psychiat., 27, 183-192. http://dx.doi.org/10.1016/0006-3223(90)90648-L
+
+  Bolden, C., Cusack, B., & Richelson, E. (1992). Antagonism by antimuscarinic and neuroleptic compounds at the five cloned human muscarinic cholinergic receptors expressed in Chinese hamster ovary cells. J. Pharmacol. Exp. Ther. 260, 576-580.13466371992-26362-001
+
+  Borg, E. (1982). Auditory thresholds in rats of different age and strain. A behavioral and electrophysiological study. Hear. Res., 8, 101-115. http://dx.doi.org/10.1016/0378-5955(82)90069-7
+
+  Boutros, N.N., Bonnet, K.A., Millana, R., & Liu, J. (1997). A parametric study of the N40 auditory evoked response in rats. Biol. Psychiatry, 42, 1051-1059. http://dx.doi.org/10.1016/S0006-3223(97)00161-3
+
+  Boutros, N.N., Korzyukov, O., Jansen, B., Feingold, A., & Bell, M. (2004). Sensory gating deficits during the mid-latency phase of information processing in medicated schizophrenia patients. Psychiatr. Res., 126, 203-215. http://dx.doi.org/10.1016/j.psychres.2004.01.007
+
+  Bramon, E., Rabe-Hesketh, S., Sham, P., Murray, R.M., & Frangou, S. (2004). Meta-analysis of the P300 and P50 waveforms in schizophrenia. Schizophr. Res., 70, 315-329. http://dx.doi.org/10.1016/j.schres.2004.01.004
+
+  Brockhaus-Dumke, A., Schultze-Lutter, F., Mueller, R., Tendolkar, I., Bechdolf, A., Pukrop, R., Klosterkoetter, J., & Ruhrmann, S. (2008). Sensory gating in schizophrenia: P50 and N100 gating in antipsychotic-free subjects at risk, first-episode, and chronic patients. Biol. Psychiatry, 64, 376-384. http://dx.doi.org/10.1016/j.biopsych.2008.02.006
+
+  Buchwald, J.S., Erwin, R.J., Read, S., Van Lancker, D., & Cummings, J.L. (1989). Midlatency auditory evoked responses: differential abnormality of P1 in Alzheimer's disease. Electroencephalogr. Clin. Neurophysiol., 74, 378-384. http://dx.doi.org/10.1016/0168-5597(89)90005-1
+
+  Buchwald, J.S., Rubinstein, E.H., Schwafel, J., & Strandburg, R.J. (1991). Midlatency auditory evoked responses: differential effects of a cholinergic agonist and antagonist. Electroencephalogr. Clin. Neurophysiol., 80, 303-309. http://dx.doi.org/10.1016/0168-5597(91)90114-D
+
+  Bymaster, F.P., McKinzie, D.L., Felder, C.C., & Wess, J. (2003). Use of M1-M5 muscarinic receptor knockout mice as novel tools to delineate the physiological roles of the muscarinic cholinergic system. Neurochem. Res., 28, 437-442. http://dx.doi.org/10.1023/A:1022844517200
+
+  Cadenhead, K.S., Light, G.A., Geyer, M.A., & Braff, D.L. (2000). Sensory gating deficits assessed by the P50 event-related potential in subjects with schizotypal personality disorder. Am. J. Psychiatry, 157, 55-59.106180132000-13126-007
+
+  Campbell, K.A., Kalmbacher, C.E., Specht, C.D., & Gregg, T.R. (1995). Dependence of rat vertex auditory evoked potentials on central muscarinic receptor activation. Brain Res, 702, 110-116. http://dx.doi.org/10.1016/0006-8993(95)01027-4
+
+  Cancelli, I., Cadore, I.P., Merlino, G., Valentinis, L., Moratti, U., Bergonzi, P., Gigli, G.L., & Valente, M. (2006). Sensory gating deficit assessed by P50/Pb middle latency event related potential in Alzheimer's disease. J. Clin. Neurophysiol., 23, 421-425. http://dx.doi.org/10.1097/01.wnp.0000218991.99714.ee
+
+  Caulfield, M.P. (1993). Muscarinic receptors-characterization, coupling and function. Pharmacol. Ther., 58, 319-379. http://dx.doi.org/10.1016/0163-7258(93)90027-B
+
+  de Bruin, N.M.W.J., Ellenbroek, B.A., Van Schaijk, W.J., Cools, A.R., Coenen, A.M.L., & Van Luijtelaar, E.L.J.M. (2001). Sensory gating of auditory evoked potentials in rats: effects of repetitive stimulation and the interstimulus interval. Biol. Psychol., 55, 195-213. http://dx.doi.org/10.1016/S0301-0511(00)00084-3
+
+  De Wilde, O.M., Bour, L.J., Dingemans, P.M., Koelman, J.H.T.M., & Linszen, D.H. (2007). Failure to find P50 suppression deficits in young first-episode patients with schizophrenia and clinically unaffected siblings. Schizophr. Bull., 33, 1319-1323. http://dx.doi.org/10.1093/schbul/sbm001
+
+  Dudar, J.D., Wishaw, I.Q., & Szerb, J.C. (1979). Release of acetylcholine from the hippocampus of freely moving rats during sensory stimulation and running. Neuropsychopharmacology, 18, 673-678.492487
+
+  Fein, G., Biggins, C., & Van Dyke, C. (1994). The auditory P50 response is normal in Alzheimer's disease when measured via a paired click paradigm. Electroen. Clin. Neuro, 92, 536-545. http://dx.doi.org/10.1016/0168-5597(94)90138-4
+
+  Golob, E.J., Johnson, J.K., & Starr, A. (2001). Auditory event-related potentials during target detection are abnormal in mild cognitive impairment. Clin. Neurophysiol., 113, 151-161. http://dx.doi.org/10.1016/S1388-2457(01)00713-1
+
+  Irimajiri, R., Golob, E.J., & Starr, A. (2005). Auditory brain-stem, middle- and long-latency evoked potentials in mild cognitive impairment. Clin. Neurophysiol., 116, 1918-1929. http://dx.doi.org/10.1016/j.clinph.2005.04.010
+
+  Jann, M.W., Shirley, K.L., & Small, G.W. (2002). Clinical pharmacokinetics and pharmacodynamics of cholinesterase inhibitors. Clin. Pharmacokinet., 41, 719-739. http://dx.doi.org/10.2165/00003088-200241100-00003
+
+  Jessen, F., Kucharski, C., Fries, T., Papassotiropoulos, A., Hoenig, K., Maier, W., & Heun, R. (2001). Sensory gating deficit expressed by a disturbed suppression of the P50 event-related potential in patients with Alzheimer's disease. Am. J Psychiatry, 158, 1319-1321. http://dx.doi.org/10.1176/appi.ajp.158.8.1319
+
+  Jin, Y., Bunney, W.E., Jr., Sandman, C.A., Patterson, J.V., Fleming, K., Moenter, J.R., Kalali, A.H., Hetrick, W.P., & Potkin, S.G. (1998). Is P50 suppression a measure of sensory gating in schizophrenia?. Biol. Psychiatry, 43, 873-878. http://dx.doi.org/10.1016/S0006-3223(98)00115-2
+
+  Jin, Y., Potkin, S.G., Patterson, J.V., Sandman, C.A., Hetrick, W.P., & Bunney, W.E., Jr (1997). Effects of P50 temporal variability on sensory gating in schizophrenia. Psychiatry Res, 70, 71-81. http://dx.doi.org/10.1016/S0165-1781(97)03091-6
+
+  Katayama, S., Ishizaki, F., Yamamura, Y., Khoriyama, T., & Kito, S. (1990). Effects of anticholinergic antiparkinsonian drugs on binding of muscarinic receptor subtypes in rat brain. Res. Commun. Chem. Pathol. Pharmocol. 69, 261-270.2236897
+
+  Kathmann, N., & Engel, R.R. (1990). Sensory gating in normals and schizophrenics: a failure to find strong P50 suppression in normals. Biol. Psychiatry, 27, 1216-1226. http://dx.doi.org/10.1016/0006-3223(90)90419-3
+
+  Klinkenberg, I., & Blokland, A. (2010). The validity of scopolamine as a pharmacological model for cognitive impairment: a review of animal behavioral studies. Neurosci. Biobehav. Res., 34, 1307-1350. http://dx.doi.org/10.1016/j.neubiorev.2010.04.001
+
+  Klinkenberg, I., & Blokland, A. (2011). A comparison of scopolamine and biperiden as a rodent model for cholinergic cognitive impairment. Psychopharmacology, 215, 549-566. http://dx.doi.org/10.1007/s00213-011-2171-1
+
+  Krause, M., Hoffmann, W.E., & Hajos, M. (2003). Auditory sensory gating in hippocampus and reticular thalamic neurons in anesthetized rats. Biol. Psychiatry, 53, 244-253. http://dx.doi.org/10.1016/S0006-3223(02)01463-4
+
+  Lamberti, J.S., Schwarzkopf, S.B., Boutros, N., Crilly, J.F., & Martin, R. (1993). Within-session changes in sensory gating assessed by P50 evoked potentials in normal subjects. Prog. Neuropsychopharmacol. Biol. Psychiatry, 17, 781-791. http://dx.doi.org/10.1016/0278-5846(93)90060-6
+
+  Legault, G., Smith, C.T., & Beninger, R.J. (2004). Scopolamine during the paradoxical sleep window impairs radial arm maze learning in rats. Pharmacol. Biochem. Behav., 79, 715-721. http://dx.doi.org/10.1016/j.pbb.2004.09.018
+
+  Levey, A.I., Edmunds, S.M., Koliatsos, V., Wiley, R.G., & Heilman, C.J. (1995). Expression of m1-m4 muscarinic acetylcholine receptor proteins in rat hippocampus and regulation by cholinergic innervation. J. Neurosci. 15, 4077-4092.7751967
+
+  Luntz-Leybman, V., Bickford, P.C., & Freedman, R. (1992). Cholinergic gating of response to auditory stimuli in rat hippocampus. Brain Res, 587, 130-136. http://dx.doi.org/10.1016/0006-8993(92)91437-J
+
+  Mesulam, M.M., Mufson, E.J., Wainer, B.H., & Levey, A.I. (1983). Central cholinergic pathways in the rat: an overview based on an alternative nomenclature (ch1-ch6). Neuroscience, 10, 1185-1201. http://dx.doi.org/10.1016/0306-4522(83)90108-2
+
+  Miyazato, H., Skinner, R.D., & Garcia-Rill, E. (1999). Sensory gating of the P13 midlatency auditory evoked potential and the startle response in the rat. Brain Res, 822, 60-71. http://dx.doi.org/10.1016/S0006-8993(99)01074-4
+
+  Miyazato, H., Skinner, R.D., Reese, N.B., Boop, F.A., & Garcia-Rill, E. (1995). A middle-latency auditory-evoked potential in the rat. Brain Res. Bull., 37, 247-255. http://dx.doi.org/10.1016/0361-9230(95)00003-W
+
+  Miyazato, H., Skinner, R.D., Reese, N.B., Mukawa, J., & Garcia-Rill, E. (1996). Midlatency auditory evoked potentials and the startle response in the rat. Neuroscience, 75, 289-300. http://dx.doi.org/10.1016/0306-4522(96)00176-5
+
+  Nagamoto, H.T., Adler, L.E., Hea, R.A., Griffith, J.M., McRae, K.A., & Freedman, R. (1996). Gating of auditory P50 in schizophrenics: unique effects of clozapine. Biol. Psychiatry, 40, 181-188. http://dx.doi.org/10.1016/0006-3223(95)00371-1
+
+  Nagamoto, H.T., Adler, L.E., Waldo, M.C., & Freedman, R. (1989). Sensory gating in schizophrenics and normal controls: effects of changing stimulation interval. Biol. Psychiatry, 25, 549-561. http://dx.doi.org/10.1016/0006-3223(89)90215-1
+
+  Olincy, A., Braff, D.L., Adler, L.E., Cadenhead, K.S., Calkins, M.E., Dobie, D.J., Green, M.F., Greenwood, T.A., Gur, R.E., Gur, R.C., Light, G.A., Mintz, J., Nuechterlein, K.H., Radant, A.D., Schork, N.J., Seidman, L.J., Siever, L.J., Silverman, J.M., Stone, W.S., Swerdlow, N.R., Tsuang, D.W., Tsuang, M.T., Turetsky, B.I., Wagner, B.D., & Freedman, R. (2010). Inhibition of the P50 cerebral evoked response to repeated auditory stimuli: results from the consortium on genetics of schizophrenia. Schizophr. Res., 119, 175-182. http://dx.doi.org/10.1016/j.schres.2010.03.004
+
+  Oranje, B., Geyer, M.A., Bocker, K.B.E., Kenemans, J.L., & Verbaten, M.N. (2006). Prepulse inhibition and P50 suppression: commonalities and dissociations. Psychiat. Res., 143, 147-158. http://dx.doi.org/10.1016/j.psychres.2005.11.002
+
+  Patterson, J.V., Jin, Y., Gierczak, M., Hetrick, W.P., Potkin, S., Bunney, W.E., Jr., & Sandman, C.A. (2000). Effects of temporal variability on P50 and the gating ratio in schizophrenia: a frequency domain adaptive filter single-trial analysis. Arch. Gen. Psychiatry, 57, 57-64. http://dx.doi.org/10.1001/archpsyc.57.1.57
+
+  Pekkonen, E., Jaaskelainen, I.P., Kaakkola, S., & Ahveninen, J. (2005). Cholinergic modulation of preattentive auditory processing in aging. NeuroImage, 27, 387-392. http://dx.doi.org/10.1016/j.neuroimage.2005.04.018
+
+  Potier, B., Lamour, Y., & Dutar, P. (1993). Age-related alterations in the properties of hippocampal pyramidal neurons among rat strains. Neurobiol. Aging, 14, 17-25. http://dx.doi.org/10.1016/0197-4580(93)90016-5
+
+  Radek, R.J., Miner, H.M., Bratcher, N.A., Decker, M.W., Gopalakrishnan, M., & Bitner, R.S. (2006). Alpha4beta2 nicotinic receptor stimulation contributes to the effects of nicotine in the DBA/2 mouse model of sensory gating. Psychopharmacology, 187, 47-55. http://dx.doi.org/10.1007/s00213-006-0394-3
+
+  Sambeth, A., Riedel, W., Smits, L., & Blokland, A. (2007). Cholinergic drugs affect novel object recognition in rats: relation with hippocampal EEG?. Eur. J. Pharmacol., 572, 151-159. http://dx.doi.org/10.1016/j.ejphar.2007.06.018
+
+  Simons, C.J.P., Sambeth, A., Krabbendam, L., Pfeifer, S., Van Os, J., & Riedel, W.J. (2011). Auditory P300 and N100 components as intermediate phenotypes for psychotic disorder: familial liability and reliability. Clin. Neurophysiol., 122, 1984-1990. http://dx.doi.org/10.1016/j.clinph.2011.02.033
+
+  Stevens, K.E., Kem, W.R., Mahnir, V.M., & Freedman, R. (1998). Selective alpha7-nicotinic agonists normalize inhibition of auditory response in DBA mice. Psychopharmacology, 136, 320-327. http://dx.doi.org/10.1007/s002130050573
+
+  Stevens, K.E., & Wear, K.D. (1997). Normalizing effects of nicotine and a novel nicotinic agonist on hippocampal auditory gating in two animal models. Pharmacol. Biochem. Behav., 57, 869-874. http://dx.doi.org/10.1016/S0091-3057(96)00466-2
+
+  Teneud, L., Miyazato, H., Skinner, R.D., & Garcia-Rill, E. (2000). Cholinergic modulation of the sleep state-dependent P13 midlatency auditory evoked potential in the rat. Brain Res, 884, 196-200. http://dx.doi.org/10.1016/S0006-8993(00)02983-8
+
+  Thomas, C., Vom Berg, I., Rupp, A., Seidl, U., Schroder, J., Roesch-Ely, D., Kreisel, S.H., Mundt, C., & Weisbrod, M. (2010). P50 gating deficit in Alzheimer dementia correlates to frontal neuropsychological function. Neurobiol. Aging, 31, 416-424. http://dx.doi.org/10.1016/j.neurobiolaging.2008.05.002
+
+  Wildeboer, K.M., & Stevens, K.E. (2008). Stimulation of the alpha4beta2 nicotinic receptor by 5-I A-85380 improves auditory gating in DBA/2 mice. Brain Res, 1224, 29-36. http://dx.doi.org/10.1016/j.brainres.2008.06.007
+
+  Woolf, N.J., & Butcher, L.L. (1986). Cholinergic systems in the rat brain: III. Projections from the pontomesencephalic tegmentum to the thalamus, tectum, basal ganglia, and basal forebrain. Brain Res. Bull., 16, 603-637. http://dx.doi.org/10.1016/0361-9230(86)90134-6
+
+  Woolf, N.J., Eckenstein, F., & Butcher, L.L. (1984). Cholinergic systems in the rat brain: I. projections to the limbic telencephalon. Brain Res. Bull., 13, 751-784. http://dx.doi.org/10.1016/0361-9230(84)90236-3
+
+  Yokogawa, K., Nakashima, E., Ishizaki, J., Hasegawa, M., Kido, H., & Ichimura, F. (1992). Brain regional pharmacokinetics of biperiden in rats. Biopharm. Drug Dispos., 13, 131-140. http://dx.doi.org/10.1002/bdd.2510130207
+
+  Zouridakis, G., & Boutros, N.N. (1992). Stimulus parameter effects on the P50 evoked response. Biol. Psychiatry, 32, 839-841. http://dx.doi.org/10.1016/0006-3223(92)90088-H
+Update Code
+  20120917 (PsycINFO)
+Correction Date
+  20130909 (PsycINFO)
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc7&AN=2012-24927-001
+
+<3>
+Accession Number
+  Peer Reviewed Journal: 2012-16474-001.
+Title
+  The nicotinic 7 receptor agonist GTS-21 improves cognitive performance in ketamine impaired rhesus monkeys.  [References].
+Publication Date
+  Jan 2013
+Year of Publication
+  2013
+Publication History
+  Accepted: May 2012
+  Revised: Apr 2012
+  First Submitted: Mar 2012
+Language
+  English
+Author
+  Cannon, Christopher E; Puri, Vanita; Vivian, Jeffrey A; Egbertson, Melissa S; Eddins, Donnie; Uslaner, Jason M.
+E-Mail Address
+  Cannon, Christopher E.: christopher_cannon@merck.com
+Correspondence Address
+  Cannon, Christopher E.: Merck Research Laboratories, 44E-200, 770 Sumneytown Pike, West Point, PA, US, 19486, christopher.cannon@gmail.com
+Institution
+  Cannon, Christopher E.: Merck Research Laboratories, West Point, PA, US
+  Puri, Vanita: Merck Research Laboratories, West Point, PA, US
+  Vivian, Jeffrey A.: Merck Research Laboratories, West Point, PA, US
+  Egbertson, Melissa S.: Merck Research Laboratories, West Point, PA, US
+  Eddins, Donnie: Merck Research Laboratories, West Point, PA, US
+  Uslaner, Jason M.: Merck Research Laboratories, West Point, PA, US
+Source
+  Neuropharmacology. Vol.64 Jan 2013, pp. 191-196. 
+ISSN Print
+  0028-3908
+Other Serial Titles
+  International Journal of Neuropharmacology
+Publisher Information
+  Elsevier Science; Netherlands
+Format Covered
+  Electronic
+Publication Type
+  Journal; Peer Reviewed Journal
+Document Type
+  Journal Article
+Abstract
+  The cognitive deficits associated with schizophrenia are recognized as a core component of the disorder, yet there remain no available therapeutics to treat these symptoms of the disease. As a result, there is a need for establishing predictive preclinical models to identify the therapeutic potential of novel compounds. In the present study, rhesus monkeys were trained in the object retrieval-detour task, which is dependent on the prefrontal cortex, a brain region implicated in the cognitive deficits associated with schizophrenia. The NMDA receptor antagonist ketamine significantly impaired performance without affecting measures of motor or visuospatial abilities. Pre-treatment with the nicotinic 7 agonist GTS-21 (0.03 mg/kg) significantly attenuated the ketamine-induced impairment, consistent with reports from clinical trials suggesting that nicotinic 7 receptor agonism has pro-cognitive potential in clinical populations. In contrast, pretreatment with the acetylcholinesterase inhibitor donepezil failed to reverse the ketamine-induced impairment, consistent with studies showing a lack of pro-cognitive effects in patients with schizophrenia. These data suggest that the ketamine-impaired object retrieval-detour task could provide a model with improved predictive validity for drug development, and confirm the need for additional efforts in back-translation. (PsycINFO Database Record (c) 2013 APA, all rights reserved) (journal abstract)
+Digital Object Identifier
+  http://dx.doi.org/10.1016/j.neuropharm.2012.05.003
+PMID
+  22659472
+Key Concepts
+  nicotinic receptor agonist, cognitive performance, ketamine, rhesus monkeys
+Subject Headings
+    *Acetylcholinesterase
+    *Cholinergic Drugs
+    *Cholinergic Receptors
+    *Ketamine
+    *Animal Cognition
+    Monkeys
+Classification Code
+  Psychopharmacology [2580]
+Population Group
+  Animal; Male
+Methodology
+  Empirical Study; Quantitative Study
+Copyright
+  STATEMENT: All rights reserved.
+  HOLDER: Elsevier Ltd.
+  YEAR: 2012
+Cited References
+  Akhondzadeh, S., Gerami, M., Noroozian, M., Karamghadiri, N., Ghoreishi, A., Abbasi, S.H., & Rezazadeh, S.A. (2008). A 12-week, double-blind, placebo-controlled trial of donepezil adjunctive treatment to risperidone in chronic and stable schizophrenia. Prog. Neuropsychopharmacol. Biol. Psychiatry, 328, 1810-1815. http://dx.doi.org/10.1016/j.pnpbp.2008.08.001
+
+  Alkondon, M., & Albuquerque, E.X. (1993). Diversity of nicotinic acetylcholine receptors in rat hippocampal neurons. I. Pharmacological and functional evidence for distinct structural subtypes. J. Pharmacol. Exp. Ther. 265(3), 1455-1473.8510022
+
+  Alkondon, M., Reinhardt, S., Lobron, C., Hermsen, B., Maelicke, A., & Albuquerque, E.X. (1994). Diversity of nicotinic acetylcholine receptors in rat hippocampal neurons. II. The rundown and inward rectification of agonist-elicited whole-cell currents and identification of receptor subunits by in situ hybridization. J. Pharmacol. Exp. Ther. 271(1), 494-506.7525930
+
+  Arendash, G.W., Sengstock, G.J., Sanberg, P.R., & Kem, W.R. (1995). Improved learning and memory in aged rats with chronic administration of the nicotinic receptor agonist GTS-21. Brain Res, 6742, 252-259. http://dx.doi.org/10.1016/0006-8993(94)01449-R
+
+  Arnsten, A.F., & Goldman-Rakic, P.S. (1990). Analysis of alpha-2 adrenergic agonist effects on the delayed nonmatch-to-sample performance of aged rhesus monkeys. Neurobiol. Aging, 116, 583-590. http://dx.doi.org/10.1016/0197-4580(90)90021-Q
+
+  Buccafusco, J.J., & Terry, A.V., Jr (2009). A reversible model of the cognitive impairment associated with schizophrenia in monkeys: potential therapeutic effects of two nicotinic acetylcholine receptor agonists. Biochem. Pharmacol., 787, 852-862. http://dx.doi.org/10.1016/j.bcp.2009.06.102
+
+  Buchanan, R.W., Davis, M., Goff, D., Green, M.F., Keefe, R.S., Leon, A.C., Nuechterlein, K.H., Laughren, T., Levin, R., Stover, E., Fenton, W., & Marder, S.R. (2005). A summary of the FDA-NIMH-MATRICS workshop on clinical trial design for neurocognitive drugs for schizophrenia. Schizophr. Bull., 311, 5-19. http://dx.doi.org/10.1093/schbul/sbi020
+
+  Burdick, K.E., Gopin, C.B., & Malhotra, A.K. (2011). Pharmacogenetic approaches to cognitive enhancement in schizophrenia. Harv. Rev. Psychiatry, 193, 102-108. http://dx.doi.org/10.3109/10673229.2011.581899
+
+  Carter, C.S., Barch, D.M., Buchanan, R.W., Bullmore, E., Krystal, J.H., Cohen, J., Geyer, M., Green, M., Nuechterlein, K.H., Robbins, T., Silverstein, S., Smith, E.E., Strauss, M., Wykes, T., & Heinssen, R. (2008). Identifying cognitive mechanisms targeted for treatment development in schizophrenia: an overview of the first meeting of the cognitive neuroscience treatment research to improve cognition in schizophrenia initiative. Biol. Psychiatry, 641, 4-10. http://dx.doi.org/10.1016/j.biopsych.2008.03.020
+
+  Chouinard, S., Sepehry, A.A., & Stip, E. (2007). Oral cholinesterase inhibitor add-on therapy for cognitive enhancement in schizophrenia: a quantitative systematic review, Part I. Clin. Neuropharmacol., 303, 169-182. http://dx.doi.org/10.1097/WNF.0b013e31802fa61a
+
+  Dalack, G.W., Healy, D.J., & Meador-Woodruff, J.H. (1998). Nicotine dependence in schizophrenia: clinical phenomena and laboratory findings. Am. J. Psychiatry, 155(11), 1490-1501.98121081998-11156-001
+
+  Diamond, A. (1990). Developmental time course in human infants and infant monkeys, and the neural bases of, inhibitory control in reaching. Ann. N. Y Acad. Sci. 608, 637-669. discussion 669-76.
+
+  Diamond, A., & Goldman-Rakic, P. (1985). Evidence for involvement of prefrontal cortex in cognitive changes during the first year of life: comparison of performance of human infants and rhesus monkeys on a detour task with transparent barrier. Soc. Neurosci. Abstract, 11, 832.
+
+  Diamond, A., Zola-Morgan, S., & Squire, L.R. (1989). Successful performance by monkeys with lesions of the hippocampal formation on AB and object retrieval, two tasks that mark developmental changes in human infants. Behav. Neurosci., 1033, 526-537. http://dx.doi.org/10.1037/0735-7044.103.3.526
+
+  Dias, R., Robbins, T.W., & Roberts, A.C. (1996). Dissociation in prefrontal cortex of affective and attentional shifts. Nature, 3806569, 69-72. http://dx.doi.org/10.1038/380069a0
+
+  Dickinson, J.A., Kew, J.N., & Wonnacott, S. (2008). Presynaptic alpha 7- and beta 2-containing nicotinic acetylcholine receptors modulate excitatory amino acid release from rat prefrontal cortex nerve terminals via distinct cellular mechanisms. Mol. Pharmacol., 742, 348-359. http://dx.doi.org/10.1124/mol.108.046623
+
+  Dyer, M.A., Freudenreich, O., Culhane, M.A., Pachas, G.N., Deckersbach, T., Murphy, E., Goff, D.C., & Evins, A.E. (2008). High-dose galantamine augmentation inferior to placebo on attention, inhibitory control and working memory performance in nonsmokers with schizophrenia. Schizophr. Res., 1021-3, 88-95. http://dx.doi.org/10.1016/j.schres.2007.12.491
+
+  Elvevag, B., & Goldberg, T.E. (2000). Cognitive impairment in schizophrenia is the core of the disorder. Crit. Rev. Neurobiol., 141, 1-21. http://dx.doi.org/10.1615/CritRevNeurobiol.v14.i1.10
+
+  Ettrup, A., Mikkelsen, J.D., Lehel, S., Madsen, J., Nielsen, E.O., Palner, M., Timmermann, D.B., Peters, D., & Knudsen, G.M. (2011). 11C-NS14492 as a novel PET radioligand for imaging cerebral alpha7 nicotinic acetylcholine receptors: in vivo evaluation and drug occupancy measurements. http://dx.doi.org/10.2967/jnumed.111.088815
+
+  Freedman, R., Hall, M., Adler, L.E., & Leonard, S. (1995). Evidence in postmortem brain tissue for decreased numbers of hippocampal nicotinic receptors in schizophrenia. Biol. Psychiatry, 381, 22-33. http://dx.doi.org/10.1016/0006-3223(94)00252-X
+
+  Freedman, R., Olincy, A., Buchanan, R.W., Harris, J.G., Gold, J.M., Johnson, L., Allensworth, D., Guzman-Bonilla, A., Clement, B., Ball, M.P., Kutnick, J., Pender, V., Martin, L.F., Stevens, K.E., Wagner, B.D., Zerbe, G.O., Soti, F., & Kem, W.R. (2008). Initial phase 2 trial of a nicotinic agonist in schizophrenia. Am. J. Psychiatry, 1658, 1040-1047. http://dx.doi.org/10.1176/appi.ajp.2008.07071135
+
+  Friedman, J.I., Adler, D.N., Howanitz, E., Harvey, P.D., Brenner, G., Temporini, H., White, L., Parrella, M., & Davis, K.L. (2002). A double blind placebo controlled trial of donepezil adjunctive treatment to risperidone for the cognitive impairment of schizophrenia. Biol. Psychiatry, 515, 349-357. http://dx.doi.org/10.1016/S0006-3223(01)01342-7
+
+  Geyer, M., & Markou, A. (1995). Animal Models of Psychiatric Disorders. Psychopharmacology: The Fourth Generation of Progress.
+
+  Geyer, M.A. (2006). The family of sensorimotor gating disorders: comorbidities or diagnostic overlaps?. Neurotox. Res., 103-4, 211-220. http://dx.doi.org/10.1007/BF03033358
+
+  Goff, D.C., Hill, M., & Barch, D. (2011). The treatment of cognitive impairment in schizophrenia. Pharmacol. Biochem. Behav., 992, 245-253. http://dx.doi.org/10.1016/j.pbb.2010.11.009
+
+  Gopalakrishnan, M., Buisson, B., Touma, E., Giordano, T., Campbell, J.E., Hu, I.C., Donnelly-Roberts, D., Arneric, S.P., Bertrand, D., & Sullivan, J.P. (1995). Stable expression and pharmacological properties of the human alpha 7 nicotinic acetylcholine receptor. Eur. J. Pharmacol., 2903, 237-246. http://dx.doi.org/10.1016/0922-4106(95)00083-6
+
+  Gotti, Cecilia (2006). Brain nicotinic acetylcholine receptors: native subtypes and their relevance. Trends Pharmacol. Sci., 279, 482-491. http://dx.doi.org/10.1016/j.tips.2006.07.004
+
+  Jentsch, J.D., Roth, R.H., & Taylor, J.R. (2000). Object retrieval/detour deficits in monkeys produced by prior subchronic phencyclidine administration: evidence for cognitive impulsivity. Biol. Psychiatry, 485, 415-424. http://dx.doi.org/10.1016/S0006-3223(00)00926-4
+
+  Jentsch, J.D., Taylor, J.R., Elsworth, J.D., Redmond, D.E., Jr., & Roth, R.H. (1999). Altered frontal cortical dopaminergic transmission in monkeys after subchronic phencyclidine exposure: involvement in frontostriatal cognitive deficits. Neuroscience, 903, 823-832. http://dx.doi.org/10.1016/S0306-4522(98)00481-3
+
+  Jentsch, J.D., Taylor, J.R., Redmond, D.E., Jr., Elsworth, J.D., Youngren, K.D., & Roth, R.H. (1999). Dopamine D4 receptor antagonist reversal of subchronic phencyclidine-induced object retrieval/detour deficits in monkeys. Psychopharmacology (Berl), 1421, 78-84. http://dx.doi.org/10.1007/s002130050865
+
+  Keefe, R.S., Malhotra, A.K., Meltzer, H.Y., Kane, J.M., Buchanan, R.W., Murthy, A., Sovel, M., Li, C., & Goldman, R. (2008). Efficacy and safety of donepezil in patients with schizophrenia or schizoaffective disorder: significant placebo/practice effects in a 12-week, randomized, double-blind, placebo-controlled trial. Neuropsychopharmacology, 336, 1217-1228. http://dx.doi.org/10.1038/sj.npp.1301499
+
+  Lahti, A.C., Holcomb, H.H., Medoff, D.R., & Tamminga, C.A. (1995). Ketamine activates psychosis and alters limbic blood flow in schizophrenia. Neuroreport, 66, 869-872. http://dx.doi.org/10.1097/00001756-199504190-00011
+
+  Lewis, D.A., & Moghaddam, B. (2006). Cognitive dysfunction in schizophrenia: convergence of gamma-aminobutyric acid and glutamate alterations. Arch. Neurol., 6310, 1372-1376. http://dx.doi.org/10.1001/archneur.63.10.1372
+
+  Lindenmayer, J.P., & Khan, A. (2011). Galantamine augmentation of long-acting injectable risperidone for cognitive impairments in chronic schizophrenia. Schizophr. Res., 1252-3, 267-277. http://dx.doi.org/10.1016/j.schres.2010.08.021
+
+  Livingstone, P.D., Dickinson, J.A., Srinivasan, J., Kew, J.N., & Wonnacott, S. (2010). Glutamate-dopamine crosstalk in the rat prefrontal cortex is modulated by Alpha7 nicotinic receptors and potentiated by PNU-120596. J. Mol. Neurosci., 401-2, 172-176. http://dx.doi.org/10.1007/s12031-009-9232-5
+
+  Maier, D.L., Hill, G., Ding, M., Tuke, D., Einstein, E., Gurley, D., Gordon, J.C., Bock, M.J., Smith, J.S., Bialecki, R., Eisman, M., Elmore, C.S., & Werkheiser, J.L. (2011). Pre-clinical validation of a novel alpha-7 nicotinic receptor radiotracer, [(3)H]AZ11637326: target localization, biodistribution and ligand occupancy in the rat brain. Neuropharmacology, 611-2, 161-171. http://dx.doi.org/10.1016/j.neuropharm.2011.03.024
+
+  Marchi, M., Risso, F., Viola, C., Cavazzani, P., & Raiteri, M. (2002). Direct evidence that release-stimulating alpha7 nicotinic cholinergic receptors are localized on human and rat brain glutamatergic axon terminals. J. Neurochem., 806, 1071-1078. http://dx.doi.org/10.1046/j.0022-3042.2002.00805.x
+
+  Marder, S.R., Fenton, W., & Youens, K. (2004). Schizophrenia, IX: cognition in schizophrenia-the MATRICS initiative. Am. J. Psychiatry, 1611, 25http://dx.doi.org/10.1176/appi.ajp.161.1.25
+
+  Markou, A., Chiamulera, C., Geyer, M.A., Tricklebank, M., & Steckler, T. (2009). Removing obstacles in neuroscience drug discovery: the future path for animal models. Neuropsychopharmacology, 341, 74-89. http://dx.doi.org/10.1038/npp.2008.173
+
+  Marutle, A., Zhang, X., Court, J., Piggott, M., Johnson, M., Perry, R., Perry, E., & Nordberg, A. (2001). Laminar distribution of nicotinic receptor subtypes in cortical regions in schizophrenia. J. Chem. Neuroanat., 221-2, 115-126. http://dx.doi.org/10.1016/S0891-0618(01)00117-X
+
+  Matsuoka, N., & Aigner, T.G. (1996). D-cycloserine, a partial agonist at the glycine site coupled to N-methyl-D-aspartate receptors, improves visual recognition memory in rhesus monkeys. J. Pharmacol. Exp. Ther. 278(2), 891-897.87687441996-93947-012
+
+  McGrath, J., Saha, S., Chant, D., & Welham, J. (2008). Schizophrenia: a concise overview of incidence, prevalence, and mortality. Epidemiol. Rev., 30, 67-76. http://dx.doi.org/10.1093/epirev/mxn001
+
+  Millan, M.J., Agid, Y., Brune, M., Bullmore, E.T., Carter, C.S., Clayton, N.S., Connor, R., Davis, S., Deakin, B., DeRubeis, R.J., Dubois, B., Geyer, M.A., Goodwin, G.M., Gorwood, P., Jay, T.M., Joels, M., Mansuy, I.M., Meyer-Lindenberg, A., Murphy, D., Rolls, E., Saletu, B., Spedding, M., Sweeney, J., Whittington, M., & Young, L.J. (2012). Cognitive dysfunction in psychiatric disorders: characteristics, causes and the quest for improved therapy. Nat. Rev. Drug Discov., 112, 141-168. http://dx.doi.org/10.1038/nrd3628
+
+  Minzenberg, M.J., Laird, A.R., Thelen, S., Carter, C.S., & Glahn, D.C. (2009). Meta-analysis of 41 functional neuroimaging studies of executive function in schizophrenia. Arch. Gen. Psychiatry, 668, 811-822. http://dx.doi.org/10.1001/archgenpsychiatry.2009.91
+
+  Olincy, A., Harris, J.G., Johnson, L.L., Pender, V., Kongs, S., Allensworth, D., Ellis, J., Zerbe, G.O., Leonard, S., Stevens, K.E., Stevens, J.O., Martin, L., Adler, L.E., Soti, F., Kem, W.R., & Freedman, R. (2006). Proof-of-concept trial of an alpha7 nicotinic agonist in schizophrenia. Arch. Gen. Psychiatry, 636, 630-638. http://dx.doi.org/10.1001/archpsyc.63.6.630
+
+  Peng, X., Katz, M., Gerzanich, V., Anand, R., & Lindstrom, J. (1994). Human alpha 7 acetylcholine receptor: cloning of the alpha 7 subunit from the SH-SY5Y cell line and determination of pharmacological properties of native receptors and functional alpha 7 homomers expressed in Xenopus oocytes. Mol. Pharmacol. 45(3), 546-554.8145738
+
+  Puchacz, E., Buisson, B., Bertrand, D., & Lukas, R.J. (1994). Functional expression of nicotinic acetylcholine receptors containing rat alpha 7 subunits in human SH-SY5Y neuroblastoma cells. FEBS Lett, 3542, 155-159. http://dx.doi.org/10.1016/0014-5793(94)01108-7
+
+  Ripoll, N., Bronnec, M., & Bourin, M. (2004). Nicotinic receptors and schizophrenia. Curr. Med. Res. Opin., 207, 1057-1074. http://dx.doi.org/10.1185/030079904125004060
+
+  Roitberg, B.Z., Emborg, M.E., Sramek, J.G., Palfi, S., & Kordower, J.H. (2002). Behavioral and morphological comparison of two nonhuman primate models of Huntington's disease. Neurosurgery, 50(1), 137-145. discussion 145-6.
+
+  Rousseau, S.J., Jones, I.W., Pullar, I.A., & Wonnacott, S. (2005). Presynaptic alpha7 and non-alpha7 nicotinic acetylcholine receptors modulate [3H]d-aspartate release from rat frontal cortex in vitro. Neuropharmacology, 491, 59-72. http://dx.doi.org/10.1016/j.neuropharm.2005.01.030
+
+  Rowland, L.M., Astur, R.S., Jung, R.E., Bustillo, J.R., Lauriello, J., & Yeo, R.A. (2005). Selective cognitive impairments associated with NMDA receptor blockade in humans. Neuropsychopharmacology, 303, 633-639. http://dx.doi.org/10.1038/sj.npp.1300642
+
+  Schneider, J.S., & Roeltgen, D.P. (1993). Delayed matching-to-sample, object retrieval, and discrimination reversal deficits in chronic low dose MPTP-treated monkeys. Brain Res, 6152, 351-354. http://dx.doi.org/10.1016/0006-8993(93)90049-S
+
+  Schneider, J.S., Van Velson, M., Menzaghi, F., & Lloyd, G.K. (1998). Effects of the nicotinic acetylcholine receptor agonist SIB-1508Y on object retrieval performance in MPTP-treated monkeys: comparison with levodopa treatment. Ann. Neurol., 433, 311-317. http://dx.doi.org/10.1002/ana.410430308
+
+  Severance, E.G., & Yolken, R.H. (2008). Novel alpha7 nicotinic receptor isoforms and deficient cholinergic transcription in schizophrenia. Genes Brain Behav. 7(1), 37-45.175042492008-01058-006
+
+  Summers, K.L., Kem, W.R., & Giacobini, E. (1997). Nicotinic agonist modulation of neurotransmitter levels in the rat frontoparietal cortex. Jpn. J. Pharmacol., 742, 139-146. http://dx.doi.org/10.1254/jjp.74.139
+
+  Taylor, J.R., Elsworth, J.D., Roth, R.H., Sladek, J.R., Jr., & Redmond, D.E., Jr (1990). Cognitive and motor deficits in the acquisition of an object retrieval/detour task in MPTP-treated monkeys. Brain, 113Pt 3, 617-637. http://dx.doi.org/10.1093/brain/113.3.617
+
+  Taylor, J.R., Roth, R.H., Sladek, J.R., Jr., & Redmond, D.E., Jr (1990). Cognitive and motor deficits in the performance of an object retrieval task with a barrier-detour in monkeys (Cercopithecus aethiops sabaeus) treated with MPTP: long-term performance and effect of transparency of the barrier. Behav. Neurosci., 1044, 564-576. http://dx.doi.org/10.1037/0735-7044.104.4.564
+
+  Tregellas, J.R., Tanabe, J., Rojas, D.C., Shatti, S., Olincy, A., Johnson, L., Martin, L.F., Soti, F., Kem, W.R., Leonard, S., & Freedman, R. (2011). Effects of an alpha 7-nicotinic agonist on default network activity in schizophrenia. Biol. Psychiatry, 691, 7-11. http://dx.doi.org/10.1016/j.biopsych.2010.07.004
+
+  van Os, J., & Kapur, S. (2009). Schizophrenia.. Lancet, 3749690, 635-645. http://dx.doi.org/10.1016/S0140-6736(09)60995-8
+
+  Wallace, T.L., & Porter, R.H. (2011). Targeting the nicotinic alpha7 acetylcholine receptor to enhance cognition in disease. Biochem. Pharmacol., 828, 891-903. http://dx.doi.org/10.1016/j.bcp.2011.06.034
+
+  Wilkinson, L.S., Dias, R., Thomas, K.L., Augood, S.J., Everitt, B.J., Robbins, T.W., & Roberts, A.C. (1997). Contrasting effects of excitotoxic lesions of the prefrontal cortex on the behavioural response to D-amphetamine and presynaptic and postsynaptic measures of striatal dopamine function in monkeys. Neuroscience, 803, 717-730. http://dx.doi.org/10.1016/S0306-4522(97)00075-4
+
+  Williams, G.V., & Castner, S.A. (2006). Under the curve: critical issues for elucidating D1 receptor function in working memory. Neuroscience, 1391, 263-276. http://dx.doi.org/10.1016/j.neuroscience.2005.09.028
+
+  Young, J.W., Powell, S.B., Risbrough, V., Marston, H.M., & Geyer, M.A. (2009). Using the MATRICS to guide development of a preclinical cognitive test battery for research in schizophrenia. Pharmacol. Ther., 1222, 150-202. http://dx.doi.org/10.1016/j.pharmthera.2009.02.004
+
+  Zhao, L., Kuo, Y.P., George, A.A., Peng, J.H., Purandare, M.S., Schroeder, K.M., Lukas, R.J., & Wu, J. (2003). Functional properties of homomeric, human alpha 7-nicotinic acetylcholine receptors heterologously expressed in the SH-EP1 human epithelial cell line. J. Pharmacol. Exp. Ther., 3053, 1132-1141. http://dx.doi.org/10.1124/jpet.103.048777
+
+  Zoltewicz, A.J., Prokai-Tatrai, K., Bloom, L.B., & Kern, W.R. (1993). Long range transmission of polar effects in cholinergic3-arylidene anabaseines. Conformation calculated by molecular modeling. Heterocyclics, 35, 171-179. http://dx.doi.org/10.3987/COM-92-S3
+Update Code
+  20120625 (PsycINFO)
+Correction Date
+  20130506 (PsycINFO)
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc7&AN=2012-16474-001
+
+<4>
+Accession Number
+  Peer Reviewed Journal: 2011-04325-015.
+Title
+  A computer-automated touchscreen paired-associates learning (PAL) task for mice: Impairments following administration of scopolamine or dicyclomine and improvements following donepezil.  [References].
+Publication Date
+  Mar 2011
+Year of Publication
+  2011
+Publication History
+  First Posting: Nov 2010
+  Accepted: Oct 2010
+  First Submitted: Feb 2010
+Language
+  English
+Author
+  Bartko, Susan J; Vendrell, Ignasi; Saksida, Lisa M; Bussey, Timothy J.
+E-Mail Address
+  Bartko, Susan J.: susan.bartko.winters@gmail.com
+Correspondence Address
+  Bartko, Susan J.: Department of Experimental Psychology, University of Cambridge, Downing St., Cambridge, United Kingdom, CB2 3EB, susan.bartko.winters@gmail.com
+Institution
+  Bartko, Susan J.: Department of Experimental Psychology, University of Cambridge, Cambridge, United Kingdom
+  Vendrell, Ignasi: Department of Experimental Psychology, University of Cambridge, Cambridge, United Kingdom
+  Saksida, Lisa M.: Department of Experimental Psychology, University of Cambridge, Cambridge, United Kingdom
+  Bussey, Timothy J.: Department of Experimental Psychology, University of Cambridge, Cambridge, United Kingdom
+Source
+  Psychopharmacology. Vol.214(2), Mar 2011, pp. 537-548. 
+ISSN Print
+  0033-3158
+ISSN Electronic
+  1432-2072
+Other Serial Titles
+  Psychopharmacologia
+Publisher Information
+  Springer; Germany
+Format Covered
+  Electronic
+Publication Type
+  Journal; Peer Reviewed Journal
+Document Type
+  Journal Article
+Abstract
+  Rationale: Performance on the Cambridge Neuropsychological Test Automated Battery touchscreen paired-associates learning (PAL) test is predictive of Alzheimer's disease and impaired in schizophrenia and chronic drug users. An automated computer touchscreen PAL task for rats has been previously established. A pharmacologically validated PAL task for mice would be a highly valuable tool, which could be useful for a number of experimental aims including drug discovery. Objectives: This study sought to investigate the effects of systemic administration of cholinergic agents on task performance in C57Bl/6 mice. Methods: Scopolamine hydrobromide (0.02, 0.2, and 2.0 mg/kg), dicyclomine hydrochloride (M1 receptor antagonist; 2.0, 4.0, and 8.0 mg/kg), and donepezil hydrochloride (cholinesterase inhibitor; 0.03, 0.1, and 0.3 mg/kg) were administered post-acquisition in C57Bl/6 mice performing the PAL task. Results: Scopolamine (0.2 and 2.0 mg/kg) and dicyclomine (at all administered doses) significantly impaired PAL performance. A significant facilitation in PAL was revealed in mice following donepezil administration (0.3 mg/kg). Conclusions: The present study shows that mice can acquire the rodent PAL task and that the cholinergic system is important for PAL task performance. M1 receptors in particular are likely implicated in normal performance of PAL. The finding that mouse PAL can detect both impairments and improvements indicates that this task could prove to be a highly valuable tool for a number of experimental aims including drug discovery. (PsycINFO Database Record (c) 2012 APA, all rights reserved) (journal abstract)
+Digital Object Identifier
+  http://dx.doi.org/10.1007/s00213-010-2050-1
+PMID
+  21086119
+Key Concepts
+  computers, paired-associates learning, mice, scopolamine, dicyclomine, donepezil, cholinergic agents, task performance
+Subject Headings
+    *Cholinergic Drugs
+    *Paired Associate Learning
+    *Scopolamine
+    *Task Complexity
+    Computers
+    Mice
+    Performance
+Classification Code
+  Psychopharmacology [2580]
+Population Group
+  Animal; Male
+Methodology
+  Empirical Study; Quantitative Study
+Tests & Measures
+  Cambridge Neuropsychological Test Automated Battery
+  Paired Associates Learning Task
+Grant/Sponsorship
+  <b>Sponsor: </b>Alzheimer's Research Trust
+<b>Recepient: </b>No recipient indicated
+
+  <b>Sponsor: </b>National Institutes of Mental Health. US
+<b>Other Details: </b>Ruth L. Kirschstein Predoctoral Fellowship
+<b>Recepient: </b>Bartko, Susan J.
+
+Copyright
+  HOLDER: Springer-Verlag
+  YEAR: 2010
+Cited References
+  Barense, M. D., Bussey, T. J., Lee, A. C., Rogers, T. T., Davies, R. R., Saksida, L. M., Murray, E. A., & Graham, K. S. (2005). Functional specialization in the human medial temporal lobe. J Neurosci, 25, 10239-10246. http://dx.doi.org/10.1523/JNEUROSCI.2704-05.2005
+
+  Barker, G. R., & Warburton, E. C. (2008). NMDA receptor plasticity in the perirhinal and prefrontal cortices is crucial for the acquisition of long-term object-in-place associative memory. J Neurosci, 28, 2837-2844. http://dx.doi.org/10.1523/JNEUROSCI.4447-07.2008
+
+  Barnett, J. H., Sahakian, B. J., Werners, U., Hill, K. E., Brazil, R., Gallagher, O., Bullmore, E. T., & Jones, P. B. (2005). Visuospatial learning and executive function are independently impaired in first-episode psychosis. Psychol Med, 35, 1031-1041. http://dx.doi.org/10.1017/S0033291704004301
+
+  Bartus, R. T., Dean, R. L., 3rd., Beer, B., & Lippa, A. S. (1982). The cholinergic hypothesis of geriatric memory dysfunction. Science, 217, 408-414. http://dx.doi.org/10.1126/science.7046051
+
+  Baxter, M. G., Browning, P. G., & Mitchell, A. S. (2008). Perseverative interference with object-in-place scene learning in rhesus monkeys with bilateral ablation of ventrolateral prefrontal cortex. Learn Mem, 15, 126-132. http://dx.doi.org/10.1101/lm.804508
+
+  Birks, J., & Harvey, R. J. (2006) Donepezil for dementia due to Alzheimer's disease. Cochrane Database Syst Rev: CD001190.
+
+  Blackwell, A. D., Sahakian, B. J., Vesey, R., Semple, J. M., Robbins, T. W., & Hodges, J. R. (2004). Detecting dementia: novel neuropsychological markers of preclinical Alzheimer's disease. Dement Geriatr Cogn Disord, 17, 42-48. http://dx.doi.org/10.1159/000074081
+
+  Braak, H., & Braak, E. (1997) Frequency of stages of Alzheimer-related lesions in different age categories. Neurobiol Aging 18:351-357.
+
+  Brigman, J. L., Bussey, T. J., Saksida, L. M., & Rothblat, L. A. (2005). Discrimination of multidimensional visual stimuli by mice: intra-and extradimensional shifts. Behav Neurosci, 119, 839-842. http://dx.doi.org/10.1037/0735-7044.119.3.839
+
+  Brigman, J. L., Feyder, M., Saksida, L. M., Bussey, T. J., Mishina, M., & Holmes, A. (2008). Impaired discrimination learning in mice lacking the NMDA receptor NR2A subunit. Learn Mem, 15, 50-54. http://dx.doi.org/10.1101/lm.777308
+
+  Buccafusco, J. J., & Terry, A. V. (2004) Donepezil-induced improvement in delayed matching accuracy by young and old rhesus monkeys. J Mol Neurosci 24:85-91.
+
+  Buccafusco, J. J., Terry, A. V., Jr.., Webster, S. J., Martin, D., Hohnadel, E. J., Bouchard, K. A., & Warner, S. E. (2008). The scopolamine-reversal paradigm in rats and monkeys: the importance of computerassisted operant-conditioning memory tasks for screening drug candidates. Psychopharmacology (Berl), 199, 481-494. http://dx.doi.org/10.1007/s00213-007-0887-8
+
+  Burns, A., Rossor, M., Hecker, J., Gauthier, S., Petit, H., Moller, H. J., Rogers, S. L., & Friedhoff, L. T. (1999). The effects of donepezil in Alzheimer's disease-results from a multinational trial. Dement Geriatr Cogn Disord, 10, 237-244. http://dx.doi.org/10.1159/000017126
+
+  Bussey, T. J., Dias, R., Amin, E., Muir, J. L., & Aggleton, J. P. (2001). Perirhinal cortex and place-object conditional learning in the rat. Behav Neurosci, 115, 776-785. http://dx.doi.org/10.1037/0735-7044.115.4.776
+
+  Bussey, T. J., Muir, J. L., Everitt, B. J., & Robbins, T. W. (1997). Triple dissociation of anterior cingulate, posterior cingulate, and medial frontal cortices on visual discrimination tasks using a touchscreen testing procedure for the rat. Behav Neurosci, 111, 920-936. http://dx.doi.org/10.1037/0735-7044.111.5.920
+
+  Bussey, T. J., Muir, J. L., & Robbins, T. W. (1994) A novel automated touchscreen procedure for assessing learning in the rat using computer graphic stimuli. Neurosci Res Commun 15:103-110.
+
+  Bussey, T. J., Padain, T. L., Skillings, E. A., Winters, B. D., Morton, A. J., & Saksida, L. M. (2008). The touchscreen cognitive testing method for rodents: how to get the best out of your rat. Learn Mem, 15, 516-523. http://dx.doi.org/10.1101/lm.987808
+
+  Bussey, T. J., Saksida, L. M., & Rothblat, L. A. (2001). Discrimination of computer-graphic stimuli by mice: a method for the behavioral characterization of transgenic and gene-knockout models. Behav Neurosci, 115, 957-960. http://dx.doi.org/10.1037/0735-7044.115.4.957
+
+  Beracochea, D., Philippin, J. N., Meunier, S., Morain, P., & Bernard, K. (2007). Improvement of episodic contextual memory by S 18986 in middle-aged mice: comparison with donepezil. Psychopharmacology (Berl), 193, 63-73. http://dx.doi.org/10.1007/s00213-007-0765-4
+
+  Caccamo, A., Oddo, S., Billings, L. M., Green, K. N., Martinez-Coria, H., Fisher, A., & LaFerla, F. M. (2006) M1 receptors play a central role in modulating AD-like pathology in transgenic mice. Neuron 49:671-682.
+
+  Cachard-Chastel, M., Devers, S., Sicsic, S., Langlois, M., Lezoualc'h, F., Gardier, A. M., & Belzung, C. (2008). Prucalopride and donepezil act synergistically to reverse scopolamine-induced memory deficit in C57Bl/6j mice. Behav Brain Res, 187, 455-461. http://dx.doi.org/10.1016/j.bbr.2007.10.008
+
+  Chudasama, Y., Bussey, T. J., & Muir, J. L. (2001). Effects of selective thalamic and prelimbic cortex lesions on two types of visual discrimination and reversal learning. Eur J Neurosci, 14, 1009-1020. http://dx.doi.org/10.1046/j.0953-816x.2001.01607.x
+
+  Clelland, C. D., Choi, M., Romberg, C., Clemenson, G. D., Jr.., Fragniere, A., Tyers, P., Jessberger, S., Saksida, L. M., Barker, R. A., Gage, F. H., & Bussey, T. J. (2009). A functional role for adult hippocampal neurogenesis in spatial pattern separation. Science, 325, 210-213. http://dx.doi.org/10.1126/science.1173215
+
+  Csernansky, J. G., Martin, M., Shah, R., Bertchume, A., Colvin, J., & Dong, H. (2005). Cholinesterase inhibitors ameliorate behavioral deficits induced by MK-801 in mice. Neuropsychopharmacology, 30, 2135-2143. http://dx.doi.org/10.1038/sj.npp.1300761
+
+  Dodart, J. C., Mathis, C., & Ungerer, A. (1997). Scopolamine-induced deficits in a two-trial object recognition task in mice. NeuroReport, 8, 1173-1178. http://dx.doi.org/10.1097/00001756-199703240-00023
+
+  Dong, H., Csernansky, C. A., Martin, M. V., Bertchume, A., Vallera, D., & Csernansky, J. G. (2005). Acetylcholinesterase inhibitors ameliorate behavioral deficits in the Tg2576 mouse model of Alzheimer's disease. Psychopharmacology (Berl), 181, 145-152. http://dx.doi.org/10.1007/s00213-005-2230-6
+
+  Doods, H. N., Mathy, M. J., Davidesko, D., van Charldorp, K. J., de Jonge, A., & van Zwieten, P. A. (1987) Selectivity of muscarinic antagonists in radioligand and in vivo experiments for the putative M1, M2 and M3 receptors. J Pharmacol Exp Ther 242:257-262.
+
+  Ersche, K. D., Clark, L., London, M., Robbins, T. W., & Sahakian, B. J. (2006). Profile of executive and memory function associated with amphetamine and opiate dependence. Neuropsychopharmacology, 31, 1036-1047. http://dx.doi.org/10.1038/sj.npp.1300889
+
+  Gaffan, D., & Parker, A. (1996) Interaction of perirhinal cortex with the fornix-fimbria: memory for objects and "object-in-place" memory. J Neurosci 16:5864-5869.1996-06067-006
+
+  Giachetti, A., Giraldo, E., Ladinsky, H., & Montagna, E. (1986) Binding and functional profiles of the selective M1 muscarinic receptor antagonists trihexyphenidyl and dicyclomine. Br J Pharmacol 89:83-90.
+
+  Greig, N. H., Sambamurti, K., Yu, Q. S., Brossi, A., Bruinsma, G. B., & Lahiri, D. K. (2005). An overview of phenserine tartrate, a novel acetylcholinesterase inhibitor for the treatment of Alzheimer's disease. Curr Alzheimer Res, 2, 281-290. http://dx.doi.org/10.2174/1567205054367829
+
+  Howell, D. (2002) Statistical methods for psychology, 5th edn. Duxbury, Duxbury.
+
+  Humby, T., Laird, F. M., Davies, W., & Wilkinson, L. S. (1999) Visuospatial attentional functioning in mice: interactions between cholinergic manipulations and genotype. Eur J Neurosci 11:2813-2823.
+
+  Izquierdo, A., Wiedholz, L. M., Millstein, R. A., Yang, R. J., Bussey, T. J., Saksida, L. M., & Holmes, A. (2006). Genetic and dopaminergic modulation of reversal learning in a touchscreen-based operant procedure for mice. Behav Brain Res, 171, 181-188. http://dx.doi.org/10.1016/j.bbr.2006.03.029
+
+  Kemp, P. M., Holmes, C., Hoffmann, S., Wilkinson, S., Zivanovic, M., Thom, J., Bolt, L., Fleming, J., & Wilkinson, D. G. (2003). A randomised placebo controlled study to assess the effects of cholinergic treatment on muscarinic receptors in Alzheimer's disease. J Neurol Neurosurg Psychiatry, 74, 1567-1570. http://dx.doi.org/10.1136/jnnp.74.11.1567
+
+  Lleo, A., Greenberg, S. M., & Growdon, J. H. (2006) Current pharmacotherapy for Alzheimer's disease. Annu Rev Med 57:513-533.
+
+  Marighetto, A., Valerio, S., Desmedt, A., Philippin, J. N., Trocme-Thibierge, C., & Morain, P. (2008). Comparative effects of the alpha7 nicotinic partial agonist S 24795, and the cholinesterase inhibitor, donepezil, against aging-related deficits in declarative and working memory in mice. Psychopharmacology (Berl), 197, 499-508. http://dx.doi.org/10.1007/s00213-007-1063-x
+
+  McTighe, S. M., Mar, A. C., Romberg, C., Bussey, T. J., & Saksida, L. M. (2009). A new touchscreen test of pattern separation: effect of hippocampal lesions. Neuroreport, 20, 881-885. http://dx.doi.org/10.1097/WNR.0b013e32832c5eb2
+
+  Morton, A. J., Skillings, E., Bussey, T. J., & Saksida, L. M. (2006) Measuring cognitive deficits in disabled mice using an automated interactive touchscreen system. Nat Meth 3:767.
+
+  Piper, D. W. (1995) A comparative overview of the effects of antinuclear drugs. Drug Saf 12:120-138.
+
+  Raedler, T. J., Bymaster, F. P., Tandon, R., Copolov, D., & Dean, B. (2007) Towards a muscarinic hypothesis of schizophrenia. Mol Psychiatry 12:232-246.2007-04467-008
+
+  Riedel, G., Kang, S. H., Choi, D. Y., & Platt, B. (2009). Scopolamine-induced deficits in social memory in mice: reversal by donepezil. Behav Brain Res, 204, 217-225. http://dx.doi.org/10.1016/j.bbr.2009.06.012
+
+  Robbins, T. W., James, M., Owen, A. M., Sahakian, B. J., & McInnes, L. P. R. (1994) Cambridge Neuropsychological Test Automated Battery (CANTAB): a factor analytic study of a large sample of normal elderly volunteers. Dementia 5:266-281.1995-08060-001
+
+  Robbins, T. W., Semple, J., Kumar, R., Truman, M. I., Shorter, J., Ferraro, A., Fox, B., McKay, G., & Matthews, K. (1997). Effects of scopolamine on delayed-matching-to-sample and paired associates tests of visual memory and learning in human subjects: comparison with diazepam and implications for dementia. Psychopharmacology (Berl), 134, 95-106. http://dx.doi.org/10.1007/s002130050430
+
+  Rogers, S. L., Doody, R. S., Mohs, R. C., & Friedhoff, L. T. (1998) Donepezil improves cognition and global function in Alzheimer disease: a 15-week, double-blind, placebo-controlled study. Donepezil Study Group. Arch Intern Med 158:1021-1031.
+
+  Rusted, J. M., & Warburton, D. M. (1988). The effects of scopolamine on working memory in healthy young volunteers. Psychopharmacology (Berl), 962, 145-152. http://dx.doi.org/10.1007/BF00177553
+
+  Sahakian, B. J., Morris, R. G., Evenden, J. L., Heald, A., Levy, R., Philpot, M., & Robbins, T. W. (1988) A comparative study of visuospatial memory and learning in Alzheimer-type dementia and Parkinson's disease. Brain 111(Pt 3):695-718.
+
+  Scarr, E., & Dean, B. (2009) Role of the cholinergic system in the pathology and treatment of schizophrenia. Expert Rev Neurother 9:73-86.
+
+  Soares, J. C., Fornari, R. V., & Oliveira, M. G. (2006). Role of muscarinic M1 receptors in inhibitory avoidance and contextual fear conditioning. Neurobiol Learn Mem, 86, 188-196. http://dx.doi.org/10.1016/j.nlm.2006.02.006
+
+  Spowart-Manning, L., & van der Staay, F. J. (2004). The T-maze continuous alternation task for assessing the effects of putative cognitive enhancers in the mouse. Behav Brain Res, 151, 37-46. http://dx.doi.org/10.1016/j.bbr.2003.08.004
+
+  Swainson, R., Hodges, J. R., Galton, C. J., Semple, J., Michael, A., Dunn, B. D., Iddon, J. L., Robbins, T. W., & Sahakian, B. J. (2001). Early detection and differential diagnosis of Alzheimer's disease and depression with neuropsychological tasks. Dement Geriatr Cogn Disord, 12, 265-280. http://dx.doi.org/10.1159/000051269
+
+  Taffe, M. A., Weed, M. R., Gutierrez, T., Davis, S. A., & Gold, L. H. (2002). Differential muscarinic and NMDA contributions to visuo-spatial paired-associate learning in rhesus monkeys. Psychopharmacology (Berl), 160, 253-262. http://dx.doi.org/10.1007/s00213-001-0954-5
+
+  Talpos, J. C., Winters, B. D., Dias, R., Saksida, L. M., & Bussey, T. J. (2009). A novel touchscreen-automated paired-associate learning (PAL) task sensitive to pharmacological manipulation of the hippocampus: a translational rodent model of cognitive impairments in neurodegenerative disease. Psychopharmacology (Berl), 205, 157-168. http://dx.doi.org/10.1007/s00213-009-1526-3
+
+  Turchi, J., Saunders, R. C., & Mishkin, M. (2005). Effects of cholinergic deafferentation of the rhinal cortex on visual recognition memory in monkeys. Proc Natl Acad Sci USA, 102, 2158-2161. http://dx.doi.org/10.1073/pnas.0409708102
+
+  Van Dam, D., Abramowski, D., Staufenbiel, M., & De Deyn, P. P. (2005). Symptomatic effect of donepezil, rivastigmine, galantamine, and memantine on cognitive deficits in the APP23 model. Psychopharmacology (Berl), 180, 177-190. http://dx.doi.org/10.1007/s00213-004-2132-z
+
+  Van Dam, D., Coen, K., & De Deyn, P. P. (2008). Cognitive evaluation of disease-modifying efficacy of donepezil in the APP23 mouse model for Alzheimer's disease. Psychopharmacology (Berl), 197, 37-43. http://dx.doi.org/10.1007/s00213-007-1010-x
+
+  Winblad, B., Engedal, K., Soininen, H., Verhey, F., Waldemar, G., Wimo, A., Wetterholm, A. L., Zhang, R., Haglund, A., & Subbiah, P. (2001) A 1-year, randomized, placebo-controlled study of donepezil in patients with mild to moderate AD. Neurology 57:489-495.2001-18197-007
+
+  Winters, B. D., Bartko, S. J., Saksida, L. M., & Bussey, T. J. (2007). Scopolamine infused into perirhinal cortex improves object recognition memory by blocking the acquisition of interfering object information. Learn Mem, 14, 590-596. http://dx.doi.org/10.1101/lm.634607
+
+  Wood, S. J., Proffitt, T., Mahony, K., Smith, D. J., Buchanan, J. A., Brewer, W., Stuart, G. W., Velakoulis, D., McGorry, P. D., & Pantelis, C. (2002). Visuospatial memory and learning in first-episode schizophreniform psychosis and established schizophrenia: a functional correlate of hippocampal pathology?. Psychol Med, 32, 429-438. http://dx.doi.org/10.1017/S0033291702005275
+Update Code
+  20110321 (PsycINFO)
+Correction Date
+  20120618 (PsycINFO)
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc7&AN=2011-04325-015
+
+<5>
+Accession Number
+  Dissertation Abstract: 2011-99220-080.
+Title
+  The roles of nicotinic and muscarinic cholinergic receptors in risky and impulsive decision making. 
+Publication Date
+  2011
+Year of Publication
+  2011
+Language
+  English
+Author
+  Mendez, Ian Alfredo.
+Institution
+  Mendez, Ian Alfredo: Texas A&M U., US
+Source
+  Dissertation Abstracts International: Section B: The Sciences and Engineering. Vol.72(5-B),2011, pp. 2601. 
+ISSN Print
+  0419-4217
+ISBN
+  978-1-124-51492-5
+Other Serial Titles
+  Dissertation Abstracts International
+Publisher Information
+  ProQuest Information & Learning; US
+UMI Order Number
+  AAI3446585
+Open URL
+  http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqdiss&rft_dat=xri:pqdiss:3446585
+Format Covered
+  Electronic
+Publication Type
+  Dissertation Abstract
+Document Type
+  Dissertation
+Abstract
+  Psychopathological conditions in which decision making is impaired are common and include schizophrenia, attention deficit hyperactivity disorder, and addiction, among others. This dissertation aimed to investigate the role of cholinergic signaling in risky and impulsive decision making. Rats were trained in either a "probability discounting" task in which they chose between small guaranteed and large probabilistically delivered food rewards (a measure of risky decision making), or a "delay discounting" task in which they chose between small immediate and large delayed food rewards (a measure of impulsive decision making). Rats were also divided into high and low "risk-taking" or "impulsive" groups on the basis of their performance in the tasks. Experiments 1 and 2 examined the effects of cholinergic drugs on performance in the probability and delay discounting task, respectively. In Experiment 1, acute administration of the acetylcholinesterase inhibitor donepezil decreased choice of the large risky reward in "risk-taking" rats. Acute administration of nicotine increased choice of the large risky reward in both groups, whereas administration of the nicotinic receptor antagonist mecamylamine decreased choice of the large risky reward in "risk-taking" rats. In Experiment 2, nicotine increased choice of the large delayed reward and mecamylamine shifted impulsive choice in a non-specific manner in "impulsive" rats. The muscarinic receptor agonist oxotremorine decreased choice of the large delayed reward in "non-impulsive" rats and increased choice in "impulsive" rats, while treatment with the muscarinic receptor antagonist atropine increased impulsive choice in all rats. In Experiment 3, another group of rats was used to examine correlations between baseline performance in both discounting tasks and nicotinic receptor density levels in several brain regions. Impulsive choice was positively correlated with 42 receptor levels in ventral hippocampus and nucleus accumbens shell, and 7 receptor levels in the basolateral amygdala, such that greater impulsivity was associated with higher receptor levels. Additionally, risky choice was negatively correlated with 42 receptor levels in nucleus accumbens shell, such that greater risk was associated with lower receptor levels. These experiments suggest that cholinergic receptors are involved in cost-benefit decision making and that they may prove a useful target for treatment of psychopathological conditions in which decision-making deficits are present. (PsycINFO Database Record (c) 2012 APA, all rights reserved)
+Key Concepts
+  nicotinic cholinergic receptors, muscarinic cholinergic receptors, risky decision making, impulsive decision making
+Subject Headings
+    *Cholinergic Receptors
+    *Decision Making
+    *Neurophysiology
+    *Nicotine
+    *Risk Factors
+    Hyperkinesis
+    Rats
+Classification Code
+  Physiological Psychology & Neuroscience [2500]
+Population Group
+  Animal
+Methodology
+  Empirical Study; Quantitative Study
+Update Code
+  20120116 (PsycINFO)
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc7&AN=2011-99220-080
+
+<6>
+Accession Number
+  Peer Reviewed Journal: 2010-08206-002.
+Title
+  Cholinesterase inhibitors as adjunctive therapy in patients with schizophrenia and schizoaffective disorder: A review and meta-analysis of the literature.  [References].
+Publication Date
+  2010
+Year of Publication
+  2010
+Language
+  English
+Author
+  Ribeiz, Salma R. I; Bassitt, Debora P; Arrais, Jony A; Avila, Renata; Steffens, David C; Bottino, Casszo M. C.
+E-Mail Address
+  Ribeiz, Salma R. I.: salma.ribeiz@usp.br
+Correspondence Address
+  Ribeiz, Salma R. I.: CEAPESQ, Institute of Psychiatry, Faculty of Medicine, University of Sao Paulo, Rua Doutor Ovidio Pires de Campos, 785, 3o. andar, sala 14, Cerqueira Cesar, Sao Paulo, Brazil, CEP 05403-903, salma.ribeiz@usp.br
+Institution
+  Ribeiz, Salma R. I.: Institute of Psychiatry, Faculty of Medicine, University of Sao Paulo, Sao Paulo, Brazil
+  Bassitt, Debora P.: Institute of Psychiatry, Faculty of Medicine, University of Sao Paulo, Sao Paulo, Brazil
+  Arrais, Jony A.: Institute of Psychiatry, Faculty of Medicine, University of Sao Paulo, Sao Paulo, Brazil
+  Avila, Renata: Institute of Psychiatry, Faculty of Medicine, University of Sao Paulo, Sao Paulo, Brazil
+  Steffens, David C.: Department of Psychiatry and Behavioral Sciences, Duke University Medical Center, Durham, NC, US
+  Bottino, Casszo M. C.: Institute of Psychiatry, Faculty of Medicine, University of Sao Paulo, Sao Paulo, Brazil
+Source
+  CNS Drugs. Vol.24(4), 2010, pp. 303-317. 
+ISSN Print
+  1172-7047
+ISSN Electronic
+  1179-1934
+Publisher Information
+  Adis International; New Zealand
+Other Publishers
+  Springer, Germany
+Format Covered
+  Print
+Publication Type
+  Journal; Peer Reviewed Journal
+Document Type
+  Journal Article
+Abstract
+  Background: Cognitive deficits have been described in patients with schizophrenia from the first descriptions of dementia praecox to current concepts of cognitive dysmetria. Nevertheless, little is known about how to deal with them. In Alzheimer disease, cholinergic deficit is found and cholinesterase inhibitors have been used to delay the progression of memory and cognitive dysfunction. Several lines of evidence suggest that the cholinergic system may be disrupted in schizophrenia. Objective: To evaluate cognitive and clinical effects of adjunctive cholinesterase inhibitors in patients with schizophrenia and schizoaffective disorder. Method: We conducted a literature search on PubMed and EMBASE (up to December 2008) for articles that investigated adjunctive cholinesterase inhibitors in patients with schizophrenia. The terms 'schizophrenia', 'acetylcholinesterase inhibitors', 'rivastigmine', 'donepezil', 'galantamine' and 'cognitive deficit' were searched with restriction for English language and without a year limit. All articles that presented original data from randomized, double-blind, placebo-controlled trials with donepezil, rivastigmine or galantamine in patients with schizophrenia or schizoaffective disorder were included in the meta-analysis. Studies were excluded for the following reasons: (i) case study/letter/correspondence/review; (ii) animal study; (iii) molecular/ genetic investigation; and (iv) inclusion of patients with schizophrenia and co-morbid dementia. Few appropriate data for meta-analysis were found because of the large heterogeneity of the assessment instruments used. Nevertheless, effects of cholinesterase inhibitors in some cognitive domains (executive function, memory and language), psychopathology (using the Positive and Negative Syndrome Scale) and extrapyramidal symptoms could be analysed. Results: Six open-label and 24 double-blind studies were found. In five openlabel studies there was an improvement in memory, attention and executive functions. Thirteen double-blind studies (four with rivastigmine, six with donepezil and three with galantamine) contributed to the meta-analysis. Signiflcant improvement was found in this analysis for memory and the Trail Making test part A. Conclusions: The reviewed studies suggest that specific cognitive deficits (memory, and the motor speed and attention part of executive function) of patients with schizophrenia and schizoaffective disorder are responsive to rivastigmine, donepezil and galantamine as adjunctive therapy. Confirmatory studies are needed to determine the clinical utility of this treatment strategy. (PsycINFO Database Record (c) 2012 APA, all rights reserved) (journal abstract)
+Digital Object Identifier
+  http://dx.doi.org/10.2165/11530260-000000000-00000
+PMID
+  20297855
+Key Concepts
+  cholinesterase inhibitors, adjunctive therapy, patients, schizophrenia, schizoaffective disorder
+Subject Headings
+    *Cholinesterase Inhibitors
+    *Drug Therapy
+    *Schizoaffective Disorder
+    *Schizophrenia
+    Patients
+Classification Code
+  Schizophrenia & Psychotic States [3213]; Clinical Psychopharmacology [3340]
+Population Group
+  Human
+Methodology
+  Literature Review; Systematic Review; Meta Analysis
+Tests & Measures
+  Simpson-Angus Scale
+  Alzheimer's Disease Assessment Scale-Cognitive Subscale
+  Clinical Global Impression-Improvement Scale
+  Positive and Negative Syndrome Scale-Positive Symptoms
+  Brief Assessment of Cognition in Schizophrenia
+  Benton Oral Word Association Test
+  Brief Visuospatial Memory Test
+  Controlled Oral Word Association Test
+  Wechsler Adult Intelligence Scale III
+  Positive and Negative Syndrome Scale-Negative Symptoms
+  Mini Mental State Examination
+  Positive and Negative Syndrome Scale
+  Repeatable Battery for the Assessment of Neuropsychological Status
+  Boston Naming Test
+  California Verbal Learning Test
+  Digit Symbol Substitution Test
+  Hamilton Rating Scale for Depression
+  Wisconsin Card Sorting Test
+  Abnormal Involuntary Movement Scale
+  Continuous Performance Test
+  Hopkins Verbal Learning Test
+  Rey-Osterrieth Complex Figure Test
+  Trail Making Test
+Test DOI
+  Positive and Negative Syndrome Scale [doi: http://dx.doi.org/10.1037/t05056-000] (9999-05056-000) [PsycTESTS Record Link for subscribers]
+  Repeatable Battery for the Assessment of Neuropsychological Status [doi: http://dx.doi.org/10.1037/t15149-000] (9999-15149-000) [PsycTESTS Record Link for subscribers]
+  Hamilton Rating Scale for Depression [doi: http://dx.doi.org/10.1037/t04100-000] (9999-04100-000) [PsycTESTS Record Link for subscribers]
+  Continuous Performance Test [doi: http://dx.doi.org/10.1037/t10534-000] (9999-10534-000) [PsycTESTS Record Link for subscribers]
+  Trail Making Test [doi: http://dx.doi.org/10.1037/t00757-000] (9999-00757-000) [PsycTESTS Record Link for subscribers]
+Copyright
+  STATEMENT: All rights reserved.
+  HOLDER: Adis Data Information BV.
+  YEAR: 2010
+Cited References
+  Aasen, I., Kumari, V., & Sharma, T. (2005). Effects of rivastigmine on sustained attention in schizophrenia. J Clin Psychopharmacol, 254, 311-7. http://dx.doi.org/10.1097/01.jcp.0000169267.36797.76
+
+  Adler, L. E., Hoffer, L. D., Wiser, A., et al. (1993). Normalization of auditory physiology by cigarette smoking in schizophrenic patients. Am J Psychiatry 1993; 150 (12): 1856-61.1994-25605-001
+
+  Allen, T., McEvoy, J. P., Keefe, R., et al. (2003). Galantamine as an adjunctive therapy in the treatment of schizophrenia. 11th Congress of the International Psychogeriatric Association (IPA); 2003 Aug 17-22; Chicago (IL).
+
+  Andreasen, N. C., Paradiso, S., & O'Leary, D. S. (1998). "Cognitive dysmetria" as an integrative theory of schizophrenia: a dysfunction in cortical-subcortical-cerebellar circuitry? Schizophr Bull 1998; 24 (2): 203-18.1998-02576-002
+
+  Baldessarini, R. J., Hegarty, J. D., Bird, E. D., et al. (1997). Meta-analysis of postmortem studies of Alzheimer's disease-like neuropathology in schizophrenia. Am J Psychiatry 1997 Jun; 154 (6): 861-3. Erratum in: Am J Psychiatry 1997 Aug; 154(8): 1180.1997-04662-021
+
+  Bennett, J. P., Jr.., Enna, S. J., Bylund, D. B., et al. (1979). Neurotransmitter receptors in frontal cortex of schizophrenics. Arch Gen Psychiatry 1979 Aug; 36 (9): 927-34.1981-01400-001
+
+  Benwell, M. E., Balfour, D. J., & Birrell, C. E. (1995). Desensitization of the nicotine-induced mesolimbic dopamine responses during constant infusion with nicotine. Br J Pharmacol 1995; 114 (2): 454-60.
+
+  Bilder, R. M. (1996). Neuropsychology and neurophysiology in schizophrenia. Curr Opin Psychiatry 1996; 9: 57-62.
+
+  Bora, E., Veznedaroglu, B., & Kayahan, B. (2005). The effect of galantamine added to clozapine on cognition of five patients with schizophrenia. Clin Neuropharmacol, 283, 139-41. http://dx.doi.org/10.1097/01.wnf.0000162555.68729.04
+
+  Breese, C. R., Lee, M. J., Adams, C. E., et al. (2000). Abnormal regulation of high affinity nicotinic receptors in subjects with schizophrenia. Neuropsychopharmacology, 234, 351-64. http://dx.doi.org/10.1016/S0893-133X(00)00121-4
+
+  Buchanan, R. W., Conley, R. R., Dickinson, D., et al. (2008). Galantamine for the treatment of cognitive impairments in people with schizophrenia. Am J Psychiatry, 1651, 82-9. http://dx.doi.org/10.1176/appi.ajp.2007.07050724
+
+  Buchanan, R. W., Summerfelt, A., Tek, C., et al. (2003). An open-labeled trial of adjunctive donepezil for cognitive impairments in patients with schizophrenia. Schizophr Res, 59, 29-33. http://dx.doi.org/10.1016/S0920-9964(01)00387-5
+
+  Burch, E. A., Jr.., & Andrews, S. R. (1987). Comparison of two cognitive rating scales in medically ill patients. Int J Psychiatry Med 1987; 17: 193-200.1988-25157-001
+
+  Chouinard, S., Sepebhry, A. A., & Stip, E. (2007). Oral cholinesterase inhibitor add-on therapy for cognitive enhancement in schizophrenia: a quantitative systematic review, part I. Clin Neuropharmacol, 303, 169-82. http://dx.doi.org/10.1097/WNF.0b013e31802fa61a
+
+  Chouinard, S., Stip, E., Poulin, J., et al. (2007). Rivastigmine treatment as an add-on to antipsychotics in patients with schizophrenia and cognitive deficits. Curr Med Res Opin 2007; 23 (3): 575-83.
+
+  Cooper, H., & Hedges, L. V. (1994). The Handbook of Research Synthesis. Newbury Park (CA): Russell Sage Foundation, 1994.1993-99100-000
+
+  Crespo-Facorro, B., Rodriguez-Sanches, J. M., Perez-Iglesias, R., et al. (2009). Neurocognitive effectiveness of haloperidol, risperidone, and olanzapine in first-episode psychosis: a randomized, controlled 1-year follow-up comparison. J Clin Psychiatry, 705, 717-29. http://dx.doi.org/10.4088/JCP.08m04634
+
+  Cuesta, M. J., Jalon, E. G., Campos, M. S., et al. (2009). Cognitive effectiveness of olanzapine and risperidoe in first-episode psychosis. Br J Psychiatry, 1945, 439-45. http://dx.doi.org/10.1192/bjp.bp.108.055137
+
+  Cummings, J. L. (2000). Cholinesterase inhibitors: a new class of psychotropic compounds. Am J Psychiatry 2000; 157: 4-15.2000-13126-001
+
+  Dean, B., McLeod, M., Keriakous, D., et al. (2002). Decreased muscarinicl receptors in the dorsolateral prefrontal cortex of subjects with schizophrenia. Mol Psychiatry, 710, 1083-91. http://dx.doi.org/10.1038/sj.mp.4001199
+
+  Dwork, A. J., Susser, E. S., Keilp, J., et al. (1998). Senile degeneration and cognitive impairment in chronic schizophrenia. Am J Psychiatry 1998; 155 (11): 1536-43.1998-11156-007
+
+  Dyer, M. A., Freudenreich, O., Culhane, M. A., et al. (2008). High-dose galantamine augmentation inferior to placebo on attention, inhibitory control and working memory performance in nonsmokers with schizophrenia. Schizophr Res, 102, 88-95. http://dx.doi.org/10.1016/j.schres.2007.12.491
+
+  Erickson, S. K., Schwarzkopf, S. B., Palumbo, D., et al. (2005). Efficacy and tolerability of low-dose donepezil in schizophrenia. Clin Neuropharmacol, 28, 179-84. http://dx.doi.org/10.1097/01.wnf.0000173714.61744.e6
+
+  Fagerlund, B., Soholm, B., Fink-Jensen, A., et al. (2007). Effects of donepezil adjunctive treatment to ziprasidone on cognitive deficits in schizophrenia: a double-blind, placebo-controlled study. Clin Neuropharmacol, 30, 3-12. http://dx.doi.org/10.1097/01.WNF.0000240940.67241.F6
+
+  Fenster, C. P., Hicks, J. H., Beckman, M. L., et al. (1999). Desensitization of nicotinic receptors in the central nervous system. Ann N Y Acad Sci 1999 Apr 30; 868: 620-3.
+
+  Ferreri, F., Agbokou, C., & Gauthier, S. (2006). Cognitive dysfunctions in schizophrenia: potential benefits of cholinesterase inhibitor adjunctive therapy. J Psychiatry Neurosci 2006; 31 (6): 369-76.2007-03389-002
+
+  Francis, P. T., Palmer, A. M., Snape, M., et al. (1999). The cholinergic hypothesis of Alzheimer's disease: a review of progress. J Neurol Neurosurg Psychiatr, 66, 137-47. http://dx.doi.org/10.1136/jnnp.66.2.137
+
+  Freedman, R., Hall, M., Adler, L. E., et al. (1995). Evidence in postmortem brain tissue for decreased numbers of hippocampal nicotinic receptors in schizophrenia. Biol Psychiatry, 381, 22-33. http://dx.doi.org/10.1016/0006-3223(94)00252-X
+
+  Freudenreich, O., Herz, L., Deckersbach, T., et al. (2005). Added donepezil for stable schizophrenia: a double-blind placebocontrolled trial. Psychopharmacology (Berl), 1812, 358-63. http://dx.doi.org/10.1007/s00213-005-2235-1
+
+  Friedman, J. I., Adler, D. N., Howanitz, E., et al. (2002). A double blind placebo controlled trial of donepezil adjunctive treatment to risperidone for the cognitive impairment of schizophrenia. Biol Psychiatry, 51, 349-57. http://dx.doi.org/10.1016/S0006-3223(01)01342-7
+
+  Friedman, J. I. (2004). Cholinergic targets for cognitive enhancement in schizophrenia: focus on cholinesterase inhibitors and muscarinic agonists. Psychopharmacology, 174, 45-53. http://dx.doi.org/10.1007/s00213-004-1794-x
+
+  Giacobini, E. (1998). Cholinesterase inhibitors for Alzheimer's disease therapy: from tacryne to future applications. Neurochemlnt 1998;32:413-9.
+
+  Green, M. F. (1996). What are the functional consequences of neurocognitive deficits in schizophrenia? Am J Psychiatry 1996; 153: 321-30.1996-00417-002
+
+  Guillem, F., Chouinard, S., Poulin, J., et al. (2006). Are cholinergic enhancers beneficial for memory in schizophrenia? An event-related potentials (ERPs) study of rivastigmine add-on therapy in a crossover trial. Prog Neuropsychopharmacol Biol Psychiatry, 30, 934-45. http://dx.doi.org/10.1016/j.pnpbp.2006.02.009
+
+  Hernandez, C. M., & Terry, A. V. (2005). Repeated nicotine exposure in rats: effects on memory function, cholinergic markers and nerve growth factor. Neuroscience 2005; 130: 997-1012.
+
+  Hyde, T. M., & Crook, J. M. (2001). Cholinergic systems and schizophrenia: primary pathology or epiphenomena. J Chem Neuroanat 2001; 22: 53-63.
+
+  Keefe, R. S. E., Malhotra, A. K., Meltzer, H. Y., et al. (2008). Efficacy and safety of donepezil in patients with schizophrenia or schizoaffective disorder: significant placebo/practice effects in a 12-week, randomized, double-blind, placebo-controlled trial. Neuropsychopharmacology, 336, 1217-28. http://dx.doi.org/10.1038/sj.npp.1301499
+
+  Kihara, T., Sawada, H., Nakamizo, T., et al. (2004). Galantamine modulates nicotinic receptor and blocks Abeta-enhanced glutamate toxicity. Biochem Biophys Res Commun 2004; 325: 976-82.
+
+  Kohler, C. G., Martin, E. A., Kujawski, E., et al. (2007). No effect of donepezil on neurocognition and social cognition in young persons with stable schizophrenia. Cogn Neuropsychiatry, 125, 412-21. http://dx.doi.org/10.1080/13546800701307263
+
+  Kraepelin, E. (1919). Dementia praecox and paraphrenia (translated by R. Mary Barclay). Edinburgh: E. & S. Livingstone, 1919.
+
+  Kumari, V., Aasen, I., Ffytche, D. H., et al. (2006). Neural correlates of adjunctive rivastigmine treatment to antipsychotics in schizophrenia: a randomized, placebo-controlled, doubleblind fMRI study. Neuroimage 2006; 29: 545-56.
+
+  Lawrence, A. D., & Sanakian, B. J. (1995). Alzheimer disease, attention, and the cholinergic system. 9, 43-9. http://dx.doi.org/10.1097/00002093-199501002-00008
+
+  Lee, B. J., Lee, J. G., & Kim, Y. H. (2007). A 12-week, double-blind, placebocontrolled trial of donepezil as an adjunct to haloperidol for treating cognitive impairments inpatients with chronic schizophrenia. J Psychopharmacol, 214, 421-7. http://dx.doi.org/10.1177/0269881106070996
+
+  Lee, S.-W., Lee, J.-G., Lee, B.-J., et al. (2007). A 12-week, double-blind, placebo-controlled trial of galantamine adjunctive treatment to conventional antipsychotics for the cognitive impairments in chronic schizophrenia. Int Clin Psychopharmacol, 22, 63-8. http://dx.doi.org/10.1097/YIC.0b013e3280117feb
+
+  Lenzi, A., Maltinti, E., Poggi, E., et al. (2003). Effects of rivastigmine on cognitive function and quality of life in patients with schizophrenia. Clin Psychopharmacol, 26, 317-21. http://dx.doi.org/10.1097/00002826-200311000-00011
+
+  Lilienfeld, S. (2002). Galantamine: a novel cholinergic drug with a unique dual mode of action for the treatment of patients with Alzheimer's disease. CNS Drug Rev 2002; 8: 159-76.2002-17900-003
+
+  Mazeh, D., Zemishlani, H., Barak, Y., et al. (2006). Donepezil for negative signs in elderly patients with schizophrenia: addon, double-blind, crossover, placebo controlled study. Int Psychogeriatr, 183, 429-36. http://dx.doi.org/10.1017/S1041610205003017
+
+  Mendelsohn, E., Rosenthal, M., Bohiri, Y., et al. (2004). Rivastigmine augmentation in the management of chronic schizophrenia with comorbid dementia: an open-label study investigating effects on cognition, behavior and activities of daily living. Int Clin Psychopharmacol, 196, 319-24. http://dx.doi.org/10.1097/00004850-200411000-00001
+
+  Nahas, Z., George, M. S., Horner, M. D., et al. (2003). Augmenting atypical antipsychotics with a cognitive enhancer (donepezil) improves regional brain activity in schizophrenia patients: a pilot double-blind placebo controlled bold fMRI study. Neurocase, 93, 274-82. http://dx.doi.org/10.1076/neur.9.3.274.15563
+
+  Nelson, M. D., Saykin, A. J., Flashman, L. A., et al. (1998). Hippocampal volume reduction in schizophrenia as assessed by magnetic resonance imaging: a meta-analytic study. Arch Gen Psychiatry, 55, 433-40. http://dx.doi.org/10.1001/archpsyc.55.5.433
+
+  Olincy, A., Harris, J. G., Johnson, L. L., et al. (2006). Proof-of-concept trail of an alpha 7 nicotinic agonist in schizophrenia. Arch Gen Psychiatry, 63, 630-8. http://dx.doi.org/10.1001/archpsyc.63.6.630
+
+  Olincy, A., Ross, R. G., Young, D. A., et al. (1998). Improvement in smooth pursuit eye movements after cigarette smoking in schizophrenic patients. Neuropsychopharmacology, 183, 175-85. http://dx.doi.org/10.1016/S0893-133X(97)00095-X
+
+  Powchick, P., Davidson, M., Haroutunian, V., et al. (1998). Postmortem studies in schizophrenia. Schizophr Bull 1998; 24: 325-41.1998-10644-002
+
+  Perez, M., Turna, I., Pytela, O., et al. (2006). Acetyl cholinesterase inhibitor in the treatment of cognitive deficit in schizophrenia: subanalysis of the active branch from Czech extended double blind study. Eur Psychiatry, 21, 548-50. http://dx.doi.org/10.1016/j.eurpsy.2006.04.008
+
+  Rainer, M. (1997). Galantamine in Alzheimer's disease: a new alternative to tacrine?. CNS Drugs, 2, 89-97. http://dx.doi.org/10.2165/00023210-199707020-00001
+
+  Rasking, M. A., Pesking, E. R., Wessel, T., et al. (2000). Galantamine in AD: a 6-month randomized, placebo controlled trial with a 6-month extension. The Glantamine USA-1 Study Group. Neurology 2000; 54: 2261-8.2000-00016-009
+
+  Risch, S. C., Horner, M. D., McGurk, S. R., et al. (2006). Donepezil effects on mood in patients with schizophrenia and schizoaffective disorder. Int J Neuropsychopharmacol, 9, 603-5. http://dx.doi.org/10.1017/S1461145705006115
+
+  Risch, S. C., Horner, M. D., McGurk, S. R., et al. (2007). Double-blind donepezil-placebo crossover augmentation study of atypical antipsychotics in chronic, stable schizophrenia: a pilot study. Schizophr Res, 93, 131-5. http://dx.doi.org/10.1016/j.schres.2007.01.001
+
+  Risch, S. C., McGurk, S., Horner, M. D., et al. (2000). A double-blind placebo controlled case study of the use of donepezil to improve cognition in a schizoaffective disorder patient: functional MRI correlates. Neurocase, 72, 105-10. http://dx.doi.org/10.1093/neucas/7.2.105
+
+  Ritchie, C. W., Ames, D., Clayton, T., et al. (2004). Metaanalysis of randomized trials of the efficacy and safety of donepezil, galatamine, and rivastigmine for the treatment of Alzheimer disease. Am J Geriatr Psychiatry, 12, 358-69. http://dx.doi.org/10.1176/appi.ajgp.12.4.358
+
+  Sacco, K. A., Creeden, C., Reutenauer, E. L., et al. (2008). Effects of galantamine on cognitive deficits in smokers and non-smokers with schizophrenia. Schizophr Res, 103, 326-7. http://dx.doi.org/10.1016/j.schres.2008.05.004
+
+  Schubert, M. H., Young, K. A., & Hicks, P. B. (2006). Galantamine improves cognition in schizophrenic patients stabilized on risperidone. Biol Psychiatry, 60, 530-3. http://dx.doi.org/10.1016/j.biopsych.2006.04.006
+
+  Sharma, T., Reed, C., Aasen, I., et al. (2006). Cognitive effects of adjunctive 24-weeks rivastigmine treatment to antipsychotics in schizophrenia: a randomized, placebo-controlled, double-blind investigation. Schizophr Res, 85, 73-83. http://dx.doi.org/10.1016/j.schres.2006.03.037
+
+  Sink, K. M., Holden, K. F., & Yaffe, K. (2005). Pharmacological treatment of neuropsychiatric symptoms of dementia: a review of the evidence. JAMA, 2935, 596-608. http://dx.doi.org/10.1001/jama.293.5.596
+
+  Stip, E., Remington, G. J., Dursun, S. M., & Canadian Switch Study Group. (2003). A Canadian multicenter trial assessing memory and executive functions in patients with schizophrenia spectrum disorders treated with olanzapine. J Clin Psychopharmacol, 234, 400-4. http://dx.doi.org/10.1097/01.jcp.0000085414.08426.8f
+
+  Stip, E., Sepehry, A. A., & Chouinard, S. (2007). Add-on therapy with acetylcholinesterase inhibitors for memory dysfunction in schizophrenia: a systematic quantitative review, part 2. Clin Neuropharmacol 2007; 30 (4): 218-29.2007-12424-006
+
+  Stryjer, R., Strous, R., Bar, F., et al. (2004). Donepezil augmentation of clozapine monotherapy in schizophrenia patients: a double blind cross-over study. Hum Psychopharmacol, 195, 343-6. http://dx.doi.org/10.1002/hup.595
+
+  Stryjer, R., Strous, R. D., Bar, F., et al. (2003). Beneficial effect of donepezil augmentation for the management of comorbid schizophrenia and dementia. Clin Neuropharmacol, 26, 12-7. http://dx.doi.org/10.1097/00002826-200301000-00004
+
+  Trinh, N. H., Hoblyn, J., Mohanty, S., et al. (2003). Efficacy of cholinesterase inhibitors in the treatment of neuropsychiatric symptoms and functional impairment in Alzheimer disease: a meta-analysis. JAMA, 2892, 210-6. http://dx.doi.org/10.1001/jama.289.2.210
+
+  Tugal, O., Yazici, K. M., Anil Yagcioglu, A. E., et al. (2004). A doubleblind, placebo controlled, cross-over trail of adjunctive donepezil for cognitive impairment in schizophrenia. Int J Neuropharmacol 2004; 7 (2): 117-23.
+
+  Van Dam, D., Abramowski, D., Staufenbiel, M., et al. (2005). Symptomatic effect of donepezil, rivastigmine, galantamine and memantine on cognitive deficits in the APP23 model. Psychopharmacology (Berl), 180, 177-90. http://dx.doi.org/10.1007/s00213-004-2132-z
+
+  Weinberger, D. R., & Gallhofer, B. (1997). Cognitive function in schizophrenia. Int Clin Psychopharmacol, 12, 29-36. http://dx.doi.org/10.1097/00004850-199709004-00006
+Update Code
+  20110620 (PsycINFO)
+Correction Date
+  20121119 (PsycINFO)
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2010-08206-002
+
+<7>
+Accession Number
+  Peer Reviewed Journal: 2010-23261-005.
+Title
+  Galantamine ameliorates the impairment of recognition memory in mice repeatedly treated with methamphetamine: Involvement of allosteric potentiation of nicotinic acetylcholine receptors and dopaminergic-ERK1/2 systems.  [References].
+Publication Date
+  Nov 2010
+Year of Publication
+  2010
+Publication History
+  First Posting: Mar 2010
+  Accepted: Feb 2010
+  Revised: Jan 2010
+  First Submitted: Jun 2009
+Language
+  English
+Author
+  Noda, Yukihiro; Mouri, Akihiro; Ando, Yu; Waki, Yukari; Yamada, Shin-nosuke; Yoshimi, Akira; Yamada, Kiyofumi; Ozaki, Norio; Wang, Dayong; Nabeshima, Toshitaka.
+E-Mail Address
+  Nabeshima, Toshitaka: tnabeshi@ccmfs.meijo-u.ac.jp
+Correspondence Address
+  Nabeshima, Toshitaka, 150 Yagotoyama, Tempaku, Nagoya, Japan, 468-8503, tnabeshi@ccmfs.meijo-u.ac.jp
+Institution
+  Noda, Yukihiro: Division of Clinical Sciences and Neuropsychopharmacology, Meijo University, Graduate School of Pharmaceutical Science, Nagoya, Japan
+  Mouri, Akihiro: Department of Chemical Pharmacology, Meijo University, Graduate School of Pharmaceutical Science, Nagoya, Japan
+  Ando, Yu: Division of Clinical Sciences and Neuropsychopharmacology, Meijo University, Graduate School of Pharmaceutical Science, Nagoya, Japan
+  Waki, Yukari: Division of Clinical Sciences and Neuropsychopharmacology, Meijo University, Graduate School of Pharmaceutical Science, Nagoya, Japan
+  Yamada, Shin-nosuke: Division of Clinical Sciences and Neuropsychopharmacology, Meijo University, Graduate School of Pharmaceutical Science, Nagoya, Japan
+  Yoshimi, Akira: Division of Clinical Sciences and Neuropsychopharmacology, Meijo University, Graduate School of Pharmaceutical Science, Nagoya, Japan
+  Yamada, Kiyofumi: Department of Neuropsychopharmacology, Nagoya University, Graduate School of Medicine, Nagoya, Japan
+  Ozaki, Norio: Department of Psychiatry, Nagoya University, Graduate School of Medicine, Nagoya, Japan
+  Wang, Dayong: Department of Chemical Pharmacology, Meijo University, Graduate School of Pharmaceutical Science, Nagoya, Japan
+  Nabeshima, Toshitaka: Department of Chemical Pharmacology, Meijo University, Graduate School of Pharmaceutical Science, Nagoya, Japan
+Source
+  International Journal of Neuropsychopharmacology. Vol.13(10), Nov 2010, pp. 1343-1354. 
+ISSN Print
+  1461-1457
+ISSN Electronic
+  1469-5111
+Publisher Information
+  Cambridge University Press; United Kingdom
+Format Covered
+  Print
+Publication Type
+  Journal; Peer Reviewed Journal
+Document Type
+  Journal Article
+Abstract
+  Galantamine, a drug used to treat Alzheimer's disease, inhibits acetylcholinesterase (AChE) and allosterically modulates nicotinic acetylcholine receptors (nAChRs) resulting in stimulation of catecholamine neurotransmission. In this study, we investigated whether galantamine exerts cognitive-improving effects through the allosteric modulation of nAChRs in an animal model of methamphetamine (Meth) psychosis. The mice treated with Meth (1 mg/kg.d) for 7 d showed memory impairment in a novel object recognition test. Galantamine (3 mg/kg) ameliorated the memory impairment, and it increased the extracellular dopamine release in the prefrontal cortex (PFC) of Meth-treated mice. Donepezil, an AChE inhibitor (1 mg/kg) increased the extracellular ACh release in the PFC, whereas it had no effect on the memory impairment in Meth-treated mice. The nAChR antagonist, mecamylamine, and dopamine D1 receptor antagonist, SCH 23390, blocked the ameliorating effect of galantamine on Meth-induced memory impairment, whereas the muscarinic AChR antagonist, scopolamine, had no effect. The effects of galantamine on extracellular dopamine release were also antagonized by mecamylamine. Galantamine attenuated the defect of the novelty-induced activation of extracellular signal-regulated kinase 1/2 (ERK1/2). The ameliorating effect of galantamine on recognition memory in Meth-treated mice was negated by microinjection of an ERK inhibitor, PD98059, into the PFC. These results suggest that the ameliorating effect of galantamine on Meth-induced memory impairment is associated with indirect activation of dopamine D1 receptor-ERK1/2 following augmentation with dopaminergic neurotransmission in the PFC through the allosteric activation of nAChRs. Galantamine could be a useful therapeutic agent for treating cognitive deficits in schizophrenia/Meth psychosis, as well as Alzheimer's disease. (PsycINFO Database Record (c) 2012 APA, all rights reserved) (journal abstract)
+Digital Object Identifier
+  http://dx.doi.org/10.1017/S1461145710000222
+PMID
+  20219155
+Key Concepts
+  galantamine, recognition memory, mice, methamphetamine, nicotinic acetylcholine receptors, dopaminergic systems
+Subject Headings
+    *Cholinergic Receptors
+    *Dopamine
+    *Galanthamine
+    *Memory
+    *Methamphetamine
+    Mice
+Classification Code
+  Psychopharmacology [2580]
+Population Group
+  Animal; Male
+Methodology
+  Empirical Study; Quantitative Study
+Grant/Sponsorship
+  <b>Sponsor: </b>National Institute of Biomedical Innovation. Program for Promotion of Fundamental Studies in Health Sciences
+<b>Grant: </b>NIBIO05-27
+<b>Recepient: </b>No recipient indicated
+
+  <b>Sponsor: </b>Ministry of Education, Culture, Sports, Science and Technology. Japan
+<b>Other Details: </b>Academic Frontier Project for Private Universities
+<b>Recepient: </b>No recipient indicated
+
+  <b>Sponsor: </b>Meijo Asian Research Center (MARC)
+<b>Other Details: </b>International Research Project
+<b>Recepient: </b>No recipient indicated
+
+  <b>Sponsor: </b>Japan Society for the Promotion of Science. Japan
+<b>Other Details: </b>Grant-in-Aid for Exploratory Research; Grant-in-Aid for Scientific Research (B); Grant-in-Aid on Priority Areas
+<b>Recepient: </b>No recipient indicated
+
+  <b>Sponsor: </b>Ministry of Health, Labour and Welfare. Japan
+<b>Other Details: </b>Health and Labour Sciences Research Grant for Research on Regulatory Science of Pharmaceuticals and Medical Devices and Research on Risk of Chemical Substances
+<b>Recepient: </b>No recipient indicated
+
+  <b>Sponsor: </b>Smoking Research Foundation
+<b>Recepient: </b>No recipient indicated
+
+Copyright
+  HOLDER: CINP
+  YEAR: 2010
+Cited References
+  Cretzmeyer, M., Sarrazin, M. V., Huber, D. L., Block, R. I., et al. (2003). Treatment of methamphetamine abuse: research findings and clinical directions. Journal of Substance Abuse Treatment, 24, 267-277. http://dx.doi.org/10.1016/S0740-5472(03)00028-X
+
+  Dias, R., Robbins, T. W., & Roberts, A. C. (1996). Dissociation in prefrontal cortex of affective and attentional shifts. Nature, 380, 69-72. http://dx.doi.org/10.1038/380069a0
+
+  Dias, R., Robbins, T. W., & Roberts, A. C. (1996). Primate analogue of the Wisconsin card sorting test: effects of excitotoxic lesions of the prefrontal cortex in the marmoset. Behavioral Neuroscience, 110, 872-886. http://dx.doi.org/10.1037/0735-7044.110.5.872
+
+  Eisele, J. L., Bertrand, S., Galzi, J. L., Devillers-Thiery, A., et al. (1993). Chimaeric nicotinic-serotoninergic receptor combines distinct ligand binding and channel specificities. Nature 366, 479-83.
+
+  Franklin, K. B. J., & Paxinos, G. (1996). The Mouse Brain in Stereotaxic Coordinates. San Diego: Academic Press.
+
+  Friedman, J. I. (2004). Cholinergic targets for cognitive enhancement in schizophrenia: focus on cholinesterase inhibitors and muscarinic agonists. Psychopharmacology (Berlin), 174, 45-53. http://dx.doi.org/10.1007/s00213-004-1794-x
+
+  Geerts, H., Guillaumat, P. O., Grantham, C., Bode, W., et al. (2005). Brain levels and acetylcholinesterase inhibition with galantamine and donepezil in rats, mice and rabbits. Brain Research 1033,186-193.
+
+  Ito, Y., Takuma, K., Mizoguchi, H., Nagai, T., et al. (2007). A novel azaindolizinone derivative ZSET1446 [spiro[imidazo[l,2-a]pyridine-3,2-indan]-2(3H)-one] improves methamphetamine-induced impairment of recognition memory in mice by activating extracellular signal-regulated kinase 1/2. Journal of Pharmacology and Experimental Therapeutics, 320, 819-827. http://dx.doi.org/10.1124/jpet.106.114108
+
+  Kalechstein, A. D., Newton, T. F., & Green, M. (2003). Methamphetamine dependence is associated with neurocognitive impairment in the initial phases of abstinence. Journal of Neuropsychiatry and Clinica Neurosciences 15, 215-220.
+
+  Kamei, H., Nagai, T., Nakano, H., Togan, Y., et al. (2006). Repeated methamphetamine treatment impairs recognition memory through a failure of novelty-induced ERK1/2 activation in the prefrontal cortex of mice. Biological Psychiatry, 59, 75-84. http://dx.doi.org/10.1016/j.biopsych.2005.06.006
+
+  Mizoguchi, H., Yamada, K., Mizuno, M., Mizuno, T., et al. (2004). Regulations of methamphetamine reward by extracellular signal-regulated kinase 1/2/ets-like gene-1 signaling pathway via the activation of dopamine receptors. Molecular Pharmacology 65, 1293-1301.
+
+  Mouri, A., Noda, Y., Noda, A., Nakamura, T., et al. (2007). Involvement of a dysfunctional dopamine-Dl/N-methyl d-aspartate-NRl and Ca2+/calmodulin-dependent protein kinase II pathway in the impairment of latent learning in a model of schizophrenia induced by phencyclidine. Molecular Pharmacology 71, 1598-1609.
+
+  Mouri, A., Zou, L. B., Iwata, N., Saido, T. C., et al. (2006). Inhibition of neprilysin by thiorphan (i.c.v.) causes an accumulation of amyloid beta and impairment of learning and memory. Behavioral Brain Research, 168, 83-91. http://dx.doi.org/10.1016/j.bbr.2005.10.014
+
+  Nordahl, T. E., Salo, R., & Leamon, M. (2003). Neuropsychological effects of chronic methamphetamine use on neurotransmitters and cognition: a review. Journal of Neuropsychiatry and Clinical Neurosciences, 15, 317-325. http://dx.doi.org/10.1176/appi.neuropsych.15.3.317
+
+  Paulus, M. P., Hozack, N. E., Zauscher, B. E., Frank, L., et al. (2002). Behavioral and functional neuroimaging evidence for prefrontal dysfunction in methamphetamine-dependent subjects. Neuropsychopharmacology, 26, 53-63. http://dx.doi.org/10.1016/S0893-133X(01)00334-7
+
+  Rawson, R. A., Gonzales, R., & Brethen, P. (2002). Treatment of methamphetamine use disorders: an update. Journal of Substance Abuse Treatment, 23, 145-150. http://dx.doi.org/10.1016/S0740-5472(02)00256-8
+
+  Santos, M. D., Alkondon, M., Aracava, Y., Eisenberg, H. M., et al. (2002). The nicotinic aliosteric potentiating ligand galantamine facilitates synaptic transmission in the mammalian central nervous system. Molecular Pharmacology 61,1222-1234.
+
+  Sato, M., Chen, C. C., Akiyama, K., & Otsuki, S. (1983). Acute exacerbation of paranoid psychotic state after long-term abstinence in patients with previous methamphetamine psychosis. Biological Psychiatry 18, 429-440.1984-01547-001
+
+  Sawaguchi, T., & Goldman-Rakic, P. S. (1991). Dl dopamine receptors in prefrontal cortex: involvement in working memory. Science 251, 947-950.
+
+  Schilstrom, B., Ivanov, V. B., Wiker, C., & Svensson, T. H. (2007). Galantamine enhances dopaminergic neurotransmission in vivo via allosteric potentiation of nicotinic acetylcholine receptors. Neuropsychopharmacology, 32, 43-53. http://dx.doi.org/10.1038/sj.npp.1301087
+
+  Shintani, F., Kanba, S., Nakaki, T., Nibuya, M., et al. (1993). Interleukin-lb augments release of norepinephrine, dopamine, and serotonin in the rat anterior hypothalamus. Journal of Neuroscience 13, 3574-3581.
+
+  Simon, S. L., Domier, C., Carnell, J., Brethen, P., et al. (2000). Cognitive impairment in individuals currently using methamphetamine. American Journal on Addictions, 9, 222-231. http://dx.doi.org/10.1080/10550490050148053
+
+  Srisurapanont, M., Ali, R., Marsden, J., Sunga, A., et al. (2003). Psychotic symptoms in methamphetamine psychotic in-patients. International Journal of Neuropsychopharmacolog, 6, 347-352. http://dx.doi.org/10.1017/S1461145703003675
+
+  Valjent, E., Corvol, J. C., Pages, C., Besson, M. J., et al. (2000). Involvement of the extracellular signal-regulated kinase cascade for cocaine-rewarding properties. Journal of Neuroscience 20, 8701-8709.2001-17324-004
+
+  Wang, D., Noda, Y., Zhou, Y., Mouri, A., et al. (2007). The allosteric potentiation of nicotinic acetylcholine receptors by galantamine ameliorates the cognitive dysfunction in beta amyloid25-35 i.c.v.-injected mice: involvement of dopaminergic systems. Neuropsychopharmacology, 32, 1261-1271. http://dx.doi.org/10.1038/sj.npp.1301256
+
+  Wang, D., Noda, Y., Zhou, Y., Nitta, A., et al. (2007). Synergistic effect of combined treatment with risperidone and galantamine on phencyclidine-induced impairment of latent visuospatial learning and memory: role of nAChR activation-dependent increase of dopamine Dl receptor-mediated neurotransmission. Neuropharmacology, 53, 379-389. http://dx.doi.org/10.1016/j.neuropharm.2007.05.026
+
+  Winters, B. D., Saksida, L. M., & Bussey, T. J. (2008). Object recognition memory: neurobiological mechanisms of encoding, consolidation and retrieval. Neuroscience and Biobehavioral Reviews, 32, 1055-1070. http://dx.doi.org/10.1016/j.neubiorev.2008.04.004
+
+  Yui, K., Ikemoto, S., Goto, K., Nishijima, K., et al. (2002). Spontaneous recurrence of methamphetamine-induced paranoid-hallucinatory states in female subjects: susceptibility to psychotic states and implications for relapse of schizophrenia. Pharmacopsychiatry, 35, 62-71. http://dx.doi.org/10.1055/s-2002-25067
+
+  Zanassi, P., Paolillo, M., Feliciello, A., Awedimento, E. V., et al. (2001). cAMP-dependent protein kinase induces cAMP-response element-binding protein phosphorylation via an intracellular calcium release/ERK-dependent pathway in striatal neurons. Journal of Biological Chemistry 276, 11487-11495.
+Update Code
+  20101213 (PsycINFO)
+Correction Date
+  20120618 (PsycINFO)
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2010-23261-005
+
+<8>
+Accession Number
+  Peer Reviewed Journal: 2010-19485-004.
+Title
+  Phencyclidine withdrawal disrupts episodic-like memory in rats: Reversal by donepezil but not clozapine.  [References].
+Publication Date
+  Sep 2010
+Year of Publication
+  2010
+Publication History
+  First Posting: Mar 2010
+  Accepted: Feb 2010
+  Revised: Feb 2010
+  Revised: Jan 2010
+  First Submitted: Dec 2009
+Language
+  English
+Author
+  Le Cozannet, Romain; Fone, Kevin C. F; Moran, Paula M.
+E-Mail Address
+  Moran, Paula M.: paula.moran@nottingham.ac.uk
+Correspondence Address
+  Moran, Paula M.: School of Psychology, University of Nottingham, Nottingham, United Kingdom, NG7 2RD, paula.moran@nottingham.ac.uk
+Institution
+  Le Cozannet, Romain: School of Psychology, University of Nottingham, Nottingham, United Kingdom
+  Fone, Kevin C. F.: School of Biomedical Sciences, University of Nottingham, Nottingham, United Kingdom
+  Moran, Paula M.: School of Psychology, University of Nottingham, Nottingham, United Kingdom
+Source
+  International Journal of Neuropsychopharmacology. Vol.13(8), Sep 2010, pp. 1011-1020. 
+ISSN Print
+  1461-1457
+ISSN Electronic
+  1469-5111
+Publisher Information
+  Cambridge University Press; United Kingdom
+Format Covered
+  Print
+Publication Type
+  Journal; Peer Reviewed Journal
+Document Type
+  Journal Article
+Abstract
+  Episodic memory is the capacity to recall an event in time and place (What? Where? When?). Impaired episodic memory is a debilitating cognitive symptom in schizophrenia but is poorly controlled by currently available antipsychotic drugs. Consistent with glutamatergic abnormality in schizophrenia, the NDMA receptor antagonist, phencyclidine (PCP), induces persistent 'schizophrenia-like' symptoms including memory deficits in humans and rodents and is widely used as an animal model of the disorder. However, in contrast to humans, PCP and PCP withdrawal-induced memory deficits in rodents are reversed by antipsychotic drugs such as clozapine. One possible explanation is that the memory tasks used in animal studies do not simultaneously test the What? Where? When? components that characterize episodic memory in human tasks. We investigated whether subchronic PCP withdrawal disrupts memory in rats in a task that requires simultaneous integration of memory for object, place and context. Rats learn to discriminate objects under specific spatial and contextual conditions analogous to the What? Where? When? components of human episodic memory. We found that PCP withdrawal impaired performance on this task and that the atypical antipsychotic drug clozapine did not reverse this impairment. However the acetylcholinesterase inhibitor (AChEI) donepezil, which has been shown to improve episodic memory in humans did reverse the effect of PCP. This suggests that PCP withdrawal disruption of object-place-context recognition in rats may prove to be a useful model to investigate episodic memory impairment in schizophrenia and supports the suggestion that AChEIs could prove to be a useful pharmacological strategy to specifically treat episodic memory problems in schizophrenia. (PsycINFO Database Record (c) 2012 APA, all rights reserved) (journal abstract)
+Digital Object Identifier
+  http://dx.doi.org/10.1017/S1461145710000234
+PMID
+  20236574
+Key Concepts
+  phencyclidine withdrawal, episodic memory, rats, donepezil, clozapine, schizophrenia, neural receptors
+Subject Headings
+    *Clozapine
+    *Drug Withdrawal
+    *Episodic Memory
+    *Phencyclidine
+    *Schizophrenia
+    Neural Receptors
+    Rats
+Classification Code
+  Psychopharmacology [2580]; Schizophrenia & Psychotic States [3213]
+Population Group
+  Animal; Male
+Methodology
+  Empirical Study; Quantitative Study
+Copyright
+  HOLDER: CINP
+  YEAR: 2010
+Cited References
+  Abdul-Monim, Z., Neill, J. C., & Reynolds, G. P. (2007). Sub-chronic psychotomimetic phencyclidine induces deficits in reversal learning and alterations in parvalbumin-immunoreactive expression in the rat. Journal of Psychopharmacology, 21, 198-205. http://dx.doi.org/10.1177/0269881107067097
+
+  Al-Uzri, M. M., Reveley, M. A., Owen, L., Bruce, J., et al. (2006). Measuring memory impairment in community-based patients with schizophrenia. Case-control study. British Journal of Psychiatry, 189, 132-136. http://dx.doi.org/10.1192/bjp.bp.105.013631
+
+  Barker, G. R., Bird, F., Alexander, V., & Warburton, E. C. (2007). Recognition memory for objects, place, and temporal order: a disconnection analysis of the role of the medial prefrontal cortex and perirhinal cortex. Journal of Neuroscience, 27, 2948-2957. http://dx.doi.org/10.1523/JNEUROSCI.5289-06.2007
+
+  Beraki, S., Diaz-Heijtz, R., Tai, F., & Ogren, S. O. (2009). Effects of repeated treatment of phencyclidine on cognition and gene expression in C57BL/6 mice. International Journal of Neuropsychopharmacology, 12, 243-255. http://dx.doi.org/10.1017/S1461145708009152
+
+  Berenbaum, H., Kerns, J. G., Vernon, L. L., & Gomez, J. J. (2008). Cognitive correlates of schizophrenia signs and symptoms: III. Hallucinations and delusions. Psychiatry Research 159, 163-166.
+
+  Buchanan, R. W., Summerfelt, A., Tek, C., & Gold, J. (2003). An open-labeled trial of adjunctive donepezil for cognitive impairments in patients with schizophrenia. Schizophrenia Research, 59, 29-33. http://dx.doi.org/10.1016/S0920-9964(01)00387-5
+
+  Bullock, R., & Dengiz, A. (2005). Cognitive performance in patients with Alzheimer's disease receiving cholinesterase inhibitors for up to 5 years. International Journal of Clinical Practice 59, 817-822.
+
+  Beracochea, D., Philippin, J., Meunier, S., Morain, P., et al. (2007). Improvement of episodic contextual memory by S 18986 in middle-aged mice: comparison with donepezil. Psychopharmacology, 193, 63-73. http://dx.doi.org/10.1007/s00213-007-0765-4
+
+  Chung, Y. C., Lee, C. R., Park, T. W., Yang, K. H., et al. (2009). Effect of donepezil added to atypical antipsychotics on cognition in patients with schizophrenia: an open-label trial. World Journal of Biological Psychiatry 10, 156-162.
+
+  Clayton, N. S., & Dickinson, A. (1998). Episodic-like memory during cache recovery by scrub jays. Nature, 395, 272-274. http://dx.doi.org/10.1038/26216
+
+  Crook, J. M., Tomaskovic-Crook, E., Copolov, D. L., & Dean, B. (2001). Low muscarinic receptor binding in prefrontal cortex from subjects with schizophrenia : a study of Brodmann's areas 8, 9, 10, and 46 and the effects of neuroleptic drug treatment. American Journal of Psychiatry, 158, 918-925. http://dx.doi.org/10.1176/appi.ajp.158.987.918
+
+  Csernansky, J. G., Martin, M., Shah, R., Bertchume, A., et al. (2005). Cholinesterase inhibitors ameliorate behavioral deficits induced by MK-801 in mice. Neuropsychopharmacology, 30, 2135-2143. http://dx.doi.org/10.1038/sj.npp.1300761
+
+  Dere, E., Huston, J. P., & De Souza Silva, M. A. (2005). Episodiclike memory in mice : simultaneous assessment of object, place and temporal order memory. Brain Research Protocols, 16, 10-19. http://dx.doi.org/10.1016/j.brainresprot.2005.08.001
+
+  Dere, E., Huston, J. P., & De Souza Silva, M. A. (2005). Integrated memory for objects, places, and temporal order : evidence for episodic-like memory in mice. Neurobiology of Learning and Memory, 84, 214-221. http://dx.doi.org/10.1016/j.nlm.2005.07.002
+
+  Dere, E., Huston, J. P., & De Souza Silva, M. A. (2007). The pharmacology, neuroanatomy and neurogenetics of one-trial object recognition in rodents. Neuroscience & Biobehavioral Reviews, 31, 673-704. http://dx.doi.org/10.1016/j.neubiorev.2007.01.005
+
+  Eacott, M. J., & Norman, G. (2004). Integrated memory for object, place, and context in rats : a possible model of episodic-like memory?. Journal of Neuroscience, 24, 1948-1953. http://dx.doi.org/10.1523/JNEUROSCI.2975-03.2004
+
+  Eichenbaum, H. (2003). The hippocampus, episodic memory, declarative memory, spatial memory ... where does it all come together? International Congress Series 1250, 235-244.
+
+  Ennaceur, A., & Delacour, J. (1988). A new one-trial test for neurobiological studies of memory in rats. 1 : behavioral data. Behavioural Brain Research, 31, 47-59. http://dx.doi.org/10.1016/0166-4328(88)90157-X
+
+  Enomoto, T., Noda, Y., & Nabeshima, T. (2007). Phencydidine and genetic animal models of schizophrenia developed in relation to the glutamate hypothesis. Methods & Findings in Experimental & Clinical Pharmacology 29, 291-301.
+
+  Freedman, R., Hall, M., Adler, L. E., & Leonard, S. (1995). Evidence in postmortem brain tissue for decreased numbers of hippocampal nicotinic receptors in schizophrenia. Biological Psychiatry, 38, 22-33. http://dx.doi.org/10.1016/0006-3223(94)00252-X
+
+  Friedman, J., Adler, D. N., Howanitz, E., Harvey, P. D., et al. (2002). A double blind placebo controlled trial of donepezil adjunctive treatment to risperidone for the cognitive impairment of schizophrenia. Biological Psychiatry, 51, 349-357. http://dx.doi.org/10.1016/S0006-3223(01)01342-7
+
+  Gold, J. M., & Weinberger, D. R. (1995). Cognitive deficits and the neurobiology of schizophrenia. Current Opinion Neurobiology 5, 225-230.
+
+  Goldberg, T. E., Greenberg, R. D., Griffin, S. J., Gold, J. M., et al. (1993). The effect of clozapine on cognition and psychiatric symptoms in patients with schizophrenia. British Journal of Psychiatry, 162, 43-48. http://dx.doi.org/10.1192/bjp.162.1.43
+
+  Good, M. A., Hale, G., & Staal, V. (2007). Impaired 'episodic-like' object memory in adult APPswe transgenic mice. Behavioural Neuroscience, 121, 443-448. http://dx.doi.org/10.1037/0735-7044.121.2.443
+
+  Gopal, Y. V., & Variend, H. (2005). First-episode schizophrenia : review of cognitive deficits and cognitive remediation. Advances Psychiatric Treatment 11, 38-44.
+
+  Grayson, B., Idris, N. F., & Neill, J. C. (2007). Atypical antipsychotics attenuate a sub-chronic PCP-induced cognitive deficit in the novel object recognition task in the rat. Behavioural Brain Research, 184, 31-38. http://dx.doi.org/10.1016/j.bbr.2007.06.012
+
+  Green, M. F., Kern, R. S., & Heaton, R. K. (2004). Longitudinal studies of cognition and functional outcome in schizophrenia : implications for MATRICS. Schizophrenia Research, 72, 41-51. http://dx.doi.org/10.1016/j.schres.2004.09.009
+
+  n, G., Kirstein, M., Thielscher, A., Riepe, M., et al. (2005). Cholinergic enhancement of episodic memory in healthy young adults. Psychopharmacology, 182, 170-179. http://dx.doi.org/10.1007/s00213-005-0043-2
+
+  Harvey, P. D., & Keefe, R. S. E. (2001). Studies of cognitive change in patients with schizophrenia following novel antipsychotic treatment. American Journal of Psychiatry, 158, 176-184. http://dx.doi.org/10.1176/appi.ajp.158.2.176
+
+  Hashimoto, K., Fujita, Y., Shimizu, E., & Iyo, M. (2005). Phencyclidine-induced cognitive deficits in mice are improved by subsequent subchronic administration of clozapine, but not haloperidol. European Journal of Pharmacology 519, 114-117.
+
+  Hetem, L. A., Danion, J. M., Diemunsch, P., & Brandt, P. (2000). Effect of a subanesthetic dose of ketamine on memory and conscious awareness in healthy volunteers. Psychopharmacology (Berlin), 152, 283-288. http://dx.doi.org/10.1007/s002130000511
+
+  Honey, G., Honey, R., Sharar, S., Turner, D., et al. (2005). Impairment of specific episodic memory processes by sub-psychotic doses of ketamine : the effects of levels of processing at encoding and of the subsequent retrieval task. Psychopharmacology, 181, 445-457. http://dx.doi.org/10.1007/s00213-005-0001-z
+
+  Howard, A. K., Thornton, A. E., Altman, S., & Honer, W. G. (2002). Donepezil for memory dysfunction in schizophrenia. Journal of Psychopharmacology, 16, 267-270. http://dx.doi.org/10.1177/026988110201600313
+
+  Javitt, D. C. (2007). Glutamate and schizophrenia: phencydidine, N-methyl-if-aspartate receptors, and dopamine-glutamate interactions. International Reviews in Neurobiology 78, 69-108.
+
+  Jentsch, J. D., & Roth, R. H. (1999). The neuropsychopharmacology of phencydidine : from NMDA receptor hypofunction to the dopamine hypothesis of schizophrenia. Neuropsychopharmacology, 20, 201-225. http://dx.doi.org/10.1016/S0893-133X(98)00060-8
+
+  Jentsch, J. D., Tran, A., Le, D., Youngren, K. D., et al. (1997). Subchronic phencydidine administration reduces mesoprefrontal dopamine utilization and impairs prefrontal cortical-dependent cognition in the rat. Neuropsychopharmacology, 17, 92-99. http://dx.doi.org/10.1016/S0893-133X(97)00034-1
+
+  Karasawa, J., Hashimoto, K., & Chaki, S. (2008). if-Serine and a glycine transporter inhibitor improve MK-801-induced cognitive deficits in a novel object recognition test in rats. Behavioural Brain Research, 186, 78-83. http://dx.doi.org/10.1016/j.bbr.2007.07.033
+
+  Kart-Teke, E., De Souza Silva, M. A., Huston, J. P., & Dere, E. (2006). Wistar rats show episodic-like memory for unique experiences. Neurobiology of Learning and Memory, 85, 173-182. http://dx.doi.org/10.1016/j.nlm.2005.10.002
+
+  Keefe, R. S. E., Malhotra, A. K., Meltzer, H. Y., Kane, J. M., et al. (2007). Efficacy and safety of donepezil in patients with schizophrenia or schizoaffective disorder : significant placebo//practice effects in a 12-week, randomized, double-bBlind, placebo-controlled trial. Neuropsychopharmacology, 33, 1217-1228. http://dx.doi.org/10.1038/sj.npp.1301499
+
+  Kumra, S., Oberstar, J., Sikich, L., Findling, R., et al. (2008). Efficacy and tolerability of second-generation antipsychotics in children and adolescents with schizophrenia. Schizophrenia Bulletin, 34, 60-71. http://dx.doi.org/10.1093/schbul/sbm109
+
+  Kunitachi, S., Fujita, Y., Ishima, T., Kohno, M., et al. (2009). Phencyclidine-induced cognitive deficits in mice are ameliorated by subsequent subchronic administration of donepezil: role of sigma-1 receptors. Brain Research, 1279, 189-196. http://dx.doi.org/10.1016/j.brainres.2009.05.004
+
+  Lahti, A., Koffel, B., LaPorte, D., & Tamminga, C. A. (1995). Subanesthetic doses of ketamine stimulate psychosis in schizophrenia. Neuropsychopharmacology, 13, 9-19. http://dx.doi.org/10.1038/sj.npp.1380271
+
+  Langston, R. F., & Wood, E. R. (2009). Associative recognition and the hippocampus : differential effects of hippocampal lesions on object-place, object-context and object-place-context memory. Hippocampus. Published online: 21 October 2009. doi.10.1002/hipo.20714.
+
+  Lee, B. J., Lee, J. G., & Kim, Y. H. (2007). A 12-week, double-blind, placebo-controlled trial of donepezil as an adjunct to haloperidol for treating cognitive impairments in patients with chronic schizophrenia. Journal of Psychopharmacology, 21, 421-427. http://dx.doi.org/10.1177/0269881106070996
+
+  Lee, I., & Kesner, R. P. (2003). Time-dependent relationship between the dorsal hippocampus and the prefrontal cortex in spatial memory. Journal of Neuroscience 23, 1517-1523.2003-01980-010
+
+  Malhotra, A. K., Pinals, D. A., Weingartner, H., Sirocco, K., et al. (1996). NMDA receptor function and human cognition: the effects of ketamine in healthy volunteers. Neuropsychopharmacology, 14, 301-307. http://dx.doi.org/10.1016/0893-133X(95)00137-3
+
+  Meltzer, H. Y., & McGurk, S. R. (1999). The effects of clozapine, risperidone, and olanzapine on cognitive function in schizophrenia. Schizophrenia Bulletin 25, 233-256.1999-05588-005
+
+  Mitchell, R. W. (1993). Mental models of mirror-selfrecognition : two theories. New Ideas in Psychology, 11, 295-325. http://dx.doi.org/10.1016/0732-118X(93)90002-U
+
+  Patil, S. T., Zhang, L., Martenyi, F., Lowe, S. L., et al. (2007). Activation of mGlu2/3 receptors as a new approach to treat schizophrenia : a randomized Phase 2 clinical trial. Nature Medicine 13, 1102-1107.
+
+  Prickaerts, J., Sik, A., Staay, Van Der, F. J., De Vente, J., et al. (2005). Dissociable effects of acetylcholinesterase inhibitors and phosphodiesterase type 5 inhibitors on object recognition memory : acquisition versus consolidation. Psychopharmacology, 177, 381-390. http://dx.doi.org/10.1007/s00213-004-1967-7
+
+  Raedler, T. J., Bymaster, F. P., Tandon, R., Copolov, D., et al. (2006). Towards a muscarinic hypothesis of schizophrenia. Molecular Psychiatry 12, 232-246.2007-04467-008
+
+  Risch, S. C., Horner, M. D., McGurk, S. R., Palecko, S., et al. (2007). Double-blind donepezil-placebo crossover augmentation study of atypical antipsychotics in chronic, stable schizophrenia: a pilot study. Schizophrenia Research, 93, 131-135. http://dx.doi.org/10.1016/j.schres.2007.01.001
+
+  Riutort, M., Cuervo, C., Danion, J. M., Peretti, C. S., et al. (2003). Reduced levels of specific autobiographical memories in schizophrenia. Psychiatry Research, 117, 35-45. http://dx.doi.org/10.1016/S0165-1781(02)00317-7
+
+  Sarter, M. (2006). Preclinical research into cognition enhancers. Trends in Pharmacological Sciences 27, 602-608.
+
+  Seillier, A., & Giuffrida, A. (2009). Evaluation of NMDA receptor models of schizophrenia : divergences in the behavioral effects of sub-chronic PCP and MK-801. BeJiavioural Brain Research, 204, 410-415. http://dx.doi.org/10.1016/j.bbr.2009.02.007
+
+  Smith, D. M. (2008). The hippocampus, context processing and episodic memory. In : Handbook of Behavioral Neuroscience, vol. 18 (pp. 465-481). Amsterdam, London : Elsevier.
+
+  Tsuno, N. (2009). Donepezil in the treatment of patients with Alzheimer's disease. Expert Review of Neurotherapeutics 9, 591-598.
+
+  Tulving, E. (1983). Elements of Episodic Memory. Oxford: Clarendon Press.
+
+  Tugal, O., Yazici, K. M., Anil Yagcioglu, A. E., & Gogus, A. (2004). A double-blind, placebo controlled, cross-over trial of adjunctive donepezil for cognitive impairment in schizophrenia. International Journal of Neuropsychopharmacology, 7, 117-123. http://dx.doi.org/10.1017/S1461145703004024
+
+  Wiley, J. L. (2008). Antipsychotic-induced suppression of locomotion in juvenile, adolescent and adult rats. European Journal of Pharmacology 578, 216-221.
+
+  Wong, A. H., & Toi, Van, H. H. (2003). Schizophrenia: from phenomenology to neurobiology. Neuroscience and Biobehavioral Reviews, 27, 269-306. http://dx.doi.org/10.1016/S0149-7634(03)00035-6
+
+  Young, J. W., Powell, S. B., Risbrough, V., Marston, H. M., et al. (2009). Using the MATRICS to guide development of a preclinical cognitive test battery for research in schizophrenia. Pharmacology & Therapeutics 122, 150-202.
+Update Code
+  20101025 (PsycINFO)
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2010-19485-004
+
+<9>
+Accession Number
+  Peer Reviewed Journal: 2009-12234-025.
+Title
+  Scopolamine-induced deficits in social memory in mice: Reversal by donepezil.  [References].
+Publication Date
+  Dec 1, 2009
+Year of Publication
+  2009
+Publication History
+  First Posting: Jun 2009
+  Accepted: Jun 2009
+  Revised: Jun 2009
+  First Submitted: May 2009
+Language
+  English
+Author
+  Riedel, G; Kang, S. H; Choi, D. Y; Platt, B.
+E-Mail Address
+  Riedel, G.: g.riedel@abdn.ac.uk
+Correspondence Address
+  Riedel, G.: School of Medical Sciences, University of Aberdeen, Foresterhill, Aberdeen, United Kingdom, AB25 2ZD, g.riedel@abdn.ac.uk
+Institution
+  Riedel, G.: School of Medical Sciences, University of Aberdeen, Aberdeen, United Kingdom
+  Kang, S. H.: School of Medical Sciences, University of Aberdeen, Aberdeen, United Kingdom
+  Choi, D. Y.: LG Life Sciences Ltd., Taejon, South Korea
+  Platt, B.: School of Medical Sciences, University of Aberdeen, Aberdeen, United Kingdom
+Source
+  Behavioural Brain Research. Vol.204(1), Dec 2009, pp. 217-225. 
+ISSN Print
+  0166-4328
+Publisher Information
+  Elsevier Science; Netherlands
+Format Covered
+  Electronic
+Publication Type
+  Journal; Peer Reviewed Journal
+Document Type
+  Journal Article
+Abstract
+  Deficits in social behaviour is a characteristic of numerous mental disorders including autism, schizophrenia, depression and Alzheimer's disease. For the assessment of pharmacological and genetic experimental disease models, conventional social interaction tasks bear the uncertainty that any drug-induced abnormality of the investigator may feed back to the drug-free companion modifying its reactions. A considerable technical improvement was recently reported by Moy et al. [Moy SS, Nadler JJ, Perez A, Barbaro RP, Johns JM, Magnuson T, et al. Sociability and preference for social novelty in five inbred strains: an approach to assess autistic-like behaviours in mice. Genes Brain Behav 2004;3:287-302] in which the drug free partner is confined to a small cage and social contacts of the investigator are recorded uncontaminated of any social reactions of the stranger. Using this novel behavioural paradigm, we here show in C57Bl/6 female mice that sociability (social interaction with a stranger mouse) is not impaired after administration of the anxiolytic diazepam (0.1-1 mg/kg) or the muscarinic antagonist scopolamine hydrobromide (0.1-1 mg/kg). However, social memory tested after a short time interval was impaired by both drugs in a dose-dependent manner (diazepam: >0.5 mg/kg; scopolamine: >0.3 mg/kg). The scopolamine-induced short-term memory deficit was reversed to normal by the choline esterase inhibitor donepezil (1 mg/kg). Given this dependence of social recognition on the cholinergic system, combined with the clinical observation of reduced social contacts in dementia patients, sociability may offer a novel endpoint biomarker with translational value in experimental models of cognitive dysfunction. (PsycINFO Database Record (c) 2012 APA, all rights reserved) (journal abstract)
+Digital Object Identifier
+  http://dx.doi.org/10.1016/j.bbr.2009.06.012
+PMID
+  19527754
+Key Concepts
+  scopolamine induced deficits, social memory, mice, social behavior, mental disorders, uncertainty, pharmacology
+Subject Headings
+    *Animal Social Behavior
+    *Mental Disorders
+    *Pharmacology
+    *Scopolamine
+    Mice
+    Uncertainty
+Classification Code
+  Social & Instinctive Behavior [2440]
+Population Group
+  Animal; Female
+Methodology
+  Empirical Study; Quantitative Study
+Grant/Sponsorship
+  <b>Sponsor: </b>Korea Health Industry Development Institute (KHIDI). Korea
+<b>Recepient: </b>No recipient indicated
+
+Copyright
+  STATEMENT: All rights reserved.
+  HOLDER: Elsevier B.V.
+  YEAR: 2009
+Cited References
+  Alvarez, P., Lipton, P. A., Melrose, R., & Eichenbaum, H. (2001). Differential effects of damage within the hippocampal region on memory for natural, nonspatial odor-odor association. Learn Mem, 8, 79-86. http://dx.doi.org/10.1101/lm.38201
+
+  Anthenelli, R. M., Monteiro, M. G., Blunt, B., & Schuckit, M. A. (1991). Amnestic effects of intravenous diazepam in healthy young men. Am J Drug Alcohol Abuse, 172, 129-36. http://dx.doi.org/10.3109/00952999108992816
+
+  Besheer, J., & Bevins, R. A. (2004). Acetylcholine. II. Nicotinic receptors. In: Riedel G, Platt B, editors. Frome messengers to molecules: memories are made of these. New York: Kluwer Acedemic/Plenum Press; 2004. p. 113-24.
+
+  Bielsky, I. F., Hu, S.-B., Szegda, K. L., Westphal, H., & Young, L. I. (2004). Profound impairment in social recognition and reduction in anxiety-like behaviour in vasopressin V1a receptor knockout mice. Neuropharmacology, 29, 483-93. http://dx.doi.org/10.1038/sj.npp.1300360
+
+  Bitner, R. S., Bunnelle, W. H., Anderson, D. J., Briggs, C. A., Buccafusco, J., Curzon, P., et al. (2007). Broad-spectrum efficacy across cognitive domains by alpha7 nicotinic acetylcholine receptor agonism correlates with activation of ERK1/2 and CREB phosphorylation pathways. J Neurosci 2007;27:10578-87.
+
+  Bluthe, R. M., & Dantzer, R. (1990). Social memory does not involve vasopressinergic neurotransmission in female rats. Brain Res, 535, 301-4. http://dx.doi.org/10.1016/0006-8993(90)91613-L
+
+  Boarda-Rovira, M., et al. (2004). Efficacy and safety of donepezil in patients with Alzheimers's disease: results of a global, multinational, clinical experience study. Drugs Aging 2004;21:43-53.
+
+  Boess, F. G., De Vry, J., Erb, C., Flessner, T., Hendrix, M., Luithle, J., et al. (2007). The novel alpha7 nicotinic acetylcholine receptor agonist N-[(3R)-1-azabicyclo[2. 2. 2]oct3-yl]-7-[2-(methoxy)phenyl]-1-benzofuran-2-carboxamide improves working and recognition memory in rodents. J Pharmacol Exp Ther 2007;321:716- 25.
+
+  Carr, W. J., Yee, L., Gable, D., & Marasco, E. (1976). Olfactory recognition of conspecifics by domestic Norway rats. J Comp Physiol Psychol, 90, 821-8. http://dx.doi.org/10.1037/h0077266
+
+  Chen, Y., Ryden, M., Feldt, K., & Savik, K. (2000). The relationship between social interaction and characteristics of aggressive, cognitive ly impaired nursing home residents. Am J Alzheimer's Dis Other Dem 2000;15:10-7.
+
+  Choleris, E., Gustafsson, J.-A., Korach, K. S., Muglia, L. J., Pfaff, D. W., & Ogaw, S. (2003). An estrogendependent four-gene micronet regulating social recognition: a study with oxytocin and estrogen receptora and  knockout mice. Proc Natl Acad Sci 2003;100:6192-7.
+
+  Costall, B., Domeney, A. M., Farre, A. J., Kelly, M. E., Martinez, L., & Naylor, R. J. (1992). Profile of action of a novel 5-hydroxytryptamine1A receptor ligand E-4424 to inhibit aversive behaviour in the mouse, rat and marmoset. J Exp Pharmacol Ther 1992;262:90-8.
+
+  Costall, B., Domeney, A. M., Gerrard, P. A., Horovitz, Z. P., Kelly, M. E., Naylor, R. J., et al. (1990). Effects of catropril and SQ29,852 on anxiety-related behaviours in rodents and marmosets. Pharmacol Biochem Behav, 36, 13-20. http://dx.doi.org/10.1016/0091-3057(90)90118-2
+
+  Crawley, J. N. (2004). Designing mouse behavioural tasks relevant to autistic-like behaviours. Ment Retard Dev Disabil Res Rev, 10, 248-58. http://dx.doi.org/10.1002/mrdd.20039
+
+  Crawley, J. N. (2000). Whats wrong with my mouse?. In: Behavioral phenotyping of transgenic and knock-out mice. New York: Wiley-Liss; 2000.
+
+  D'Amato, F. R., & Moles, A. (2001). Ultrasonic vocalisation as an index of social memory in female mice. Behav Neurosci, 115, 834-40. http://dx.doi.org/10.1037/0735-7044.115.4.834
+
+  Day, M., Balci, F., Wan, H. I., Fox, G. B., Rutkowski, J. L., & Feuerstein, G. (2008). Cognitive endpoints as disease biomarkers: optimizing the congruency of preclinical models to the clinic. Curr Opin Investig Drugs 2008;7:696-706.
+
+  Ferguson, J. N., Young, L. J., Hearn, E. F., Matzuk, M. M., Insel, T. R., & Winslow, J. T. (2000). Social amnesia in mice lacking the oxytocine gene. Nat Genet 2000;25:284-8.
+
+  File, S. E., Cheeta, S., & Akanezi, C. (2001). Diazepam and nicotine increase social interaction ingerbils: a test for anxiolytic action. Brain Res, 888, 311-3. http://dx.doi.org/10.1016/S0006-8993(00)03102-4
+
+  File, S. E., & Pellow, S. (1985). No cross-tolerance between stimulatory and depressant actions of benzodiazepines in mice. Behav Brain Res, 17, 1-7. http://dx.doi.org/10.1016/0166-4328(85)90002-6
+
+  File, S. E. (1980). The use of social interaction as a method for detecting anxiolytic activity of chlordiazepoxide-like drugs. J Neurosci Methods 1980;2:219-38.
+
+  Fratiglioni, L., Wang, H., Ericsson, K., Maytan, M., & Winblad, B. (2000). Influence of social network on occurrence of dementia: a community-based longitudinal study. Lancet 2000;355:1315-9.
+
+  Freidl, W., Schmidt, R., Stronegger, W. J., Irmler, A., Reinhart, B., & Koch, M. (1996). Minimental state examination: influence of sociodemographic, environmental and behavioural factors and vascular risk factors. J Clin Epidemiol 1996;49:73-8.
+
+  Frith, U. (1991). Autism and aspergers syndrome. Cambridge UK: Cambridge University Press; 1991.
+
+  Gallacher, J., Bayer, A., & Ben-Shlomo, Y. (2005). Commentary: activity each day keeps dementia away-does social interaction really preserve cognitive function? Int J Epidemiol 2005;34:872-3.
+
+  Germano, C., & Kinsella, G. J. (2005). Working memory and learning in early Alzheimer's disease. Neuropsychol Rev, 151, 1-10. http://dx.doi.org/10.1007/s11065-005-3583-7
+
+  Gheusi, G., Bluthe, R. M., Goodall, G., & Dantzer, R. (1994). Ethological study of the effects of tetrahydroaminoacridine (THA) on social recognition in rats. Psychopharmacology, 114, 644-50. http://dx.doi.org/10.1007/BF02244996
+
+  Gheusi, G., Bluthe, R. M., Goodall, G., & Dantzer, R. (1994). Social and individual recognition in rodents: methodological aspects and neurobiological bases. Behav Process, 33, 59-88. http://dx.doi.org/10.1016/0376-6357(94)90060-4
+
+  Glei, D. A., Landau, D. A., Goldman, N., Chuang, Y.-L., Rodriguez, G., & Weinstein, M. (2005). Participating in social activities helps preserve cognitive function: an analysis of a longitudinal, population-based study of the elderly. Int J Epidemiol 2005;34:864-71.
+
+  Grant, E. C., & MacIntosh, J. H. (1963). A comparison of social postures of some common laboratory rodents. Behaviour, 21, 246-59. http://dx.doi.org/10.1163/156853963X00185
+
+  Hommer, D., Weingartner, H., & Breier, A. (1993). Dissociation of benzodiazepine-induced amnesia from sedation by flumazenil pretreatment. Psychopharmacology, 1124, 455-60. http://dx.doi.org/10.1007/BF02244894
+
+  Kogan, J. H., Frankland, P. W., & Silva, A. J. (2000). Long-term memory underlying hippocampusdependent social recognition in mice. Hippocampus, 10, 47-56. http://dx.doi.org/10.1002/(SICI)1098-1063(2000)10:1<47::AID-HIPO5>3.0.CO;2-6
+
+  Kwon, C.-H., Luikart, B. W., Powell, C. M., Zhou, J., Matheny, S. A., Zhang, W., et al. (2006). Pten regulates neural arborisation and social interaction in mice. Neuron 2006;50:377-88.
+
+  Lijam, N., Paylor, R., McDonald, M. P., Crawley, J. N., Deng, C.-X., Herrup, K., et al. (1997). Social interaction ans sensorimotor gating abnormalities in mice lacking Dvl1. Cell 1997;90:895-905.
+
+  Long, J. M., LaPorte, P., Paylor, R., & Wynshaw-Boris, A. (2004). Expanded characterization of the social interaction abnormalities in mice lacking Dvl1. Genes Brain Behav, 3, 51-62. http://dx.doi.org/10.1046/j.1601-183x.2003.00045.x
+
+  Maubach, K. (2003). GABA(A) receptor subtype selective cognition enhancers. Curr Drug Targets NS Neurol Disord 2003;2(4):233-9.
+
+  Mimura, M., & Yano, M. (2006). Memory impairment and awareness of memory deficits in early-stage Alzheimer's disease. Rev Neurosci 2006;17:253-66.
+
+  Mineur, Y. S., Huynh, L. X., & Crusio, W. E. (2006). Social behaviour deficits in the Fmr1 mutant mouse. Behav Brain Res, 168, 172-5. http://dx.doi.org/10.1016/j.bbr.2005.11.004
+
+  Moldin, S. O., & Rubenstein, L. R. (2006). Understanding autism: from basic neuroscience to treatment. Boca Raton: CRC Press; 2006.2006-09005-000
+
+  Moretti, P., Bouwknecht, J. A., Teague, R., Paylor, R., & Zoghbi, H. Y. (2005). Abnormalities of social interactions and home-cage behaviour in a mouse model of Rett syndrome. Hum Mol Gen 2005;14:205-20.
+
+  Moy, S. S., Nadler, J. J., Magnuson, T. R., & Crawley, J. N. (2006). Mouse models of autism spectrum disorders: the challenge for behavioural genetics. Am J Med Genetics C: Sem Med Genet 2006;142C:40-51.
+
+  Moy, S. S., Nadler, J. J., Perez, A., Barbaro, R. P., Johns, J. M., Magnuson, T., et al. (2004). Sociability and preference for social novelty in five inbred strains: an approach to assess autistic-like behaviours in mice. Genes Brain Behav, 3, 287http://dx.doi.org/10.1111/j.1601-1848.2004.00076.x
+
+  Nadler, J. J., Moy, S. S., Dold, G., Trang, D., Simmons, N., Perez, A., et al. (2004). Automated apparatus for rapid quantification of social approach behaviours in mice. Genes Brain Behav, 3, 303-14. http://dx.doi.org/10.1111/j.1601-183X.2004.00071.x
+
+  Ohno, M., Sametsky, E. A., Younkin, L. H., Oakley, H., Younkin, S. G., Citron, M., et al. (2004). BACE 1 deficiency rescues memory deficits and cholinergic dysfunction in a mouse model of Alzheimer's disease. Neuron 2004;41:27-33.
+
+  Pepeu, G. (2004). Giovannini GAcetylcholine. I. Muscarinic receptors. In: Riedel G, Platt B, editors. From messengers to molecules: memories are made of these. New York: Kluwer Acedemic/Plenum Press; 2004. p. 90-113.
+
+  Perio, A., Terranova, J.-P., Worms, P., Bluthe, R. M., Dantzer, R., & Biziere, K. (1989). Specific modulation of social memory in rats by cholinomimetic and nootropic drugs, by benzodiazepine inverse agonists, and other psychostimulants. Psychopharmacology, 97, 262-8. http://dx.doi.org/10.1007/BF00442261
+
+  Pinkham, A. E., Hopfinger, J. B., Ruparel, K., & Penn, D. L. (2008). An investigation of the relationship between activation of a social cognitive neural network and social functioning. Schizophr Bull, 34, 688-97. http://dx.doi.org/10.1093/schbul/sbn031
+
+  Pinkham, A. E., Penn, D. L., Perkins, D. O., & Lieberman, J. (2003). Implications for the neural basis of social cognition for the study of schizophrenia. Am J Psychiatry, 160, 815-24. http://dx.doi.org/10.1176/appi.ajp.160.5.815
+
+  Prado, V. F., Martins-Silva, C., de Castro, B. M., Lima, R. F., Barros, D. M., Amaral, E., et al. (2006). Mice deficient for the vesicular acetylcholine transporter are myasthenic and have deficits in object and social recognition. Neuron 2006;51:601- 12.
+
+  Prediger, R. D. S., De-Mello, N., & Takahashi, R. N. (2006). Pilocarpine improves olfactory discrimination and social recognition memory deficits in 24 month-old rats. Eur J Pharmacol 2006;531:176-82.
+
+  Robinson, L., Hinder, L., Pertwee, R. G., & Riedel, G. (2003). Effects of A9-THC and WIN-55, 212-2 on place preference in the water maze in rats. Psychopharmacology 2003;166:40-50.2003-04743-005
+
+  Rockwood, K., Graham, J. E., & Fay, S. (2002). Goal setting and attainment in Alzheimer's disease patients treated with donepezil. J Neurol Neurosurg Psychiatry, 73, 500-7. http://dx.doi.org/10.1136/jnnp.73.5.500
+
+  Rodriguiz, R. M., Chu, R., Caron, M. G., & Wetsel, W. C. (2004). Aberrant responses in social interaction of dopamine transporter knockout mice. Behav Brain Res, 148, 185-98. http://dx.doi.org/10.1016/S0166-4328(03)00187-6
+
+  Roloff, E. v. L., Harbaran, D., Micheau, J., Platt, B., & Riedel, G. (2007). Dissociation of cholinergic function in spatial and procedural learning in rats. Neuroscience 2007;146(3):875-89.
+
+  Rusted, J. M., Eaton-Williams, P., & Warburton, D. M. (1991). A comparison of the effects of scopolamine and diazepam on working memory. Psychopharmacology, 1053, 442-5. http://dx.doi.org/10.1007/BF02244443
+
+  Schloper, E., & Mesibov, G. (1987). Neurobiological issues in autism. New York: Plenum Press; 1987.
+
+  Sekiguchi, R., & Woltering, G. (1991). Short duration of retroactive facilitation of social recognition in rats. Physiol Behav, 50, 1253-6. http://dx.doi.org/10.1016/0031-9384(91)90591-B
+
+  Spencer, C. M., Alekseyenko, O., Serysheva, E., Yuva-Paylor, L. A., & Paylor, R. (2005). Altered anxiety-related and social behaviours in the Fmr1 knockout mouse model of Fragile X Syndrome. Genes Brain Behav, 4, 420-30. http://dx.doi.org/10.1111/j.1601-183X.2005.00123.x
+
+  Thor, D. H., & Holloway, W. R. (1982). Social memory in male rats. J Comp Physiol Psychol, 96, 1000-6. http://dx.doi.org/10.1037/0735-7036.96.6.1000
+
+  Van Dam, D., Abramowski, D., Staufenbiel, M., & de Deyn, P. P. (2005). Symptomatic effect of donepezil, rivastigmine, galantamine and memantine on cognitive deficits in the APP23 model. Psychopharmacology, 180, 177-90. http://dx.doi.org/10.1007/s00213-004-2132-z
+
+  Van Kampen, M., Selbach, K., Schneider, R., Schiegel, E., Boess, F., & Schreiber, R. (2004). AR-R 17779 improves social recognition in rats by activation of nicotinic 07 receptors. Psychopharmacology, 172, 375-83. http://dx.doi.org/10.1007/s00213-003-1668-7
+
+  von Linstow Roloff, E., & Platt, B. (1999). Biochemical dysfunction and memory loss: the case of Alzheimer's dementia. Cell Mol Life Sci 1999;55(4):601-16.
+
+  Wang, H.-X., Karp, A., Winblad, B., & Fratiglioni, L. (2002). Late-life engagement in social and leisure activities is associated with decreased risk of dementia: a longitudinal study from the kungsholmen project. Am J Epidemiol 2002;155:1081-7.
+
+  Winslow, J. T., & Camacho, F. (1995). Cholinergic modulation of a decrement in social investigation following repeated contacts between mice. Psychopharmacology, 121, 164-72. http://dx.doi.org/10.1007/BF02245626
+
+  Worms, P., Kan, J.-P., Steinberg, R., Terranova, J.-P., Perio, A., & Biziere, K. (1989). Cholinomimetic activities of minaprine. Naunyn-Schmiedeberg's Arch Pharmacol 1989;340:411-8.
+Update Code
+  20091207 (PsycINFO)
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2009-12234-025
+
+<10>
+Accession Number
+  Peer Reviewed Journal: 2009-09762-021.
+Title
+  Phencyclidine-induced cognitive deficits in mice are ameliorated by subsequent subchronic administration of donepezil: Role of sigma-1 receptors.  [References].
+Publication Date
+  Jul 7, 2009
+Year of Publication
+  2009
+Publication History
+  First Posting: May 2009
+  Accepted: May 2009
+Language
+  English
+Author
+  Kunitachi, Shinsui; Fujita, Yuko; Ishima, Tamaki; Kohno, Mami; Horio, Mao; Tanibuchi, Yuko; Shirayama, Yukihiko; Iyo, Masaomi; Hashimoto, Kenji.
+E-Mail Address
+  Hashimoto, Kenji: hashimoto@faculty.chiba-u.jp
+Correspondence Address
+  Hashimoto, Kenji: Division of Clinical Neuroscience, Chiba University Center for Forensic Mental Health, 1-8-1 Inohana, Chiba, Japan, 260-8670, hashimoto@faculty.chiba-u.jp
+Institution
+  Kunitachi, Shinsui: Division of Clinical Neuroscience, Chiba University Center for Forensic Mental Health, Chiba, Japan
+  Fujita, Yuko: Division of Clinical Neuroscience, Chiba University Center for Forensic Mental Health, Chiba, Japan
+  Ishima, Tamaki: Division of Clinical Neuroscience, Chiba University Center for Forensic Mental Health, Chiba, Japan
+  Kohno, Mami: Division of Clinical Neuroscience, Chiba University Center for Forensic Mental Health, Chiba, Japan
+  Horio, Mao: Division of Clinical Neuroscience, Chiba University Center for Forensic Mental Health, Chiba, Japan
+  Tanibuchi, Yuko: Division of Clinical Neuroscience, Chiba University Center for Forensic Mental Health, Chiba, Japan
+  Shirayama, Yukihiko: Department of Mental Health, Teikyo University, Chiba Medical Center, Ichihara, Japan
+  Iyo, Masaomi: Department of Psychiatry, Chiba University Graduate School of Medicine, Chiba, Japan
+  Hashimoto, Kenji: Division of Clinical Neuroscience, Chiba University Center for Forensic Mental Health, Chiba, Japan
+Source
+  Brain Research. Vol.1279 Jul 2009, pp. 189-196. 
+ISSN Print
+  0006-8993
+Publisher Information
+  Elsevier Science; Netherlands
+Format Covered
+  Electronic
+Publication Type
+  Journal; Peer Reviewed Journal
+Document Type
+  Journal Article
+Abstract
+  This study was undertaken to examine the effects of two acetylcholinesterase inhibitors (donepezil and physostigmine) on cognitive deficits in mice after repeated administration of the NMDA receptor antagonist phencyclidine (PCP). In the novel object recognition test, PCP (10 mg/kg/day for 10 days)-induced cognitive deficits were significantly improved by subsequent subchronic (14 days) administration of donepezil (1.0 mg/kg/day), but not donepezil (0.1 mg/kg/day). Furthermore, the effect of donepezil (1.0 mg/kg/day) on PCP-induced cognitive deficits was significantly antagonized by co-administration of the selective sigma-1 receptor antagonist NE-100 (1.0 mg/kg/day), suggesting the role of sigma-1 receptors in the active mechanisms of donepezil. In contrast, PCP-induced cognitive deficits were not improved by subsequent subchronic (14 days) administration of physostigmine (0.25 mg/kg/day). Moreover, repeated administration of PCP significantly caused the reduction of sigma-1 receptors in the hippocampus. The present study suggests that agonistic activity of donepezil at sigma-1 receptors plays a role in the active mechanisms of donepezil on PCP-induced cognitive deficits in mice. Therefore, it is likely that donepezil would be potential therapeutic drugs for the treatment of the cognitive deficits in schizophrenia. (PsycINFO Database Record (c) 2012 APA, all rights reserved) (journal abstract)
+Digital Object Identifier
+  http://dx.doi.org/10.1016/j.brainres.2009.05.004
+PMID
+  19433073
+Key Concepts
+  phencyclidine, cognitive deficits, mice, donepezil, sigma-1 receptors, acetylcholinesterase inhibitors
+Subject Headings
+    *Cognitive Impairment
+    *Enzyme Inhibitors
+    *Neural Receptors
+    *Phencyclidine
+    *Animal Cognition
+    Acetylcholinesterase
+    Mice
+Classification Code
+  Psychopharmacology [2580]
+Population Group
+  Animal; Male
+Methodology
+  Empirical Study; Quantitative Study
+Grant/Sponsorship
+  <b>Sponsor: </b>Ministry of Education, Culture, Sports, Science and Technology. Japan
+<b>Recepient: </b>Hashimoto, Kenji
+
+Copyright
+  STATEMENT: All rights reserved.
+  HOLDER: Elsevier B.V.
+  YEAR: 2009
+Cited References
+  Akhondzadeh, S., Gerami, M., Noroozian, M., Karamghadiri, N., Ghoreishi, A., Abbasi, S. H., & Rezazadeh, S. A. (2008). A 12-week, double-blind, placebo-controlled trial of donepezil adjunctive treatment to risperidone in chronic and stable schizophrenia. Prog. Neuro-Psychopharmacol. Biol. Psychiatry, 32, 1810-1815. http://dx.doi.org/10.1016/j.pnpbp.2008.08.001
+
+  Anastasio, N. C., & Johnson, K. M. 2008. Differential regulation of the NMDA receptor by acute and sub-chronic phencyclidine administration in the developing rat. J. Neurochem. 104, 1210-1218.
+
+  Bermack, J. E., & Debonnel, G. 2005. The role of sigma receptors in depression. J. Pharmacol. Sci. 97, 317-336.
+
+  Blennow, K., de Leon, M. J., & Zetterberg, H. (2006). Alzheimer's disease. Lancet, 368, 387-403. http://dx.doi.org/10.1016/S0140-6736(06)69113-7
+
+  Buchanan, R. W., Summerfelt, A., Tek, C., & Gold, J. (2003). An open-labeled trial of adjunctive donepezil for cognitive impairments in patients with schizophrenia. Schizophr. Res., 59, 29-33. http://dx.doi.org/10.1016/S0920-9964(01)00387-5
+
+  Chung, Y. G., Lee, C. R., Park, T. W., Yang, K. H., & Kim, K. W. 2009. Effect of donepezil added to atypical antipsychotics on cognition in patients with schizophrenia: an open-label trial. World J. Biol. Psychiatry 10, 156-162.
+
+  Coyle, J. T. (1996). The glutamatergic dysfunction hypothesis for schizophrenia. Harv. Rev. Psychiatry, 3, 241-253. http://dx.doi.org/10.3109/10673229609017192
+
+  Coyle, J. T., & Tsai, G. (2004). The NMDA receptor glycine modulatory site: a therapeutic target for improving cognition and reducing negative symptoms in schizophrenia. Psychopharmacology (Berl), 174, 32-38. http://dx.doi.org/10.1007/s00213-003-1709-2
+
+  Csernansky, J. G., Martin, M., Shah, R., Bertchume, A., Colvin, J., & Dong, H. (2005). Cholinesterase inhibitors ameliorate behavioral deficits induced by MK-801 in mice. Neuropsychopharmacology, 30, 2135-2143. http://dx.doi.org/10.1038/sj.npp.1300761
+
+  Fagerlund, B., Soholm, B., Fink-Jensen, A., Lublin, H., & Glenthoj, B. Y. (2007). Effects of donepezil adjunctive treatment to ziprasidone on cognitive deficits in schizophrenia: a double-blind, placebo-controlled study. Clin. Neuropharmacol., 30, 3-12. http://dx.doi.org/10.1097/01.WNF.0000240940.67241.F6
+
+  Freedman, R. (2003). Schizophrenia. N. Engl. J. Med., 349, 1738-1749. http://dx.doi.org/10.1056/NEJMra035458
+
+  Freudenreich, O., Herz, L., Deckersbach, T., Evins, A. E., Henderson, D. C., Cather, C., & Goff, D. C. (2005). Added donepezil for stable schizophrenia: a double-blind, placebo-controlled trial. Psychopharmacology (Berl), 181, 358-363. http://dx.doi.org/10.1007/s00213-005-2235-1
+
+  Friedman, J. I. (2004). Cholinergic targets for cognitive enhancement in schizophrenia: focus on cholinesterase inhibitors and muscarinic agonists. Psychopharmacology (Berl), 174, 45-53. http://dx.doi.org/10.1007/s00213-004-1794-x
+
+  Friedman, J. I., Adler, D. N., Howanitz, E., Harvey, P. D., Brenner, G., Temporini, H., White, L., Parrella, M., & Davis, K. L. (2002). A double blind placebo controlled trial of donepezil adjunctive treatment to risperidone for the cognitive impairment of schizophrenia. Biol. Psychiatry, 51, 349-357. http://dx.doi.org/10.1016/S0006-3223(01)01342-7
+
+  Green, M. F., Nuechterlein, K. H., Gold, J. M., Barch, D. M., Cohen, J., Essock, S., Fenton, W. S., Frese, F., Goldberg, T. E., Heaton, R. K., Keefe, R. S., Kern, R. S., Kraemer, H., Stover, E., Weinberger, D. R., Zalcman, S., & Marder, S. R. (2004). Approaching a consensus cognitive battery for clinical trials in schizophrenia: the NIMH-MATRICS conference to select cognitive domains and test criteria. Biol. Psychiatry, 56, 301-307. http://dx.doi.org/10.1016/j.biopsych.2004.06.023
+
+  Guitart, X., Codony, X., & Monroy, X. (2004). Sigma receptors: biology and therapeutic potential. Psychopharmacology (Berl), 174, 301-319. http://dx.doi.org/10.1007/s00213-004-1920-9
+
+  Hashimoto, K., Fujita, Y., & Iyo, M. (2007). Phencyclidine-induced cognitive deficits in mice are improved by subsequent subchronic administration of fluvoxamine: role of sigma-1 receptors. Neuropsychopharmacology, 32, 514-521. http://dx.doi.org/10.1038/sj.npp.1301047
+
+  Hashimoto, K., Fujita, Y., Shimizu, E., & Iyo, M. 2005a. Phencyclidine-induced cognitive deficits in mice are improved by subsequent subchronic administration of clozapine, but not haloperidol. Eur. J. Pharmacol. 519, 114-117.
+
+  Hashimoto, K., Fukushima, T., Shimizu, E., Komatsu, N., Watanabe, H., Shinoda, N., Nakazato, M., Kumakiri, C., Okada, S., Hasegawa, H., Imai, K., & Iyo, M. (2003). Decreased serum levels of D-serine in patients with schizophrenia: evidence in support of the N-methyl-D-aspartate receptor hypofunction hypothesis of schizophrenia. Arch. Gen. Psychiatry, 60, 572-576. http://dx.doi.org/10.1001/archpsyc.60.6.572
+
+  Hashimoto, K. in press. Sigma-1 receptors and selective serotonin reuptake inhibitors: clinical implications of their relationship. CNS Agents Med. Chem.
+
+  Hashimoto, K., Ishima, T., Fujita, Y., Matsuo, M., Kobashi, T., Takahagi, M., Tsukada, H., & Iyo, M. (2008). Phencyclidine-induced cognitive deficits in mice are improved by subsequent subchronic administration of the novel selective 7 nicotinic receptor agonist SSR180711. Biol. Psychiatry, 63, 92-97. http://dx.doi.org/10.1016/j.biopsych.2007.04.034
+
+  Hashimoto, K., & Ishiwata, K. 2006. Sigma receptor ligands: possible application as therapeutic drugs and as radiopharmaceuticals. Curr. Pharm. Des. 12, 3857-3876.
+
+  Hashimoto, K., & London, E. D. 1994. Imaging sigma receptors and cerebral responses to sigma drugs. In: Itzhak, Y. (Ed.), Sigma Receptors. InAcademic. Press, New York, pp. 225-242.
+
+  Hashimoto, K., & London, E. D. 1995. Interactions of erythro-ifenprodil, threo-ifenprodil, erythro-iodoifenprodil, and eliprodil with subtypes of sigma receptors. Eur. J. Pharmacol. 273, 307-310.
+
+  Hashimoto, K., Okamura, N., Shimizu, E., & Iyo, M. 2004. Glutamate hypothesis of schizophrenia and approach for possible therapeutic drugs. Curr. Med. Chem-CNS.Agents 4, 147-154.
+
+  Hashimoto, K., Shimizu, E., & Iyo, M. (2005). Dysfunction of glia-neuron communication in pathophysiology of schizophrenia. Curr. Psychiatry Rev., 1, 151-163. http://dx.doi.org/10.2174/1573400054065569
+
+  Hayashi, T., & Su, T. P. (2004). Sigma-1 receptor ligands: potential in the treatment of neuropsychiatric disorders. CNS Drugs, 18, 269-284. http://dx.doi.org/10.2165/00023210-200418050-00001
+
+  Hayashi, T., & Su, T. P. 2007. Sigma-1 receptor chaperones at the ER-mitochondrion interface regulate Ca2+ signaling and cell survival. Cell 131, 596-610.
+
+  Helmeste, D. M., Tang, S. W., Bunney, W. E., Potkin, S. G., & Jones, E. G. 1996. Decrease in  but no increase in striatal dopamine D4 sites in schizophrenic brains. Eur. J. Pharmacol. 314, R3-R5.
+
+  Ishikawa, M., Ishiwata, K., Ishii, K., Kimura, Y., Sakata, M., Naganawa, M., Oda, K., Miyatake, R., Fujisaki, M., Shimizu, E., Shirayama, Y., Iyo, M., & Hashimoto, K. (2007). High occupancy of sigma-1 receptors in the human brain after single oral administrationoffluvoxamine:apositron emissiontomography study using [11C]SA4503. Biol. Psychiatry, 62, 878-883. http://dx.doi.org/10.1016/j.biopsych.2007.04.001
+
+  Ishima, T., Fujita, Y., Kohno, M., Kunitachi, S., Horio, M., Takatsu, Y., Minase, T., Tanibuchi, Y., Hagiwara, H., Iyo, M., & Hashimoto, K. 2009. Improvement of phencyclidine-induced cognitive deficits in mice by subsequent subchronic administration of fluvoxamine, but not sertraline. Open. Clin. Chem. J. 2, 7-11.
+
+  Ishima, T., Nishimura, T., Iyo, M., & Hashimoto, K. (2008). Potentiation of nerve growth factor-induced neurite outgrowth in PC12 cells by donepezil: role of sigma-1 receptors and IP3 receptors. Prog. Neuro-psychopharmacol. Biol. Psychiatry, 32, 1656-1659. http://dx.doi.org/10.1016/j.pnpbp.2008.06.011
+
+  Ishiwata, K., Oda, K., Sakata, M., Kimura, Y., Kawamura, K., Oda, K., Sasaki, T., Naganawa, M., Chihara, K., Okubo, Y., & Ishii, K. 2006. A feasibility study of [11C]SA4503-PET for evaluating sigma-l receptor occupancy by neuroleptics: the binding of haloperidol to sigma1 and dopamine D2-like receptors. Ann. Nucl. Med. 20, 569-573.
+
+  Iyo, M., Shirayama, Y., Watanabe, H., Fujisaki, M., Miyatake, R., Fukami, G., Shiina, A., Nakazato, M., Shiraishi, T., Ookami, T., & Hashimoto, K. (2008). Fluvoxamine as a sigma-1 receptor agonist improved cognitive impairments in a patient with schizophrenia. Prog. Neuro-psychopharmacol. Biol. Psychiatry, 32, 1072-1073. http://dx.doi.org/10.1016/j.pnpbp.2008.01.005
+
+  Javitt, D. C., Balla, A., Burch, S., Suckow, R., Xie, S., & Sershen, H. (2004). Reversal of phencyclidine-induced dopaminergic dysregulation by N-methyl-D-aspartate receptor/glycine-site agonists. Neuropsychopharmacology, 29, 300-307. http://dx.doi.org/10.1038/sj.npp.1300313
+
+  Javitt, D. C., & Zukin, S. R. 1991. Recent advances in the phencyclidine model of schizophrenia. Am. J. Psychiatry 148, 1301-1308.1992-12924-001
+
+  Jentsch, J. D., & Roth, R. H. (1999). The neuropsychopharmacology of phencyclidine: from NMDA receptor hypofunction to the dopamine hypothesis of schizophrenia. Neuropsychopharmacology, 20, 201-225. http://dx.doi.org/10.1016/S0893-133X(98)00060-8
+
+  Kato, K., Hayako, H., Ishihara, Y., Marui, S., Iwane, M., & Miyamoto, M. 1999. TAK-147, an acetylcholinesterase inhibitor, increases choline acetyltransferase activity in cultured rat septal cholinergic neurons. Neurosci. Lett. 260, 5-8.
+
+  Keefe, R. S., Malhotra, A. K., Meltzer, H. Y., Kane, J. M., Buchanan, R. W., Murthy, A., Sovel, M., Li, C., & Goldman, R. (2008). Efficacy and safety of donepezil in patients with schizophrenia or schizoaffective disorder: significant placebo/practice effects in a 12-week, randomized, double-blind, placebo-controlled trial. Neuropsychopharmacology, 33, 1217-1228. http://dx.doi.org/10.1038/sj.npp.1301499
+
+  Krystal, J. H., D'Souza, D. C., Petrakis, I. L., Belger, A., Berman, R. M., Charney, D. S., Abi-Saab, W., & Madonick, S. (1999). NMDAagonists and antagonists as probes of glutamatergic dysfunction and pharmacotherapies in neuropsychiatric disorders. Harv. Rev. Psychiatry, 7, 125-143. http://dx.doi.org/10.1093/hrp/7.3.125
+
+  Kurtz, M. M. (2005). Neurocognitive impairment across the lifespan in schizophrenia: an update. Schizophr. Res., 74, 15-26. http://dx.doi.org/10.1016/j.schres.2004.07.005
+
+  MacEwan, G. W., Ehmann, T. S., Khanbhai, I., & Wrixon, C. 2001. Donepezil in schizophrenia-is it helpful? An experimental design case study. Acta Psychiatr. Scand. 104, 469-472.2002-15544-008
+
+  Mandillo, S., Rinaldi, A., Oliverio, A., & Mele, A. (2003). Repeated administration of phencyclidine, amphetamine and MK-801 selectively impairs spatial learning in mice: a possible model of psychotomimetic drug-induced cognitive deficits. Behav. Pharmacol., 14, 533-544. http://dx.doi.org/10.1097/00008877-200311000-00006
+
+  Mattson, M. P., & Chan, S. L. 2001. Dysregulation of cellular calcium homeostasis in Alzheimer's disease: bad genes and bad habits. J. Mol. Neurosci. 17, 205-224.
+
+  Maurice, T., Meunier, J., Feng, B., Ieni, J., & Monaghan, D. T. (2006). Interaction with sigma-1 protein, but not N-methyl-D-aspartate receptor, is involved in the pharmacological activity of donepezil. J. Pharmacol. Exp. Ther., 317, 606-614. http://dx.doi.org/10.1124/jpet.105.097394
+
+  Maurice, T., Urani, A., Phan, V. L., & Romieu, P. (2001). The interaction between neuroactive steroids and the sigma-1 receptor function: behavioral consequences and therapeutic opportunities. Brain Res. Rev., 37, 116-132. http://dx.doi.org/10.1016/S0165-0173(01)00112-6
+
+  Meunier, J., Ieni, J., & Maurice, T. (2006). Antiamnesic and neuroprotective effects of donepezil against learning impairments induced in mice by exposure to carbon monoxide gas. J. Pharmacol. Exp. Ther., 317, 1307-1319. http://dx.doi.org/10.1124/jpet.106.101527
+
+  Meunier, J., Ieni, J., & Maurice, T. 2006b. The anti-amnesic and neuroprotective effects of donepezil against amyloid-25-35 peptide-induced toxicity in mice involve an interaction with the sigma1 receptor. Br. J. Pharmacol. 149, 998-1012.
+
+  Monnet, F. P., & Maurice, T. 2006. The sigma-1 protein as a target for the non-genomic effects of neuro(active)steroids: molecular, physiological, and behavioral aspects. J. Pharmacol. Sci. 100, 93-118.
+
+  Nakagawa, T., Zhu, H., Morishima, N., Li, E., Xu, J., Yankner, B. A., & Yuan, J. 2000. Caspase-12 mediated ebdoplasmic-reticulum-specific apoptosis and cytotoxicity by amyloid-beta. Nature 403, 98-103.
+
+  Narita, N., Hashimoto, K., Tomitaka, S., & Minabe, Y. 1996. Interactions of selective serotonin reuptake inhibitors with subtypes of sigma receptors in rat brain. Eur. J. Pharmacol. 307, 117-119.
+
+  Okuyama, S., & Nakazato, A. (1996). NE-100: a novel sigma receptor antagonist. CNS Drug Rev., 2, 226-237. http://dx.doi.org/10.1111/j.1527-3458.1996.tb00299.x
+
+  Olney, J. W., & Farber, N. B. 1995. Glutamate receptor dysfunction and schizophrenia. Arch. Gen. Psychiatry 52, 998-1007.1996-14564-001
+
+  Risch, S. C., Horner, M. D., McGurk, S., Palecko, S., Markowitz, J. S., Nahas, Z., & DeVane, C. L. (2007). Double-blind donepezil-placebo crossover augmentation study of atypical antipsychotics in chronic, stable schizophrenia: a pilot study. Schizophr. Res., 93, 131-135. http://dx.doi.org/10.1016/j.schres.2007.01.001
+
+  Risch, S. C., McGurk, S., Horner, M. D., Nahas, Z., Owens, S. D., Molloy, M., Gilliard, C., Christie, S., Markowitz, J. S., DeVane, C. L., Mintzer, J., & George, M. S. (2001). A double-blind placebo-controlled case study of the use of donepezil to improve cognition in a schizoaffective disorder patient: functional MRI correlates. Neurocase, 7, 105-110. http://dx.doi.org/10.1093/neucas/7.2.105
+
+  Seltzer, B. 2007. Donepezil: an update. Expert Opin. Pharmacother. 8, 1011-1023.
+
+  Senda, T., Matsuno, K., Kobayashi, T., & Mita, S. (1997). Reduction of the scopolamine-induced impairment of passive-avoidance performance bysigma receptor agonist in mice. Physiol. Behav., 61, 257-264. http://dx.doi.org/10.1016/S0031-9384(96)00447-7
+
+  Shibuya, H., Mori, H., & Toru, M. 1992. Alterations in phencyclidine and sigma binding sites in schizophrenic brains. Effects of disease process and neuroleptic medication. Neurochem. Res. 17, 983-990.
+
+  Simpson, M. D., Slater, P., Royston, M. C., & Deakin, J. F. (1991). Alterations in phencyclidine and sigma binding sites in schizophrenic brains. Effects of disease process and neuroleptic medication. Schizophr. Res., 6, 41-48. http://dx.doi.org/10.1016/0920-9964(91)90019-N
+
+  Su, T. P., & Hayashi, T. 2003. Understanding the molecular mechanism of sigma-1 receptors: towards a hypothesis that sigma-1 receptors are intracellular amplifiers for signal transduction. Curr. Med. Chem. 10, 2073-2080.
+
+  Tugal, O., Yazici, K. M., Anil Yagcioglu, A. E., & Gogus, A. (2004). A double-blind, placebo controlled, cross-over trial of adjunctive donepezil for cognitive impairment in schizophrenia. Int. J. Neuropsychopharmacol., 7, 117-123. http://dx.doi.org/10.1017/S1461145703004024
+
+  Weissman, A. D., Casanova, M. F., Kleinman, J. E., London, E. D., & Souza, E. B. (1991). Selective loss of cerebral cortical sigma, but not PCP binding sites in schizophrenia. Biol. Psychiatry, 29, 41-54. http://dx.doi.org/10.1016/0006-3223(91)90209-5
+Update Code
+  20091102 (PsycINFO)
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2009-09762-021
+
+
+

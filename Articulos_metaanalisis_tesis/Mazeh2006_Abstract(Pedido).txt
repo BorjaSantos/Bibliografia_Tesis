@@ -1,0 +1,36 @@
+
+1. Int Psychogeriatr. 2006 Sep;18(3):429-36. Epub 2006 Feb 15.
+
+Donepezil for negative signs in elderly patients with schizophrenia: an add-on,
+double-blind, crossover, placebo-controlled study.
+
+Mazeh D(1), Zemishlani H, Barak Y, Mirecki I, Paleacu D.
+
+Author information: 
+(1)Psychogeriatric ward, Abarbanel Mental Health Center, Bat-Yam and the Sackler
+School of Medicine, Tel-Aviv University, Israel. mazehdor@netvision.net.il
+
+OBJECTIVE: Cognitive impairment and negative signs are common in patients with
+schizophrenia. Up to 35% of elderly patients with schizophrenia fulfill the
+diagnostic criteria of dementia. Donepezil inhibits cholinesterase, thus
+enhancing cholinergic neurotransmission. We tested the efficacy of donepezil in
+elderly patients with chronic schizophrenia and severe cognitive impairment.
+METHOD: Following baseline assessment, patients were randomly assigned to receive
+either donepezil or placebo. The dose was 5 mg daily for the first week and 10 mg
+for an additional 11 weeks. The procedure was repeated using the crossover
+compound. The Positive and Negative Symptom Scale (PANSS), Clinical Global
+Impression Scale (CGI) and Alzheimer Disease Assessment Scale - Cognitive
+subscale (ADAS-Cog) were used to assess the severity of symptoms, cognitive
+status and intervention effects.
+RESULTS: Twenty subjects were enrolled (15 females, five males), mean age 70.2
+years (SD 6.5) and mean duration of disease 38.5 years (SD 9.3). A modest
+treatment effect was found for both placebo and donepezil treatment periods. No
+crossover effect was found. No statistical differences were demonstrated between 
+the two treatment groups (CGI p = 0.37, PANSS p = 0.71, ADAS-Cog p = 0.86). Two
+patients died during the study period due to unrelated causes and one patient
+discontinued participation due to increased agitation.
+CONCLUSION: Donepezil does not seem to improve negative signs and cognitive
+impairment in elderly patients with chronic schizophrenia.
+
+PMID: 16478570  [PubMed - indexed for MEDLINE]
+

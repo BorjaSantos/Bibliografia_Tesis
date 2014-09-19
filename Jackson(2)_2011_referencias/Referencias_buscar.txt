@@ -1,0 +1,102 @@
+Apartado 1; Introduction
+
+1. Egger M, Smith GD. Misleading meta-analysis. British Medical Journal 1995; 310:752--754.
+11. van Houwelingen HC, Arends LR, Stijnen T. Advanced methods in meta-analysis: multivariate approach 
+    and metaregression. Statistics in Medicine 2002; 21:589--624.
+12. Ishak KJ, Platt RW, Joseph L, Hanley JA. Impact of approximating or ignoring within-study covariances 
+    in multivariate meta-analyses. Statistics in Medicine 2008; 27:670--686.
+13. Riley R. Multivariate meta-analysis: the effect of ignoring within-study correlation. Journal of the 
+    Royal Statistical Society, Series A 2009; 172:789--811.
+
+Apartado 2: Areas of application
+
+26. Hamza TH, Arends LR, van Houwelingen HC, Stijnen T. Multivariate random effects meta-analysis of 
+    diagnostic tests with multiple thresholds. BMC Medical Research Methodology 2009; 9:73.
+29. Hamza TH, van Houwelingen HC, Stijnen T. The binomial distribution of meta-analysis was preferred to model
+    within-study variability. Journal of Clinical Epidemiology 2008; 61:41--51. DESCARGAR EN UNI
+38. Berkey CS, Anderson JJ, Hoaglin DC. Multiple-outcome meta-analysis of clinical trials. 
+    Statistics in Medicine 1996; 15:537--557.BUSCAR EN LA BIBLIOTECA
+39. Arends LR, Hunink MG, Stijnen T. Meta-analysis of summary survival curve data. 
+    Statistics in Medicine 2008; 27:4381--4396.
+40. van Houwelingen HC, Zwinderman KH, Stijnen T. A bivariate approach to meta-analysis. 
+    Statistics in Medicine 1993; 12:2273--2284. BUSCAR EN LA BIBLIOTECA
+
+Apartado 3: Model and assumptions
+
+35. Chu H, Nie L, Cole SR, Poole C. Meta-analysis of diagnostic accuracy studies accounting for disease 
+    prevalence: alternative parameterizations and model selection. 
+    Statistics in Medicine 2009; 28:2384--2399.
+47. Ritz J, Demidenko E, Spiegelman D. Multivariate meta-analysis for data consortia, individual 
+    patient meta-analysis, and pooling projects. 
+    Journal of Statistical Planning and Inference 2008; 138:1919--1933. DESCARGAR EN LA UNI
+48. Baker R, Jackson D. A new approach to outliers in meta-analysis. 
+    Health Care in Management Science 2008; 11:121--131.
+49. Lee KJ, Thompson SG. Flexible parametric models for random effects distributions. 
+    Statistics in Medicine 2008; 27:418--434.
+
+Apartado 4: Estimation
+
+14. White IR. Multivariate meta-analysis. The Stata Journal 2009; 9:40--56.
+47. Ritz J, Demidenko E, Spiegelman D. Multivariate meta-analysis for data consortia, individual patient 
+    meta-analysis, and pooling projects. DESCARGAR EN LA UNI
+    Journal of Statistical Planning and Inference 2008; 138:1919--1933.
+50. Jackson D. The significance level of the standard test for a treatment effect in meta-analysis. 
+    Statistics in Biopharmaceutical Research 2009; 1:92--100.
+54. Dersimonian R, Laird N. Meta-analysis in clinical trials. Controlled Clinical Trials 1986; 7:177--188.
+55. Kenward MG, Roger JH. Small sample inference for fixed effects from restricted maximum likelihood. ç
+    Biometrics 1997; 53:983--997.
+56. Hardy RJ, Thompson SG. A likelihood approach to meta-analysis with random effects. 
+    Statistics in Medicine 1996; 15:619--629.
+57. Jackson D, Bowden J, Baker R. Hoes does the DerSimonian and Laird procedure for random effects 
+    meta-analysis compare with its more efficient but harder to compute counterparts? 
+    Journal of Statistical Planning and Inference 2010; 140:961--970. PEDIR A EDU
+58. Lunn DJ, Thomas A, Best N, Spiegelhalter D. WinBUGS—a Bayesian modelling framework: concepts, 
+    structure, and extensibility. Statistics in Computing 2000; 19:325--337.
+59. Nam IS, Mengerson K, Garthwaite P. Multivariate meta-analysis. 
+    Statistics in Medicine 2003; 22:2309--2333.
+60. Lambert PC, Sutton AJ, Burton PR, Abrams KR, Jones DR. How vague is vague? A simulation study of the 
+    impact of the use of vague prior distributions in MCMC using WinBUGS.  
+    Statistics in Medicine 2010; 24:2401--2428.
+61. Cox DR. Principles of Statistical Inference. Cambridge University Press: Cambridge, 2006.
+62. Riley RD, Dodd SR, Craig JV, Thompson JR, Williamson PR. Meta-analysis of diagnostic test studies 
+    using individual patient data and aggregate data. Statistics in Medicine 2008; 27:6111--6136.
+
+Apartado 5: Ilustrated examples of the advantages and limitations of multivariate meta-analysis
+
+25. Riley RD, Abrams KR, Lambert PC, Sutton AJ, Thompson JR. An evaluation of bivariate random effects 
+    meta-analysis for the joint synthesis of two correlated outcomes. 
+    Statistics in Medicine 2007; 26:78--97.
+26. Hamza TH, Arends LR, van Houwelingen HC, Stijnen T. Multivariate random effects meta-analysis of 
+    diagnostic tests with multiple thresholds. BMC Medical Research Methodology 2009; 9:73
+27. Jones AP, Riley RD, Williamson PR, Whitehead A. Meta-analysis of longitudinal data. 
+    Clincal Trials 2009; 6:16--27.
+35. Chu H, Nie L, Cole SR, Poole C. Meta-analysis of diagnostic accuracy studies accounting for disease 
+    prevalence: alternative parameterizations and model selection. 
+    Statistics in Medicine 2009; 28:2384--2399.
+36. Paul M, Riebler A, Bachmann LM, Rue H, Held L. Bayesian bivariate meta-analysis of diagnostic test 
+    studies using integrated nested Laplace approximations. Statistics in Medicine 2010; 29:1325--1339.
+65. Simel DL, Bossuyt PMM. Differences between univariate and bivariate models for summarizing diagnostic 
+    accuracy may not be large. Journal of Clinical Epidemiology 2009; 62:1292--1300. DESCARGAR EN UNI
+66. Riley RD, Sutton AJ, Abrams KR, Lambert PC. Sensitivity analyses allowed more appropriate and 
+    reliable metaanalysis conclusions for multiple outcomes when missing data was present. 
+    Journal of Clinical Epidemiology 2004; 57:911--924. DESCARGAR EN LA UNI
+67. Jackson D, Copas J, Sutton AJ. Modelling reporting bias: the operative mortality rate for ruptured 
+    abdominal aortic aneurysm repair. 
+    Journal of the Royal Statistical Society, Series A 2005; 168:737--752.
+
+Apartado 6: Handling unknown within-study correlations
+
+10. The Fibrinogen Studies Collaboration. Systematically missing confounders in individual participant 
+    data meta-analysis of observational studies. Statistics in Medicine 2009; 28:1218--1237.
+13. Riley R. Multivariate meta-analysis: the effect of ignoring within-study correlation. 
+    Journal of the Royal Statistical Society, Series A 2009; 172:789--811.
+69. Raudenbush SW, Becker BJ, Kalaian H. Modeling multivariate effect sizes. Psychological Bulletin 1988; 103:111--120.
+    BUSCAR EN LA UNI
+70. Berrington A, Cox DR. Generalized least squares for the synthesis of correlated information. 
+    Biostatistics 2003; 4:423--431.
+71. Riley RD, Thompson JR, Abrams KR. An alternative model for bivariate random-effects meta-analysis 
+    when the within-study correlations are unknown. Biostatistics 2008; 9:172--186.
+72. Hedges LV, Tipton E, Johnson MC. Robust variance estimation in meta-regression with dependent effect 
+    size estimates. Research Synthesis Methods 2010; 1:39--65. PEDIR EDUARDO
+
+

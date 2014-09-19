@@ -1,0 +1,16 @@
+11. van Houwelingen HC, Arends LR, Stijnen T. Advanced methods in meta-analysis: multivariate approach 
+    and metaregression. Statistics in Medicine 2002; 21:589--624.
+12. Ishak KJ, Platt RW, Joseph L, Hanley JA. Impact of approximating or ignoring within-study covariances 
+    in multivariate meta-analyses. Statistics in Medicine 2008; 27:670--686.
+13. Riley R. Multivariate meta-analysis: the effect of ignoring within-study correlation. Journal of the 
+    Royal Statistical Society, Series A 2009; 172:789--811.
+25. Riley RD, Abrams KR, Lambert PC, Sutton AJ, Thompson JR. An evaluation of bivariate random effects 
+    meta-analysis for the joint synthesis of two correlated outcomes. 
+    Statistics in Medicine 2007; 26:78--97.
+26. Hamza TH, Arends LR, van Houwelingen HC, Stijnen T. Multivariate random effects meta-analysis of 
+    diagnostic tests with multiple thresholds. BMC Medical Research Methodology 2009; 9:73.
+29. Hamza TH, van Houwelingen HC, Stijnen T. The binomial distribution of meta-analysis was preferred to 
+    model within-study variability. Journal of Clinical Epidemiology 2008; 61:41--51.
+35. Chu H, Nie L, Cole SR, Poole C. Meta-analysis of diagnostic accuracy studies accounting for disease 
+    prevalence: alternative parameterizations and model selection. 
+    Statistics in Medicine 2009; 28:2384--2399.

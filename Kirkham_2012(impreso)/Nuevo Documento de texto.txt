@@ -1,0 +1,52 @@
+APARTADO 1: INTRODUCTION.
+
+4. Riley RD, Abrams KR, Lambert PC, Sutton AJ. An evaluation of bivariate random-effects meta-analysis 
+   for the joint synthesis of two correlated outcomes. 
+   Statistics in Medicine 2007; 26(1):78–97. DOI: 10.1002/sim.2524.
+5. Kirkham JJ, Dwan KM, Altman DG, Gamble C, Dodd S, Smyth R,Williamson PR. The impact of outcome 
+   reporting bias on systematic reviews. 
+   British Medical Journal (Research) 2010; 340:c365. DOI: 10.1136/bmj.c365. NO SE PUEDE ACCEDER
+6. Williamson PR, Gamble C. Application and investigation of a bound for outcome reporting bias. 
+   Trials 2007; 8(9). DOI: 10.1186/1745-6215-8-9.
+7. van Houwelingen HC, Arends LR, Stijnen T. Advanced methods in meta-analysis: multivariate approach and 
+   metaregression. Statistics in Medicine 2002; 21(4):589–624. DOI: 10.1002/sim.1040.
+8. Jackson D, Riley RD, White I. Multivariate meta-analysis: potential and promise. 
+   Statistics in Medicine 2011; 30(20):2481–2498. DOI: 10.1002/sim.4172.
+9. Riley RD. Multivariate meta-analysis: the effect of ignoring within study correlation. 
+   Journal of the Royal Statistical Society (Series A) 2009; 172(4):789–811. DOI: 10.1111/j.1467-985X.2008.00593.x.
+
+APARTADO 3: METHODS.
+
+9. Riley RD. Multivariate meta-analysis: the effect of ignoring within study correlation. 
+   Journal of the Royal Statistical Society (Series A) 2009; 172(4):789–811. DOI: 10.1111/j.1467-985X.2008.00593.x.
+12. White IR. Multivariate random-effects meta-analysis. Stata Journal 2009; 9(1):40–56.
+13. Riley RD, Thompson JR, Abrams KR. An alternative model for bivariate random-effects meta-analysis 
+    when the within-study correlations are unknown. Biostatistics 2008; 9(1):172–186. DOI: 10.1093/biostatistics/kxm023.
+14. Riley RD, Lambert PC, Staessen JA, Wang J, Gueyffier F, Thijs L, Boutitie F. Meta-analysis of 
+    continuous outcomes combining individual patient data and aggregate data. 
+    Statistics in Medicine 2008; 27(11):1870–1893. DOI: 10.1002/sim.3165.
+15. Abdel-Megeed SM. (1984). Accuracy of Correlation Coefficient with Limited Number of Points. 
+    The Journal of Experimental Education 1984; 52(4):188–191. NO SE PUEDE ACCEDER.
+
+APARTADO 4: SIMULATION STUDY.
+
+9. Riley RD. Multivariate meta-analysis: the effect of ignoring within study correlation. 
+   Journal of the Royal Statistical Society (Series A) 2009; 172(4):789–811. DOI: 10.1111/j.1467-985X.2008.00593.x.
+16. Jackson D, White IR, Thompson SG. Extending DerSimonian and Laird’s methodology to perform 
+    multivariate random effects meta-analyses. Statistics in Medicine 2010; 29(12):1282–1297. 
+    DOI: 10.1002/sim.3602.
+17. Brockwell SE, Gordon IR. A simple method for inference on an overall effect in meta-analysis. 
+    Statistics in Medicine 2007; 26(25):4531–4543. DOI: 10.1002/sim.2883.
+
+APARTADO 6: EXTENSION TO BIVARIATE RANDOM EFFECTS META-ANALYSIS.
+4. Riley RD, Abrams KR, Lambert PC, Sutton AJ. An evaluation of bivariate random-effects meta-analysis 
+   for the joint synthesis of two correlated outcomes. Statistics in Medicine 2007; 26(1):78–97. 
+   DOI: 10.1002/sim.2524.
+9. Riley RD. Multivariate meta-analysis: the effect of ignoring within study correlation. Journal of the 
+   Royal Statistical Society (Series A) 2009; 172(4):789–811. DOI: 10.1111/j.1467-985X.2008.00593.x.
+13. Riley RD, Thompson JR, Abrams KR. An alternative model for bivariate random-effects meta-analysis 
+    when the within-study correlations are unknown. Biostatistics 2008; 9(1):172–186. 
+    DOI: 10.1093/biostatistics/kxm023.
+18. Riley RD, Abrams KR, Sutton AJ, Lambert PC, Thompson JR. Bivariate random-effects meta-analysis and 
+    the estimation of between-study correlation. BMC Medical Research Methodology 2007; 7:3. 
+    DOI: 10.1186/1471-2288-7-3.

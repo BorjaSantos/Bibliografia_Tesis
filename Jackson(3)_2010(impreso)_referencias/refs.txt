@@ -1,0 +1,40 @@
+1. Sutton AJ, Abrams KR, Jones D, Sheldon DR, Song F. Methods for Meta-analysis in Medical 
+   Research. Wiley: New York, 2002.
+
+5. Riley RD, Abrams KR, Lambert PC, Sutton AJ, Thompson JR. Bivariate random effects 
+   meta-analysis and the estimation of between-study correlation. BMC Medical Research 
+   Methodology 2007; 7(3).
+
+9. Jackson D. The significance level of the standard test for a treatment effect in 
+   meta-analysis. Statistics in Biopharmaceutical Research 2009; 1:92--100.
+
+10. Biggerstaff BJ, Tweedie RL. Incorporating variability of estimates of 
+    heterogeneity in the random effects model in meta-analysis. 
+    Statistics in Medicine 1997; 16:753--768.
+
+15. Pinto EM, Willan AR, O’Brien BJ. Cost U? effectiveness analysis for multinational 
+    clinical trials. Statistics in Medicine 1997; 24:1965--1982.
+
+22. Knapp G, Hartung J. Improved tests for a random effects meta-regression with a single 
+    covariate. Statistics in Medicine 2003; 22:2693--2710.
+
+23. Sohn SY. Multivariate meta-analysis with potentially correlated marketing study results. 
+    Naval Research Logistics 2000; 47:500--510.
+
+26. Higgins JPT, Thompson SG. Quantifying heterogeneity in meta-analysis. Statistics in 
+    Medicine 2002; 21:1539--1558.
+
+27. Follmann DA, Proschan MA. Valid inference in random effects meta-analysis. 
+    Biometrics 1999; 55:732--737.
+
+28. Sidik K, Jonkman J. A comparison of heterogeneity variance estimators in combining 
+    results of studies. Statistics in Medicine 2007; 26:1964--1981.
+
+29. White IR. Multivariate random effects meta-analysis. The Stata Journal 2009; 9:40--56.
+
+35. Taye HH, van Houwelingen HC, Stijnen T. The binomial distribution of meta-analysis was 
+    preferred to model within-study variability. 
+    Journal of Clinical Epidemiology 2008; 61:41--51. DESCARGAR EN LA UNI
+
+37. Baker R, Jackson D. A new approach to outliers in meta-analysis. 
+    Health Care in Management Science 2008; 11:121--131.

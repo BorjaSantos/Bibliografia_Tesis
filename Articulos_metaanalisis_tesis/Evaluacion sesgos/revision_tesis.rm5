@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<COCHRANE_REVIEW DESCRIPTION="" DOI="" GROUP_ID="" ID="697214041111472718" MERGED_FROM="" MODIFIED="2014-06-27 11:42:03 +0200" MODIFIED_BY="[Empty name]" REVIEW_NO="" REVMAN_SUB_VERSION="5.2.11 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="0.0">
+<COVER_SHEET MODIFIED="2014-04-11 11:51:24 +0200" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2014-04-11 11:47:27 +0200" MODIFIED_BY="[Empty name]">Antipsicóticos + Potrnciadores cognitivos versus Antipsicóticos for Esquizofrenia</TITLE>
+<CONTACT>
+<PERSON ID="????" MODIFIED="2014-04-11 11:50:39 +0200" MODIFIED_BY="[Empty name]" ROLE="UNKNOWN">
+<PREFIX/>
+<FIRST_NAME>BORJA</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>SANTOS ZORROZÚA</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1/>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT/>
+<ORGANISATION/>
+<ADDRESS_1/>
+<ADDRESS_2/>
+<CITY/>
+<ZIP/>
+<REGION/>
+<COUNTRY CODE="NONE">Other</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2014-04-11 11:49:39 +0200" MODIFIED_BY="[Empty name]">
+<PERSON ID="????" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME/>
+<MIDDLE_INITIALS/>
+<LAST_NAME/>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1/>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT/>
+<ORGANISATION/>
+<ADDRESS_1/>
+<ADDRESS_2/>
+<CITY/>
+<ZIP/>
+<REGION/>
+<COUNTRY CODE="NONE">Other</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="????" MODIFIED="2014-04-11 11:49:39 +0200" MODIFIED_BY="[Empty name]" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>BORJA</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>SANTOS ZORROZÚA</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1/>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT/>
+<ORGANISATION/>
+<ADDRESS_1/>
+<ADDRESS_2/>
+<CITY/>
+<ZIP/>
+<REGION/>
+<COUNTRY CODE="NONE">Other</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2014-04-11 11:51:24 +0200" MODIFIED_BY="[Empty name]">
+<UP_TO_DATE>
+<DATE DAY="4" MONTH="4" YEAR="2014"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="4" MONTH="4" YEAR="2014"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="30" MONTH="4" YEAR="2014"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="" YEAR=""/>
+<REVIEW_PUBLISHED ISSUE="" YEAR=""/>
+<LAST_CITATION_ISSUE ISSUE="" YEAR=""/>
+</DATES>
+<WHATS_NEW/>
+<HISTORY/>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT>
+<SUMMARY>
+<TITLE>[Summary title]</TITLE>
+<SUMMARY_BODY>
+<P>[Summary text]</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND/>
+<ABS_OBJECTIVES/>
+<ABS_SEARCH_STRATEGY/>
+<ABS_SELECTION_CRITERIA/>
+<ABS_DATA_COLLECTION/>
+<ABS_RESULTS/>
+<ABS_CONCLUSIONS/>
+</ABSTRACT>
+<BODY>
+<BACKGROUND>
+<CONDITION/>
+<INTERVENTION/>
+<THEORY/>
+<IMPORTANCE/>
+</BACKGROUND>
+<OBJECTIVES/>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES/>
+<CRIT_PARTICIPANTS/>
+<CRIT_INTERVENTIONS/>
+<CRIT_OUTCOMES>
+<CRIT_OUTCOMES_PRIMARY/>
+<CRIT_OUTCOMES_SECONDARY/>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<ELECTRONIC_SEARCHES/>
+<OTHER_SEARCHES/>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<STUDY_SELECTION/>
+<DATA_EXTRACTION/>
+<QUALITY_ASSESSMENT/>
+<EFFECT_MEASURES/>
+<UNIT_OF_ANALYSIS/>
+<MISSING_DATA/>
+<HETEROGENEITY_ASSESSMENT/>
+<BIAS_ASSESSMENT/>
+<DATA_SYNTHESIS/>
+<SUBGROUP_ANALYSIS/>
+<SENSITIVITY_ANALYSIS/>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<SEARCH_RESULTS/>
+<INCLUDED_STUDIES_DESCR/>
+<EXCLUDED_STUDIES_DESCR/>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<ALLOCATION/>
+<BLINDING/>
+<EXCLUSIONS/>
+<SELECTIVE_REPORTING/>
+<OTHER_BIAS_SOURCES/>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS/>
+</RESULTS>
+<DISCUSSION>
+<SUMMARY_OF_RESULTS/>
+<APPLICABILITY_OF_FINDINGS/>
+<QUALITY_OF_EVIDENCE/>
+<POTENTIAL_BIASES/>
+<AGREEMENT/>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE/>
+<IMPLICATIONS_RESEARCH/>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS/>
+<CONFLICT_OF_INTEREST/>
+<CONTRIBUTIONS/>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2014-06-27 11:42:03 +0200" MODIFIED_BY="[Empty name]">
+<STUDIES MODIFIED="2014-06-27 11:42:03 +0200" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES MODIFIED="2014-06-27 11:42:03 +0200" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-AKHONDAZEH-2008" MODIFIED="2014-05-08 13:04:27 +0200" MODIFIED_BY="[Empty name]" NAME="AKHONDAZEH 2008" YEAR="2008">
+<REFERENCE MODIFIED="2014-05-08 13:04:27 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Amiri A., Noorba A., Nejatisafa A., Ghoreishi A., Derakhasan M., Khoadaie M., Hajiazim M., Raznahan M. and Akhondazeh S.</AU>
+<TI>Efficacy of selegiline add on therapy to risperidone in the treatment of the negative simptoms of schizophrenia: a double-blind randomized placebo-controlled study.</TI>
+<SO>Human psychopharmacology</SO>
+<YR>2008</YR>
+<VL>23</VL>
+<PG>79-86</PG>
+<IDENTIFIERS MODIFIED="2014-05-08 13:04:27 +0200" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2014-05-08 13:04:27 +0200" MODIFIED_BY="[Empty name]" TYPE="OTHER" VALUE=""/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-BUCHANAN-2008" MODIFIED="2014-05-28 14:51:24 +0200" MODIFIED_BY="[Empty name]" NAME="BUCHANAN 2008" YEAR="2008">
+<REFERENCE MODIFIED="2014-05-28 14:51:20 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Buchanan R. W., Conley R. R., Dickinson D., Ball M. P., Feldman S., Gold J. M. &amp; McMahon R. P.</AU>
+<TI>Galantamine for thr Treatment of Cognitive Impairments in People With Schizophrenia.</TI>
+<SO>American Journal of Psychiatry</SO>
+<YR>2008</YR>
+<VL>165</VL>
+<PG>82-89</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-DYER-2008" MODIFIED="2014-05-26 12:48:44 +0200" MODIFIED_BY="[Empty name]" NAME="DYER 2008" YEAR="2008">
+<REFERENCE MODIFIED="2014-05-26 12:48:39 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dyer M. A., Freudenreich O., Culhane M. A., Pachas G. N., Deckersbach T., Murphy E., Goff D. C. &amp; Evins A. E.</AU>
+<TI>High-dose galantamine augmentation inferior to placebo on attention, inhibitory control and working memory performance in nonsmokers with schizophrenia.</TI>
+<SO>Schizophrenia Research</SO>
+<YR>2008</YR>
+<VL>108</VL>
+<PG>88-95</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-FAGRELUND-2007" MODIFIED="2014-05-12 12:35:25 +0200" MODIFIED_BY="[Empty name]" NAME="FAGRELUND 2007" YEAR="2007">
+<REFERENCE MODIFIED="2014-05-12 12:35:21 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fagerlund B., Soholm B., Fink-Jensen A., Lublin H. and Glentoj B.</AU>
+<TI>Effects of Donepezil Adjunctive Treatment to Ziprasidone on Cognitive Deficits in Schizophrenia: A Double-blind, Placebo-Controlled Study</TI>
+<SO>Clinical Nueuropharmacology</SO>
+<YR>2007</YR>
+<VL>30</VL>
+<NO>1</NO>
+<PG>3-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-FREEDMAN-2008" MODIFIED="2014-05-29 12:48:42 +0200" MODIFIED_BY="[Empty name]" NAME="FREEDMAN 2008" YEAR="2008">
+<REFERENCE MODIFIED="2014-05-29 12:48:41 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Freedman R., Olincy A., Buchanan R. W., Harris J. G., Golg J. M., Jonhson L., Allensworth D., Guzmán-Bonilla A., Clement B., Ball P., Kutnic J., Pender V., Martin L . F., Stevens K. E., Wagner B. D., Zerbe G. O., Soti F. &amp; Kem W. R.</AU>
+<TI>Initial Phase 2 Trial of Nicotinic Agosnist in Schizophrenia.</TI>
+<SO>American Journal of Psychiatry</SO>
+<YR>2008</YR>
+<VL>165</VL>
+<NO>8</NO>
+<PG>1040-1047</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Freudenreich-2005" MODIFIED="2014-06-26 12:49:34 +0200" MODIFIED_BY="[Empty name]" NAME="Freudenreich 2005" YEAR="2005">
+<REFERENCE MODIFIED="2014-06-26 12:49:28 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Freudenreich O., Herz L., Deckersbach T., Eden A. E., Henderson D. C., Cather C &amp; Goff D. G.</AU>
+<TI>Added donepezil for stable schizophrenia: a double-blind, placebo-controlled trial.</TI>
+<SO>Psychopharmacology</SO>
+<YR>2005</YR>
+<VL>181</VL>
+<PG>358-363</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-FRIEDMAN-2002" MODIFIED="2014-05-26 11:28:02 +0200" MODIFIED_BY="[Empty name]" NAME="FRIEDMAN 2002" YEAR="2002">
+<REFERENCE MODIFIED="2014-05-26 11:27:59 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Friedman J. I., Adler D. N., Howanitz E., Harvey P. D., Brenner G., Temporini H., White L., Parrella M. &amp; Davis K. L.</AU>
+<TI>A Double Blind Placebo Controlled Trial of Donepezil Adjunctive Treatment to Risperidone for the Cognitive Impairment of Schizophrenia.</TI>
+<SO>Biological Psychiatry</SO>
+<YR>2002</YR>
+<VL>51</VL>
+<PG>349-357</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-KEEFE-2008" MODIFIED="2014-05-14 12:20:52 +0200" MODIFIED_BY="[Empty name]" NAME="KEEFE 2008" YEAR="2008">
+<REFERENCE MODIFIED="2014-05-14 12:20:46 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Keefe R., Malhorta A., Meltzer H., Kane J., Buchanan R., Murthy A., Sovel M., Li C. and Goldman R.</AU>
+<TI>Efficacy and Safety of Donepezil in Patients with Schizophrenia or Schizoaffective Disorder: Significant Placebo/Practice Effects in a 12-Week, Randomized, Double-Blind, Placebo-Controlled Trial.</TI>
+<SO>Neuropsychopharmacology</SO>
+<YR>2008</YR>
+<VL>33</VL>
+<PG>1217-1228</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-LEE_x0028_2_x0029_-2007" MODIFIED="2014-05-28 17:32:06 +0200" MODIFIED_BY="[Empty name]" NAME="LEE(2) 2007" YEAR="2007">
+<REFERENCE MODIFIED="2014-05-28 17:32:02 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lee s. W., Lee J. G. Lee B. J. &amp; Kim Y. H.</AU>
+<TI>A 12-week, double-blind, placebo-controlles trial of galantamine adjunctive treatment to conventional antipsychotics for the cognitive impairments in chronic schizophrenia.</TI>
+<SO>International Clinical Psychopharmacology</SO>
+<YR>2007</YR>
+<VL>22</VL>
+<PG>63-68</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-LEE-2007" MODIFIED="2014-05-28 16:45:10 +0200" MODIFIED_BY="[Empty name]" NAME="LEE 2007" YEAR="2007">
+<REFERENCE MODIFIED="2014-05-28 16:45:08 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lee B. J., Lee J. G. &amp; Kim Y. H.</AU>
+<TI>A 12-week, double-blind, placebo-controlled trial of donepezil as an adjunct to haloperidol for treating cognitive impairments in patients with chronic schizophrenia.</TI>
+<SO>Journal of Psychopharmacology.</SO>
+<YR>2007</YR>
+<VL>21</VL>
+<NO>4</NO>
+<PG>421-427</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-LIGHT-2005" MODIFIED="2014-05-08 16:41:26 +0200" MODIFIED_BY="[Empty name]" NAME="LIGHT 2005" YEAR="2005">
+<REFERENCE MODIFIED="2014-05-08 16:41:22 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Erickson S., Schwarzkov S. B., Palumbo D., Badgley-Fleeman J., Smirnov A. M. and Light G. A.</AU>
+<TI>Efficacy and tolerability of low-dose donepezil in schizophrenia</TI>
+<SO>Clinical Neuropharmacology</SO>
+<YR>2005</YR>
+<VL>28</VL>
+<NO>4</NO>
+<PG>179-184</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-MAZEH-2006" MODIFIED="2014-05-16 12:21:42 +0200" MODIFIED_BY="[Empty name]" NAME="MAZEH 2006" YEAR="2006">
+<REFERENCE MODIFIED="2014-05-16 12:21:39 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mazex D., Zemishlani Y., Barak Y., Mirecki I. and Paleacu D.</AU>
+<TI>Donepezil for negative signs in elderly patients with schizophrenia: an add-on, double-blind, crossover, placebo-controlled study.</TI>
+<SO>International Pshychogeriatrics</SO>
+<YR>2006</YR>
+<VL>18</VL>
+<NO>3</NO>
+<PG>429-436</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-MUSCATELLO-2010_x002a_" MODIFIED="2014-06-27 11:42:03 +0200" MODIFIED_BY="[Empty name]" NAME="MUSCATELLO 2010*" YEAR="2010">
+<REFERENCE MODIFIED="2014-05-29 15:38:00 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Muscatello M. R. A., Bruno A., Pandolfo G., Micò U., Bellinghieri P. M., Scimeca G., Cacciola M., Campolo D., Settineri S., &amp; Zoccali R.</AU>
+<TI>Topiramine augmentation of clozapine in schizophrenia: a double-blind, placebo-controlled study</TI>
+<SO>Journal of Psychopharmacology</SO>
+<YR>2010</YR>
+<VL>25</VL>
+<NO>5</NO>
+<PG>667-674</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-REZAZADEH-2008" MODIFIED="2014-06-09 15:51:38 +0200" MODIFIED_BY="[Empty name]" NAME="REZAZADEH 2008" YEAR="2008">
+<REFERENCE MODIFIED="2014-06-09 15:51:34 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Akhondzadeh S., Gerami M., Noroozian M., Karamghadiri N., Ghoreishi A., Abbasi S. H. &amp; Rezazadeh S.I.</AU>
+<TI>A 12-wwe, double-blind, placebo-controlled trial of donepezil adjunctive treatment to risperidone in chronic and stable schizophrenia.</TI>
+<SO>Progress in Neuor-Psychopharmacology &amp; Biological Psychiatry.</SO>
+<YR>2008</YR>
+<VL>32</VL>
+<PG>1810-1815</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-RISCH-2007" MODIFIED="2014-05-16 12:41:01 +0200" MODIFIED_BY="[Empty name]" NAME="RISCH 2007" YEAR="2007">
+<REFERENCE MODIFIED="2014-05-16 12:40:58 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Risch S., Horner M. D., McGurk S. R., Palecko S., Markowitz J. S., Nahas Z. and DeVane C. L.</AU>
+<TI>Double-blind donepezil-placebo crossover augmentation study of atypical antipsychotics in chronic, stable schizophrenia: A pilot study</TI>
+<SO>Schizophrenia Research</SO>
+<YR>2007</YR>
+<VL>93</VL>
+<PG>131-135</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-SCHUBERT-2006" MODIFIED="2014-05-26 14:47:44 +0200" MODIFIED_BY="[Empty name]" NAME="SCHUBERT 2006" YEAR="2006">
+<REFERENCE MODIFIED="2014-05-26 14:47:41 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schubert M. H., Young K. A., &amp; Hicks P. B.</AU>
+<TI>Galantamine Improves Cognition in Schizophrenic Patients Stabilized on Risperidone</TI>
+<SO>Biological Psychiatry</SO>
+<YR>2006</YR>
+<VL>60</VL>
+<PG>530-533</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-TUGAL-2004" MODIFIED="2014-04-11 11:55:06 +0200" MODIFIED_BY="[Empty name]" NAME="TUGAL 2004" YEAR="2004">
+<REFERENCE MODIFIED="2014-04-11 11:55:06 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Tugal O., Yazici A., Yagciogli E. and Gogus A.</AU>
+<TI>A double-blind, placebo controlled, cross-over trial of adjunctive donepezil for cognitive impariment in schizophrenia</TI>
+<SO>International Journal of Neuropshychopharmacology</SO>
+<YR>2004</YR>
+<VL>7</VL>
+<PG>117-123</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES/>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES/>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2014-06-27 10:28:15 +0200" MODIFIED_BY="[Empty name]">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2014-06-27 10:28:15 +0200" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2014-05-08 15:43:18 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-AKHONDAZEH-2008">
+<CHAR_METHODS MODIFIED="2014-05-08 15:43:17 +0200" MODIFIED_BY="[Empty name]">
+<P>Análisis estadísticos mediante ANOVA de dos factores para medidas repetidas. (también ANOVA entre diferentes tiempos).</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-05-08 15:43:18 +0200" MODIFIED_BY="[Empty name]">
+<P>40 pacientes (11 mujeres y 29 hombres) diagnosticados con esquizofrenia de acuerdo al DSM-IV-TR.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-08 15:43:18 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: Antipsicótico (risperidone) + potenciador cognitivo (selegiline).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-08 14:02:18 +0200" MODIFIED_BY="[Empty name]">
+<P>PANSS positiva (puntuación total de la subescala), PANSS negativa (puntuación total de la subescala) y PANSS general (puntuación total de la subescala) y PANSS total (puntuación total de la escala).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-05-08 15:28:22 +0200" MODIFIED_BY="[Empty name]">
+<P>Ensayo clínico aleatorizado en el cual se evalúa a los pacientes en diversos momentos del seguimiento (2, 4, 6, y 8 semanas). Tomaremos la última medición comparada con línea de base.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-05-28 15:23:01 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-BUCHANAN-2008">
+<CHAR_METHODS MODIFIED="2014-05-28 14:56:28 +0200" MODIFIED_BY="[Empty name]">
+<P>Las puntuaciones de los test neurpsicológicos fueron transformadas a puntuaciones z. Para comparar el grupo tratamiento frente al placebo se realizaron test de Wilcoxon debido a a no normalidad de diversas puntuaciones z, los p-valores fueron corregidos por comparaciones múltiples mediante la fórmula de Benjamini y Hochberg.. Además se creó una puntuación compuesta de todas las pruebas neuropsicológicas. para ver si existió interacción tratamiento y tiempo se hizo un ANOVA de medidas repetidas.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-05-28 15:00:47 +0200" MODIFIED_BY="[Empty name]">
+<P>86 pacientes (74 hombres y 12 mujeres) diagnosticados con esquizofrenia de acuerdo a la DSM-IV.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-28 15:03:14 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: antipsicótico (segunda generación) + potenciador cognitivo (galantamina); Grupo control: antipsicótico (segunda generación) + placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-28 15:18:14 +0200" MODIFIED_BY="[Empty name]">
+<P>Aspectos neuropsicológicos: memoria de trabajo (WAIS-III letter-numbre sequencing y Brief Assessment of Cognition in Schizophrenia number sequencing), memoria verbal (CVLT), memoria visual (Brief Visuospatial Memory Test), velocidad motora (Grooved Pegboard), velocidad de pricesamiento (WAIS-III digit symbol and symbol search), atención (CPT). Aspectos clínicos:síntomatología positiva (BPRS), sintomatología afectiva (BPRS anxiety/depression), sintomatología negativa (SANS), gravedad de la enfermedad (CGI). Dependencia de la nicotina (test de Fagerström).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-05-28 15:23:01 +0200" MODIFIED_BY="[Empty name]">
+<P>Es un ensayo clínico aleatorizado y doble ciego de 12 semanas de duración. Las medidas relacionadas con aspectos neuropsicológicos se realizaron en línea de base y al final del seguimiento (12 semanas). Las medidas relacionadas con los aspectos clínicos se realizaron cada dos semanas (nosotros nos quedaremos con las basales y a las 12 semanas).</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-05-26 13:06:18 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-DYER-2008">
+<CHAR_METHODS MODIFIED="2014-05-26 12:52:52 +0200" MODIFIED_BY="[Empty name]">
+<P>La medidas en línea de basede ambos grupos, se compararon mediante t-test o test exactos de Fisher, según el tipo de variable. Para evaluar el efecto de la medicación en el cambio cognitivo se realizaron diferentes modelos de regresión lineal, controlados por las mediciones en línea de base. Finalmente para evaluar los síntomas extrapiramidales se realizó un ANOVA de medidas repetidas.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-05-26 12:54:00 +0200" MODIFIED_BY="[Empty name]">
+<P>20 participantes (13 hombres y 7 mujeres) diagnosticados con esquizofrenia o trastorno esquizoafectivo.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-26 12:54:36 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo control: antipsicótico + potenciador cognitivo (galantamina): Grupo control: antipsicótico + placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-26 12:57:49 +0200" MODIFIED_BY="[Empty name]">
+<P>Sintomatología clínica (PANSS, SANSS), depresión (CDSS), síntomas exptrapiramidales (AIMS, SAS), atención (CPT-IP), respuesta con inhibición (THree-Card Stroop), attención y memoria de trabajo (LNS del WAIS_III) y velocidad motora (Grooved Pegboard).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-05-26 13:06:18 +0200" MODIFIED_BY="[Empty name]">
+<P>Ensayo clínico aleatorizado de 8 semanas de duración, en el cual se evalúa a los pacientes en línea de base y al final del seguimiento.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-05-14 10:32:48 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-FAGRELUND-2007">
+<CHAR_METHODS MODIFIED="2014-05-14 09:33:58 +0200" MODIFIED_BY="[Empty name]">
+<P>Debido al tamaño de la muestra, la comparación directa entre los dos grupos se realizó con el test de Wilcoxon. Además también se realizaron modelos de regresión logística y lineal para ver la influencia de diferentes variables en los cambios cognitivos.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-05-14 09:35:02 +0200" MODIFIED_BY="[Empty name]">
+<P>11 pacientes (en un principio fueron 21) diagnosticados con esquizofrenia según el ICD-10.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-14 09:36:20 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: antipsicótico (ziprasidona) + potenciador cognitivo (donepezil); Grupo control: antipsicótico (ziprasidona) + placebo</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-14 10:30:17 +0200" MODIFIED_BY="[Empty name]">
+<P>Psicopatología (PANSS), efectos adversos (ESRS), síntomas depresivos (CDSS), función global (CGI y GAF), cognición (CANTAB, Buschke Selective Reminding Task, Rey Complex Figure Task, Trail Making Test A y Trail Making Test B).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-05-14 10:32:48 +0200" MODIFIED_BY="[Empty name]">
+<P>Ensayo clínico aleatorizado de 4 meses de duración. Se realizaron dos mediciones a los pacientes, una en línea de base y otra al final del estudio.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-05-29 13:48:56 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-FREEDMAN-2008">
+<CHAR_METHODS MODIFIED="2014-05-29 12:57:33 +0200" MODIFIED_BY="[Empty name]">
+<P>Se analizó cada una de las variables junto con la variable que idicaba la rama de tratamiento mediante un modelo mixto. Para analizar las tres medidas de cada sujeto se utilizaó MANOVA con matriz de covarianzas no estructurada. Los grados de libertad del denominador fueron calculados según el método de Kenward &amp; Roger.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-05-29 13:18:08 +0200" MODIFIED_BY="[Empty name]">
+<P>31 pacientes (22 hombres y 9 mujeres) diagnosticados con esquizofrenia de acuerdo al DSM-IV-TR.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-29 13:18:05 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: antipsicótico (clozapina y segunda generación y primera generación y un paciente no toma) + potenciador cognitivo (DMXB-A (agonista nicotínico)); Grupo control: antipsicótico (clozapina y segunda generación y primera generación y un paciente no toma) + placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-29 13:21:00 +0200" MODIFIED_BY="[Empty name]">
+<P>Síntomas clínicos (SANS), síntomas extrapiramidales (SAS), aspectos cgnitivos (batería MATRICS, BPRS, Digit span (forward), RBANS) y efectos adversos (checklist con con 37 efectos adversos comunes).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-05-29 13:48:56 +0200" MODIFIED_BY="[Empty name]">
+<P>Es un estudio con diseño cros-over de tres periodos (placebo, DMXB-A 75mg y 450mg) y doble ciego de 4 semanas de duración cada uno. Por lo tanto nos quedaremos con las medidas de resultado obtenidas al finalizar el primer periodo, de esta manera evitamos el efecto carry-over.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-06-26 13:11:02 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Freudenreich-2005">
+<CHAR_METHODS MODIFIED="2014-06-26 12:56:48 +0200" MODIFIED_BY="[Empty name]">
+<P>Las variables clínicas se analizaron mediante ANOVA de medidas repetidas, utilizando el grupo de tratamiento como "between factor" y las visitas como "within factor". Las variables cognitivas se analizaron mediante un ANOVA mixto, el "between factor" fue el grupo de tratamiento y el "within factor" la primera y última visita. Las comparaciones en línea de base se realizaron mediante t-test y el test chi-cuadrado según fuese el tipo de variable. Todos los análisis fueron bilaterales y el nivel de significación de 0.05.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-06-26 13:00:07 +0200" MODIFIED_BY="[Empty name]">
+<P>Entraron en el estudio 36 pacientes diagnosticados con esquizofrenia (33 hombres y 3 mujeres) de acuerdo a los criterios establecidos por el DSM-IV</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-06-26 13:01:20 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: antipsicótico + potenciador cognitivo (donepezil); Grupo control: antipsicótico + placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-06-26 13:07:28 +0200" MODIFIED_BY="[Empty name]">
+<P>Aspectos clínicos: PANSS, síntomas negativos (SANSS), depresión (CDSS). Efectos secundarios: SARS, CATIE, BARS y AIMS. Efectos adversos: SAFTEE. Aspectos cognitivos: atención y memoria a corto plazo (WAIS-III), aprendizaje verbal (HVLT-R), shifting abilities (Trail Making Test A y B), fluencia verbal (BOWAT), función visuo-motora y velocidad motora (GPT)</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-06-26 13:11:02 +0200" MODIFIED_BY="[Empty name]">
+<P>Es un estudio controlado y aleatorizado de 8 semanas de duración, en el que los pacientes son evaluados en: línea de base, 2, 4 y 8 semanas (psicopatología); en línea de base y a las 8 semanas (aspectos cognitivos); cada 2 semanas (efectos adversos). Nosotros nos quedaremos con las medidas en línea de base y al finalizar el estudio.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-05-26 11:57:50 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-FRIEDMAN-2002">
+<CHAR_METHODS MODIFIED="2014-05-26 11:37:24 +0200" MODIFIED_BY="[Empty name]">
+<P>Las comparaciones en línea de base fueron realizadas mediante un t-test en caso de que la variable fuese continua y mediante un test chi-cuadrado en caso de fuesen categóricas. Para evaluar la eficacia del tratamiento se empleó un ANOVA para poder detectar si existían interacciones entre el grupo de tratamiento y el tiempo.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-05-26 11:39:39 +0200" MODIFIED_BY="[Empty name]">
+<P>36 sujetos (32 hombres y 6 mujeres) diagnosticados de esquizofrenia de acuerdo a la DSM-IV mediante la utilización de la entrevista CASH.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-26 11:40:33 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: antipsicótico (risperidona) + potenciador cognitivo (donepezil); Grupo control: antipsicótico (risperidona) + placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-26 11:53:35 +0200" MODIFIED_BY="[Empty name]">
+<P>Severidad de síntomas psiquiátricos (PANSS), severidad de síntomas extrapiramidales (ESRS), <B>atención (CPT)</B>, memoria de trabajo (Trail Making Tests A y B), función ejecutiva (WCST), <B>aprendizaje verbal y repetición retardada (RAVLT)</B>, atención selectiva (DSPT), productividad verbal (verbal fluency) y memoria trabajo espacial (SSWMT). En negrita los outcomes considerados como principales.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-05-26 11:57:50 +0200" MODIFIED_BY="[Empty name]">
+<P>Ensayo clínico controlado de 12 semanas de duración. En relaidad se tienen tres ramas: placebo, donepezil 5mg 12 semanas y donepezil 5mg 4 semanas y 10mg el resto del estudio. Se ha escogido como rama tratamiento la que mantiene la dosis de 5mg de donepezil durante la duración del estudio. Las mediciones se realizaron: en línea de base, semana 4 y semana 12. De estas tres mediciones hemos tomado la basal y la final.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-05-16 11:54:57 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-KEEFE-2008">
+<CHAR_METHODS MODIFIED="2014-05-16 11:43:16 +0200" MODIFIED_BY="[Empty name]">
+<P>Las técnicas estadísticas empleadas dependieron del tipo de variables analizadas: las variables de eficacia fueron analizadas mediante análisis de la covarianza o análisis de la varianza bilateral, las variables sociodemográficas mediante estadísticos descrpitivos.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-05-16 11:46:18 +0200" MODIFIED_BY="[Empty name]">
+<P>245 pacientes (87 hombres y 34 mujeres) diagnosticados con esquizofrenia o trastorno esquizafectivo según el DSM-IV.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-16 11:49:15 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: Antipsicótico + potenciador cognitivo (donepezil); Grupo control: Antipsicótico + placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-16 11:53:07 +0200" MODIFIED_BY="[Empty name]">
+<P>Aspectos cognitivos (puntuación compuesta a partir de las puntuaciones individuales de la batería CATIE), aspectos neurológicos y psicométricos (CGI-S, CGI-I, PANSS, MADRS, AIMS, SAS, BAS, PPFS, RFS) y eficacia, tolerabilidad y cumplimiento (efectos adversos, mediante COSTART).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-05-16 11:54:57 +0200" MODIFIED_BY="[Empty name]">
+<P>Ensayo clínico aleatorizado de 12 semanas de duración. Se realizaron mediciones en línea de base y a las 6 y 12 semanas. Por lo tanto nos quedaremos con las mediciones recogidas en la última medición.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-05-28 16:55:23 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-LEE-2007">
+<CHAR_METHODS MODIFIED="2014-05-28 16:46:53 +0200" MODIFIED_BY="[Empty name]">
+<P>Las variables en línea de base de los dos grupos de compararon mediante t-test o chi-cuadrado según el tipo de variable que fuese. La eficacia del tratamiento, se comparó en cada medición mediante t-test y se realizó un ANOVA de medidas repetidas para evaluar la eficacia del tratamiento.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-05-28 16:49:47 +0200" MODIFIED_BY="[Empty name]">
+<P>24 pacientes (16 hombres y 8 mujeres) diagnosticados de esquizofrenia según el DSM-IV.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-28 16:51:13 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: antipsicótico (haloperidol) + potenciador cognitivo (donepezil); Grupo control: antipsicótico (haloperidol) + placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-28 16:55:23 +0200" MODIFIED_BY="[Empty name]">
+<P>Aspectos clínicos: sintomatología clínica (BPRS), depresión (HAM-D), gravedad de la enfermedad (CGI). Aspectos neuropsicológicos: memoria (RAVLT), memoria inmediata (HVLT), funciones ejecutivas (STROOP), velocidad visual-motora (Trail making test A), productividad verbal (VFT), sistema léxico (CFT), habilidad de lenguaje (BNT).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-05-28 16:48:31 +0200" MODIFIED_BY="[Empty name]">
+<P>Es un ensayo clínico controlado, aleatorizado y doble ciego de 12 semanas de duración. Los pacientes fueron evaluados evaluados en línea de base y a las 4, 8, y 12 semanas. De este modo nos quedaremos con la medidas en línea de base y las realizadas al final del seguimiento.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-05-28 17:46:21 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-LEE_x0028_2_x0029_-2007">
+<CHAR_METHODS MODIFIED="2014-05-28 17:34:19 +0200" MODIFIED_BY="[Empty name]">
+<P>Las comparaciones en línea de base se realizaron mediante el test de Mann-Whitney o el test exacto de Fisher según fuesra el tipo de la misma. Para evaluar la eficacia del tratamiento, se realizaó un ANOVA de medidas repetidas donde el grupo era el factor entre-grupos y el tiempo el intra-grupos.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-05-28 17:36:41 +0200" MODIFIED_BY="[Empty name]">
+<P>24 pacientes (14 hombres y 10 mujeres) diagnosticados con esquizofrenia según el DSM-IV</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-28 17:37:34 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: antipsicótico (convencional) + potenciador cognitivo (galantamina); Grupo control: antipsicótico (convencional) + placebo</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-28 17:44:53 +0200" MODIFIED_BY="[Empty name]">
+<P>Aspectos clínicos: tomas (BPRS), depresión (HAMD); Aspectos cognitivos: K-MMSE, memoria inmediata (HVLT), Digit span (forward y backward), Digit substitution test, STROOP, velocidad visual.motora (Trail Making Test A), productividad verbal (VFT), BNT.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-05-28 17:46:21 +0200" MODIFIED_BY="[Empty name]">
+<P>Es un ensayo clínico aleatorizado doble ciego de 12 semanas de duración. Las medidas de resultado fueron evaluadas en lína de base, a las 6 semanas y al final del seguimiento. Nosotros nos quedaremos on las medidas basal y a las 12 semanas. Repotadas en media y desviación estándar.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-05-12 11:35:56 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-LIGHT-2005">
+<CHAR_METHODS MODIFIED="2014-05-08 17:17:46 +0200" MODIFIED_BY="[Empty name]">
+<P>ANOVA de medidas repetidas para las puntuaciones de la PANSS y ANOVA previa transformación logarítmica de los valores recogidos en las pruebas cognitivas.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-05-08 17:18:48 +0200" MODIFIED_BY="[Empty name]">
+<P>15 pacientes diagnosticados con esquizofrenia de acuerdo al DSM-IV (11 hombres y 4)</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-08 17:20:27 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: Antipsicótico (atípicos o combinación atípicos y típicos) + potenciador cognitivo (donepezil); Grupo control: Antipsicótico (atípicos o combinación atípicos y típicos) + placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-08 17:21:40 +0200" MODIFIED_BY="[Empty name]">
+<P>Aspectos clínicos (PANSS), aspectos cognitivos (Rey Auditory Verbal Learning Test (RAVLT), trails A y trails B)</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-05-12 11:35:56 +0200" MODIFIED_BY="[Empty name]">
+<P>Estudio cruzado con doble ciego, por lo que únicamente tendremos en cuenta el primer periodo de 18 semanas de duración (8 en cada periodo y 2 de washout). Las medidas se recogen cada 4 semanas y se reportan las medias de las dos mediciones de cada periodo. Como finalmente nos quedamos con los datos que hacen referencia al primer periodo, las mediciones utilizadas serán únicamente las medias de las mediciones a 2 y 4 semanas.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-05-16 12:33:46 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-MAZEH-2006">
+<CHAR_METHODS MODIFIED="2014-05-16 12:24:46 +0200" MODIFIED_BY="[Empty name]">
+<P>Las comparaciones en línea de base para las variables continuas se hicieron mediante t-tests para dos muestras y mediante test chi-cuadrado o test exacto de Fisher para las categóricas. Para analizar las diferencias entre las dos ramas, se realizó ANOVA.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-05-16 12:25:34 +0200" MODIFIED_BY="[Empty name]">
+<P>20 pacientes de más de 60 años (15 mujeres y 5 hombres) diagnosticados con esquizofrenia de acuerdo al DSM-IV.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-16 12:27:28 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: Antipsicóticos (olanzapina 4, risperidona 3, clozapina 3, zucoplenthixol 1, perphenazine 1, penfluridol 1 y fluphenazine 1).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-16 12:29:39 +0200" MODIFIED_BY="[Empty name]">
+<P>Severidad de los síntomas (PANSS, CGI) y aspectos cognitivo (ADAS-Cog)</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-05-16 12:33:46 +0200" MODIFIED_BY="[Empty name]">
+<P>Estudio cruzado con doble ciego cuya duración total es de 24 semanas. Debido al diseño del estudio y para evitar mediciones sesgadas, únicamente emplearemos las mediciones del primer periodo (12 semanas). Las medidas se reportan mediante la diferencia media con respecto a línea de base.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-05-29 15:53:07 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-MUSCATELLO-2010_x002a_">
+<CHAR_METHODS MODIFIED="2014-05-29 15:42:36 +0200" MODIFIED_BY="[Empty name]">
+<P>La comparación entre grupos tanto en línea de base como al finalizar el seguimiento se realizó con el test U de Mann-Whitney para dos muestras independientes. Las diferencias entre grupos para evaluar la eficacia del tratamiento se realizó mediante el test de Wilcoxon y para corregir el p-valor por múiltiples comparaciones, se empleó la correción de Bonferroni.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-05-29 15:45:30 +0200" MODIFIED_BY="[Empty name]">
+<P>43 pacientes (31 hombres y 12 mujeres) diagnosticados con esquizofrenia según el DSM-IV.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-29 15:47:23 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: antipsicótico (clozapina) + potenciador cognitivo (topiramate); Grupo placebo: antipsicótico (clozapina).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-29 15:50:32 +0200" MODIFIED_BY="[Empty name]">
+<P>Aspectos clínicos: valoración general (BPRS), síntomas negativos (SANS), síntomas positivos (SAPS), depresión (CDSS). Aspectos neurocognitivos: función ejecutiva (WCST), fluencia verbal (COWAT) y Stroop Colour-word Test.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-05-29 15:53:07 +0200" MODIFIED_BY="[Empty name]">
+<P>Ensayo clínico aleatorizado de dos ramas y doble ciego de 24 semanas de duración. Los pacientes tuvieron que hacer 10 visitas. Las medidas de resultado clínicas y neurocognitivas se recogieron a las 0, 12 y 24 semanas. Nosotros nos quedaremos con las mediciones en línea de base ya al final del seguimiento.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-06-09 16:10:00 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-REZAZADEH-2008">
+<CHAR_METHODS MODIFIED="2014-06-09 15:56:56 +0200" MODIFIED_BY="[Empty name]">
+<P>Analiza las variables relacionadas con la PANSS mediante un ANOVA de medidas repetivas, done el grupo de tratamiento es el factor inter-sujetos y las diferentes medidas el factor intra-sujetos. Las variables cognitivas las analiza mediante t-test enfrentando las medidas de ambos grupos tanto en línea de base como al final del tratamiento.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-06-09 15:57:54 +0200" MODIFIED_BY="[Empty name]">
+<P>Se seleccionaron 30 pacientes (19 hombres y 11 mujeres) diagnosticadas de esquizofrenia según el DSM-IV-TR.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-06-09 15:59:01 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: potenciador cognitivo (donepezil) + antipsicótico (risperidona); Grupo control: antipsicótico (risperidona) + placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-06-09 16:07:48 +0200" MODIFIED_BY="[Empty name]">
+<P>Relativas a la situación clínica: PANSS Positiva, PANSS negativa, PANSS psicopatología general y PANSS total. En relación a la situación congitiva: funciones ejecutivas (WCST), memoria visual (WMS-R: memoria figural, reprodicción visual y visual paired), memoria verbal (WMS-R: memoria lógica y verbal paired), atención y memoria de trabajo (WMS-R: digit-span). Efectos adversos mediante un checklist.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-06-09 16:10:00 +0200" MODIFIED_BY="[Empty name]">
+<P>Es un ensayo clínico y aleatorizado de 12 semanas de duración. La dosis de donepezil durante las 4 primeras semanas es de 5 mg/día y de 4-6 mg/día las 8 siguientes. Los pacientes son evaluados a: línea de base 8 y 12 semanas.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-05-16 12:49:43 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-RISCH-2007">
+<CHAR_METHODS MODIFIED="2014-05-16 12:42:47 +0200" MODIFIED_BY="[Empty name]">
+<P>Los cambios en la PANSS fueron analizados mediante un ANOVA de medidas repetidas y además se realizaron t-tests para la diferencia entre linea de base-donepezil y línea de base-placebo.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-05-16 12:44:17 +0200" MODIFIED_BY="[Empty name]">
+<P>13 pacientes diagnosticados con esquizofrenia (11) o con trastorno esquizoafectivo (2) según el DSM-IV.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-16 12:45:35 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: Antipsicótico (olanzapina, risperidona, clozapina) + potenciador cognitivo (donepezil); Grupo control: Antipsicótico (olanzapina, risperidona, clozapina) + placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-16 12:47:19 +0200" MODIFIED_BY="[Empty name]">
+<P>aspectos sintomatológicos (PANSS) y síntomas extrapiramidales (AIMS, Simpson-Angus Scale y Barnes Akathisia Rating Scale).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-05-16 12:49:43 +0200" MODIFIED_BY="[Empty name]">
+<P>Es un estudio cruzado con doble ciego de 24 semanas de duración. Debido al diseño del mismo, nos quedaremos con las mediciones al terminar el primer período para evitar el efecto carry-over (medición a las 12 semanas). LAs mediciones se reportan en forma de difernias media repspecto a línea de base para el grupo tratamiento y para el control.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-05-26 15:10:33 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-SCHUBERT-2006">
+<CHAR_METHODS MODIFIED="2014-05-26 14:53:27 +0200" MODIFIED_BY="[Empty name]">
+<P>Para ver la significación del tratamiento, se evaluaron los cambios en las puntuaciones con respecto a línea de base en ambas ramas. La herramienta para estudiar las diferencias fue el t-test.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-05-26 14:55:58 +0200" MODIFIED_BY="[Empty name]">
+<P>17 pacientes (16 hombres y 1 mujer) diagnosticados con esquizofrenia o trastorno esquizoafectivo según el DSM-IV.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-26 14:56:43 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: antipsicótico (risperidona) + potenciador cognitivo (galantamina); Grupo control: antipsicótico (risperidona) + placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-26 15:02:37 +0200" MODIFIED_BY="[Empty name]">
+<P>Situación clínica (PANSS, CGI, AIMS, SAS) y estado cognitivo (<B>batería RBANS de cinco factores, uno por cada dominio cognitivo: memoria inmediata (IM) y construccional (VC), lenguaje (L), atención (AT) y delayed memory (DM)</B>, CPT, OMMT, TOT y UOA). En negrita el otcome principal.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-05-26 15:10:33 +0200" MODIFIED_BY="[Empty name]">
+<P>Ensayo clínico aleatorizado de 8 semanas de duración. Las variables se miden en diferentes momentos del estudio, las cognitivas: TOT (día 1 y 50), RBANS, CPT y UOA (día 1 y 57). Las variables clínicas PANSS, CGI, AIMS y SAS (días 1, 8, 15, 29, 50 y 57). </P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-05-08 13:57:26 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-TUGAL-2004">
+<CHAR_METHODS MODIFIED="2014-04-11 13:13:22 +0200" MODIFIED_BY="[Empty name]">
+<P>Análisis estadísticos mediante ANOVA para tablas 2X2.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-04-11 13:12:26 +0200" MODIFIED_BY="[Empty name]">
+<P>12 pacientes diagnosticados con esquizofrenia según la DSM-IV.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-05-08 13:57:26 +0200" MODIFIED_BY="[Empty name]">
+<P>Grupo tratamiento: Antipsicóticos típicos (fluphenazine o pimozide) + potenciador cognitivo (donepezil); Grupo control: Antipsicóticos típicos (fluphenazine o pimozide)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-05-07 16:39:36 +0200" MODIFIED_BY="[Empty name]">
+<P>Funciones ejecutivas (WinsconsinCard Sorting Test (WCST)), resistencia a la interferencia (Trail Making Test Partes A y B), memoria visual (Weschler Memory Scale (WMS-R), los subtest: memorial figurativa, reproducción visual, pares verbales asociados), memoria verbal (WMS-R, subtests de memoria lógica y pares verbales asociados), atención y memoria de trabajo (WMS-R el subtest dígitos), habilidad constructiva (Weschler Adult Intelligence Scale (WAIS)), fluencia verbal (WHO).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-04-11 13:14:15 +0200" MODIFIED_BY="[Empty name]">
+<P>Estudio cruzado con doble ciego, por lo que sólo tendremos en cuenta el primer peridodo para evitar el efecto carry-over.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2014-06-27 10:28:15 +0200" MODIFIED_BY="[Empty name]">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2014-06-26 13:14:45 +0200" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-08 15:43:12 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-AKHONDAZEH-2008">
+<DESCRIPTION>
+<P>Utiliza un generador de números aleatorios por ordenador.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-28 15:25:38 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-BUCHANAN-2008">
+<DESCRIPTION>
+<P>No se menciona en el estudio.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-26 12:59:47 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-DYER-2008">
+<DESCRIPTION>
+<P>La aleatorización se realizó mediante bloques de 4.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-14 10:44:30 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-FAGRELUND-2007">
+<DESCRIPTION>
+<P>No se menciona en la publicación</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-29 13:48:17 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-FREEDMAN-2008">
+<DESCRIPTION>
+<P>No se menciona el método de aleatorización.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-26 12:00:44 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-FRIEDMAN-2002">
+<DESCRIPTION>
+<P>No se menciona el método mediante el cual se ha realizado la aleatorización.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-06-26 13:14:45 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Freudenreich-2005">
+<DESCRIPTION>
+<P>No aparece el método utilizado para generar la aleatorización.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-16 12:11:39 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-KEEFE-2008">
+<DESCRIPTION>
+<P>El método de aletaroización fue computerizado</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-28 16:57:04 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-LEE-2007">
+<DESCRIPTION>
+<P>No se menciona el método de aleatorización.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-28 17:47:01 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-LEE_x0028_2_x0029_-2007">
+<DESCRIPTION>
+<P>No aparece el método de creación de la asignación aleatoria.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-12 11:06:08 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-LIGHT-2005">
+<DESCRIPTION>
+<P>El método de asiganción de los pacientes a los tratamientos se realiza mediante aleatorización simple</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-16 12:35:02 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-MAZEH-2006">
+<DESCRIPTION>
+<P>No se menciona el método de aleatorización.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-29 15:53:29 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-MUSCATELLO-2010_x002a_">
+<DESCRIPTION>
+<P>Es una aleatorización automatizada.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-06-09 16:11:53 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-REZAZADEH-2008">
+<DESCRIPTION>
+<P>No se menciona cómo se genera la aleatorización. Lo único que aparece es que es 1:1.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-16 12:50:08 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-RISCH-2007">
+<DESCRIPTION>
+<P>La aleatorización se realizó mediante una table de números aleatoirios generada por ordenador</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-26 15:05:49 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-SCHUBERT-2006">
+<DESCRIPTION>
+<P>No se menciona el método de aleatorización.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-08 15:43:22 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-TUGAL-2004">
+<DESCRIPTION>
+<P>No menciona el sistema utilizado, únicamente aparece en la publicación "Patients were randomly assigned".</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2014-06-26 13:15:06 +0200" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-08 15:43:13 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-AKHONDAZEH-2008">
+<DESCRIPTION>
+<P>No se describe en el estudio.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-28 15:26:15 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-BUCHANAN-2008">
+<DESCRIPTION>
+<P>No se menciona nada al respecto.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-26 13:00:02 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-DYER-2008">
+<DESCRIPTION>
+<P>Se menciona que la aleatorización fue ocultada</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-14 10:46:04 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-FAGRELUND-2007">
+<DESCRIPTION>
+<P>No se menciona, algo común si no está reportado el método de la generación de la secuencia de aleatorización.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-29 13:48:25 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-FREEDMAN-2008">
+<DESCRIPTION>
+<P>No se menciona.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-26 12:05:53 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-FRIEDMAN-2002">
+<DESCRIPTION>
+<P>No se menciona nada al respecto.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-06-26 13:15:06 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Freudenreich-2005">
+<DESCRIPTION>
+<P>No se menciona.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-16 12:13:48 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-KEEFE-2008">
+<DESCRIPTION>
+<P>El fármaco fue repartido empaquetado de la misma manera para evitar que tanto el paciente como el investigador supiesen de qué se estaba dando.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-28 16:57:17 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-LEE-2007">
+<DESCRIPTION>
+<P>No se menciona nada al respecto.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-28 17:47:13 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-LEE_x0028_2_x0029_-2007">
+<DESCRIPTION>
+<P>No menciona nada la respecto.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-12 11:11:54 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-LIGHT-2005">
+<DESCRIPTION>
+<P>No se describe en la publicación</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-16 12:35:23 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-MAZEH-2006">
+<DESCRIPTION>
+<P>No se dice nada al respecto.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-29 15:53:40 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-MUSCATELLO-2010_x002a_">
+<DESCRIPTION>
+<P>Se oculta hasta el final del seguimiento.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-06-09 16:12:09 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-REZAZADEH-2008">
+<DESCRIPTION>
+<P>No se menciona.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-16 12:50:39 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-RISCH-2007">
+<DESCRIPTION>
+<P>No se menciona el método de ocultación de la secuencia.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-26 15:07:27 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-SCHUBERT-2006">
+<DESCRIPTION>
+<P>El aspecto del tratamiento y el placebo es idéntico.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-08 15:43:22 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-TUGAL-2004">
+<DESCRIPTION>
+<P>No lo menciona.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" MODIFIED="2014-06-26 13:15:43 +0200" MODIFIED_BY="[Empty name]" NO="3">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-08 15:43:14 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-AKHONDAZEH-2008">
+<DESCRIPTION>
+<P>El estudio es doble ciego, con lo que ni los pacientes ni los investigadores conocen el tratamiento asignado.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-28 15:26:45 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-BUCHANAN-2008">
+<DESCRIPTION>
+<P>El estudio es doble ciego, por lo que ni pacientes ni investigadores saben la rama a la que pertenecen los primeros.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-26 13:01:24 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-DYER-2008">
+<DESCRIPTION>
+<P>El estudio es doble ciego, con lo que ni los pacientes ni los investigadores saben la rama de tratamiento asiganda para los primeros.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-14 10:47:02 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-FAGRELUND-2007">
+<DESCRIPTION>
+<P>El ensayo es doble ciego, por lo que los pacientes no saben a qué grupo han sido asignados y los evaluadores tampoco lo conocen.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-29 13:49:48 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-FREEDMAN-2008">
+<DESCRIPTION>
+<P>El estudio es doble ciego, por lo que ni los pacientes ni los investigadores conocen la rama a la que pertenecen los primeros.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-26 12:06:27 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-FRIEDMAN-2002">
+<DESCRIPTION>
+<P>El estudio es doble ciego, por lo que ni los pacientes ni los investigadores están al corriente de la rama a la que pertenecen los primeros.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-06-26 13:15:43 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Freudenreich-2005">
+<DESCRIPTION>
+<P>El estudio es doble ciego por lo que ni los pacientes ni los investigadores conocen la rama a la que pertenecen los primeros.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-16 12:14:19 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-KEEFE-2008">
+<DESCRIPTION>
+<P>El estudio es doble ciego, por lo que ni el paciente ni el médico sabe la asignación del primero.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-28 16:57:47 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-LEE-2007">
+<DESCRIPTION>
+<P>Es doble ciego, por lo que ni los pacientes ni los investigadores conocen la asiganción de los primeros.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-28 17:47:44 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-LEE_x0028_2_x0029_-2007">
+<DESCRIPTION>
+<P>El estudio es doble ciego, por lo que no los pacientes ni los investigadores conocen la asignación de los primeros.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-12 11:13:40 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-LIGHT-2005">
+<DESCRIPTION>
+<P>El estudio es doble ciego, por tanto, los evaluadores y los participantes desconocían la rama a la que pertencían éstos últimos</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-16 12:35:52 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-MAZEH-2006">
+<DESCRIPTION>
+<P>El estudio es doble ciego por lo que ni pacientes ni investigadores conocen la asignación de los primeros.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-29 15:54:20 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-MUSCATELLO-2010_x002a_">
+<DESCRIPTION>
+<P>El etudio es doble ciego, por lo que ni los pacientes ni los investigadores conocían la rama a la que pertenecían los primeros.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-06-09 16:12:42 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-REZAZADEH-2008">
+<DESCRIPTION>
+<P>Es doble ciego por lo que ni los pacientes ni los investigadores saben la rama de tratamiento de los primeros.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-16 12:51:25 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-RISCH-2007">
+<DESCRIPTION>
+<P>El estudio es doble ciego por lo que ni el paciente ni el investigador saben la asignación del tratamiento.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-26 15:07:37 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-SCHUBERT-2006">
+<DESCRIPTION>
+<P>El estudio es doble ciego.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2014-05-08 12:39:40 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-TUGAL-2004">
+<DESCRIPTION>
+<P>El estudio es doble ciego, por lo que ni pacientes ni investigadores conocen la rama en la que están los sujetos que toman parte en el estudio.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" MODIFIED="2014-06-26 13:16:15 +0200" MODIFIED_BY="[Empty name]" NO="4">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-08 15:43:15 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-AKHONDAZEH-2008">
+<DESCRIPTION>
+<P>Se menciona que todos los que toman parte en el estudio estában cegados.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-28 15:27:55 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-BUCHANAN-2008">
+<DESCRIPTION>
+<P>No se dice nada al respecto.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-26 13:01:55 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-DYER-2008">
+<DESCRIPTION>
+<P>Se menciona que el aspecto del tratamiento y del placebo era idéntico.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-14 10:48:44 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-FAGRELUND-2007">
+<DESCRIPTION>
+<P>No se menciona nada al respecto.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-29 13:50:35 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-FREEDMAN-2008">
+<DESCRIPTION>
+<P>El aspecto del tratamiento y del placebo es el mismo, por lo que los evaluadores no estaban en condiciones de saber qué estaba tomando cada paciente.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-26 12:08:19 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-FRIEDMAN-2002">
+<DESCRIPTION>
+<P>No se menciona.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-06-26 13:16:15 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Freudenreich-2005">
+<DESCRIPTION>
+<P>El aspecto del tratamiento y del placebo es idéntico.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-16 12:18:49 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-KEEFE-2008">
+<DESCRIPTION>
+<P>No se menciona nada al respecto.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-28 16:57:59 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-LEE-2007">
+<DESCRIPTION>
+<P>No se menciona nada al respecto.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-28 17:48:10 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-LEE_x0028_2_x0029_-2007">
+<DESCRIPTION>
+<P>No aparece nada al respecto.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-12 11:17:24 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-LIGHT-2005">
+<DESCRIPTION>
+<P>Se menciona en la publicación que el cegamiento sólo se rompió tras la finalización del estudio</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-16 12:36:20 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-MAZEH-2006">
+<DESCRIPTION>
+<P>Los evaluadores están ciegos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-29 15:54:43 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-MUSCATELLO-2010_x002a_">
+<DESCRIPTION>
+<P>El formato en el que se repartían el tratamiento y el placebo era idéntico.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-06-09 16:13:04 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-REZAZADEH-2008">
+<DESCRIPTION>
+<P>Tanto el donepezil como el placebo se reparten con idéntico formato.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-16 12:52:01 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-RISCH-2007">
+<DESCRIPTION>
+<P>La medicación se reparte en cápsulas opacas y el placebo tiene la misma apariencia que el tratamiento.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-26 15:07:48 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-SCHUBERT-2006">
+<DESCRIPTION>
+<P>No se dice nada al respecto.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2014-05-08 12:46:57 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-TUGAL-2004">
+<DESCRIPTION>
+<P>No habla de si los evaluadores están cegados, ni siquiera se menciona si los propios evaluadores son los que analizan los datos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="GROUP" MODIFIED="2014-06-26 13:19:41 +0200" MODIFIED_BY="[Empty name]" NO="5">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-05.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-26 11:21:14 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-AKHONDAZEH-2008">
+<DESCRIPTION>
+<P>La pérdida de pacientes es la misma en los dos grupos de tratamiento (1 paciente).</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-28 15:29:20 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-BUCHANAN-2008">
+<DESCRIPTION>
+<P>La pérdida de pacientes es muy parecida en los dos grupos. 7 pacientes en el grupo tratamiento de los cuales sólo 3 se deben a efectos adversos y 6 en el grupo control de los que 3 se deben a efectos adversos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-26 13:03:39 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-DYER-2008">
+<DESCRIPTION>
+<P>Se menciona en la publicación que tanto en la rama de tratamiento como en la rama control 1 paciente abandonó el estudio. El paciente del gupo tratamiento debido a dolores musculares y el del grupo placebo debido a que no quiso seguir tomando la medicación.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-14 10:53:49 +0200" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-FAGRELUND-2007">
+<DESCRIPTION>
+<P>De los 21 pacientes seleccionados en un principio, 10 fueron excluidos o retirados. Las causas son las siguientes: efecto insuficente de la ziprasidona en los síntomas psicóticos (4 sujetos), outlier en las pruebas cognitivas (1 sujeto), anormalidades estructurales (2 sujetos), padecimiento subjetivo de efectos secundarios (1 sujeto en la rama placebo) y aumento de la puntuación en la escala EPS tras 3 semanas en el estudio (1 sujeto).</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-29 13:52:26 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-FREEDMAN-2008">
+<DESCRIPTION>
+<P>No existen pérdidas a lo largo del estudio.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-26 12:09:39 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-FRIEDMAN-2002">
+<DESCRIPTION>
+<P>Únicamente dos sujetos debieron abandonar el estudio (en la rama no considerada) debido a un incremento en la agitación y a la fata de cooperación en el estudio.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-06-26 13:19:41 +0200" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Freudenreich-2005">
+<DESCRIPTION>
+<P>Se pierden 4 pacientes antes de empezar el estudio (originalmente eran 40), durante el estudio se perdieron 4 sujetos por efectos adversos no relacionados con el donepezil. Únicamente se tienen los datos completos de 30 sujetos y los datos faltantes se imputaron mediante LOCF.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-16 12:18:02 +0200" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-KEEFE-2008">
+<DESCRIPTION>
+<P>Se menciona que se pierden pacientes a lo largo del estudio. Algunos de lo cuales lo hacen por efectos secundarios o por violaciones de protocolo.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-28 16:59:57 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-LEE-2007">
+<DESCRIPTION>
+<P>Solamente uno de los pacientes del grupo tratamiento abandonó el estudio pero por razones ajenas al tratamiento. Pero se le recogieron resultados en la semana 4 y la semana 8.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-28 17:50:18 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-LEE_x0028_2_x0029_-2007">
+<DESCRIPTION>
+<P>Se perdieron 2 pacientes en la rama de tratamiento. Uno de ellos lo dejó por él mismo y el otro por dolores de cabeza atribuidos al tratamiento.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-12 11:22:03 +0200" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-LIGHT-2005">
+<DESCRIPTION>
+<P>De los 24 sujetos iniciales, sólamente 15 tomaron parte en el estudio. De los 9 restantes, 5 no pudieron tolerar el test en línea de base, 2 fueron retirados y no aparece la causa, 1 fue dado de alta y otro dejó el estudio durante el seguimiento por otras razones no relacionadas con el tratamiento.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-16 12:37:35 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-MAZEH-2006">
+<DESCRIPTION>
+<P>Aparece mencionado que tres sujetos no completaron el estudio. Dos por haber muerto por causas ajenas al estudio y otro por el incremento de su agitación.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-29 15:57:37 +0200" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-MUSCATELLO-2010_x002a_">
+<DESCRIPTION>
+<P>De los 60 pacientes aleatorizados al principio se perdieron 17, 11 en el grupo tratamiento y 6 en el grupo placebo. Las pérdidas estuvieron relacionadas con falta de cumplimiento con las visitas, enfermedades no relacionadas con el tratamiento y por cambios de opinión con respecto a la participación en el estudio.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-06-09 16:13:24 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-REZAZADEH-2008">
+<DESCRIPTION>
+<P>De los 30 pacientes que inician el estudio, terminan la totalidad de ellos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-16 12:52:31 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-RISCH-2007">
+<DESCRIPTION>
+<P>No se pierde ningún paciente durante el estudio.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-26 15:08:41 +0200" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-SCHUBERT-2006">
+<DESCRIPTION>
+<P>Se mencionan pérdidas en el grupo placebo (3) y se imputan los datos faltantes debiso a estas pérdidas mediante LOCF.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-05.01" MODIFIED="2014-05-08 15:43:25 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-TUGAL-2004">
+<DESCRIPTION>
+<P>Aparece en el artículo que ningún paciente abandona el estudio.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" MODIFIED="2014-06-27 10:28:15 +0200" MODIFIED_BY="[Empty name]" NO="6">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-08 15:42:38 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-AKHONDAZEH-2008">
+<DESCRIPTION>
+<P>Todos los outcomes descritos en material y métodos fueron reportados indepenidentemente de la significación estadística.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-28 15:30:19 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-BUCHANAN-2008">
+<DESCRIPTION>
+<P>Todas las medidas de resultado que aparecen en el protocolo están reportadas en el apartado de resultados de la publicación independientemente de su significación estadística. La forma de reporte es de puntuación media y desviación estándar.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-26 13:04:13 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-DYER-2008">
+<DESCRIPTION>
+<P>Todos los outcomes mecionados en el protocolo aparecen en la publicación independientemente de su significación estadística.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-14 10:54:40 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-FAGRELUND-2007">
+<DESCRIPTION>
+<P>Se reportan en la publicación todas las medidas de los outcomes descritos independientemente de su significación estadística.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-29 13:52:16 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-FREEDMAN-2008">
+<DESCRIPTION>
+<P>Todos los outcomes de resultado mencionados se reportan indepenidentemente de su significación estadística.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-26 12:10:32 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-FRIEDMAN-2002">
+<DESCRIPTION>
+<P>Se reportan las mediciones de todos los outcomes mencionados en el estudio independientemente de su significación. Aunque es cierto que sólo se reporta la sd para los outcomes primarios.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-06-27 10:28:15 +0200" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Freudenreich-2005">
+<DESCRIPTION>
+<P>Sólo las variables de resultado con diferencias significativas se reportan bien en tabla. Las no significativas únicamente aparecen mencionadas en el texto.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-16 12:18:46 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-KEEFE-2008">
+<DESCRIPTION>
+<P>Todas las variables de resultado que se mencionan en la parte de metodología, se reportan en la publicación independientemente de su significación estadística.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-28 17:00:27 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-LEE-2007">
+<DESCRIPTION>
+<P>Todas y cada una de las medidas de resultado mencionadas fueron reportadas independientemente de su significación estadística.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-28 17:50:47 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-LEE_x0028_2_x0029_-2007">
+<DESCRIPTION>
+<P>Todas las medidas de resultado que se mencionan en el estudio aparecen reportadas independientemente de la dignificación de las mismas.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-12 11:22:51 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-LIGHT-2005">
+<DESCRIPTION>
+<P>Todos los resultados relacionados con los outcomes fueron reportados</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-16 12:38:01 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-MAZEH-2006">
+<DESCRIPTION>
+<P>La totalidad de las medidas de resultado fueron reportadas independientemente de su significación.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-29 15:58:21 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-MUSCATELLO-2010_x002a_">
+<DESCRIPTION>
+<P>Todas las medidas de resultado que se mencionan en el apartado de métodos se reportan en el estudio independientemente de su significación estadística.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-06-09 16:14:06 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-REZAZADEH-2008">
+<DESCRIPTION>
+<P>Todas las variables de resultado que se mencionan en la publicación, aparecen reportadas en los resultados independientemente de que fueran significativas o no.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-16 12:53:14 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-RISCH-2007">
+<DESCRIPTION>
+<P>Todos los outcomes descritos se reportan en el apartado de resultados independientemente de su significación estadística.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-26 15:09:09 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-SCHUBERT-2006">
+<DESCRIPTION>
+<P>Todas las variables mecnionadas en el protocolo, aparecen reportadas independientemente de su significación estadística.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-08 12:50:46 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-TUGAL-2004">
+<DESCRIPTION>
+<P>Todos los outcomes descritos se han recogido acorde a lo especificado en la publicación (media +/- desviación estándar)</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-07" LEVEL="STUDY" MODIFIED="2014-06-26 13:21:31 +0200" MODIFIED_BY="[Empty name]" NO="7">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-08 15:43:06 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-AKHONDAZEH-2008">
+<DESCRIPTION>
+<P>El estudio parece estar libre de otras posibles fuentes de sesgos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-28 15:30:35 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-BUCHANAN-2008">
+<DESCRIPTION>
+<P>No parece que exista riesgo de otro tipo de sesgos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-26 13:04:27 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-DYER-2008">
+<DESCRIPTION>
+<P>No parece que exista amenaza de otro tipo de sesgo.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-14 10:55:02 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-FAGRELUND-2007">
+<DESCRIPTION>
+<P>No parece que exista riesgo de otro tipo de sesgos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-29 13:52:39 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-FREEDMAN-2008">
+<DESCRIPTION>
+<P>No parece que haya riesgo de otro tipo de sesgos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-26 12:10:47 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-FRIEDMAN-2002">
+<DESCRIPTION>
+<P>No parece que exista riesgo de otro tipo de sesgo.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-06-26 13:21:31 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Freudenreich-2005">
+<DESCRIPTION>
+<P>No parece que exista riesgo de presencia de más sesgos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-16 12:19:05 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-KEEFE-2008">
+<DESCRIPTION>
+<P>No parece que haya riesgo de otro tipo de sesgos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-28 17:00:46 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-LEE-2007">
+<DESCRIPTION>
+<P>No parece que haya riesgo de otros sesgos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-28 17:50:59 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-LEE_x0028_2_x0029_-2007">
+<DESCRIPTION>
+<P>No parece que haya riesgo de otro tipo de sesgos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-12 11:23:11 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-LIGHT-2005">
+<DESCRIPTION>
+<P>No parece que puedan haber otras fuentes de sesgos en el estudio</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-16 12:38:15 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-MAZEH-2006">
+<DESCRIPTION>
+<P>No parece que exista riesgo de ningún otro tipo de sesgo.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-29 15:58:44 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-MUSCATELLO-2010_x002a_">
+<DESCRIPTION>
+<P>No parece que pueda haber amenazas de otro tipo de sesgos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-06-09 16:14:19 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-REZAZADEH-2008">
+<DESCRIPTION>
+<P>No parece que haya riesgo de otro tipo de sesgos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-16 12:53:31 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-RISCH-2007">
+<DESCRIPTION>
+<P>No parece que el estudio sea susceptible de otro tipo de sesgos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-26 15:09:23 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-SCHUBERT-2006">
+<DESCRIPTION>
+<P>No parece que haya riesgo de otros sesgos.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-05-08 12:51:14 +0200" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-TUGAL-2004">
+<DESCRIPTION>
+<P>El estudio parece estar libre de otras fuentes de sesgo.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES MODIFIED="2014-05-07 16:40:46 +0200" MODIFIED_BY="[Empty name]"/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES"/>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>
